@@ -1,0 +1,15 @@
+Issuer: THALES
+Issuer: THEOLIA
+Issuer: UBISOFT ENTERTAINMENT
+Issuer: VALEO
+Issuer: VALLOUREC
+Issuer: VEOLIA ENVIRONNEMENT
+Issuer: VIRBAC
+Issuer: WENDEL
+Issuer: ZODIAC AEROSPACE
+
+Errors:
+
+Done.
+
+Script ran 2 min and 12 sec

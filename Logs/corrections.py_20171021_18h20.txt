@@ -1,0 +1,244 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 136
+
+
+Rows before: 136
+
+Rows deleted: 0
+
+Rows after: 136
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 39609
+
+
+Rows before: 39609
+
+Rows deleted: 0
+
+Rows after: 39609
+
+Done.
+
+Script ran for 4.85 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('EGERTON CAPITAL (UK) LLP', 'GEMALTO N.V.', 'NL0000400653', 0.33, '20171019', 'XAMS')
+('EGERTON CAPITAL (UK) LLP', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171020', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+('COATUE MANAGEMENT, L.L.C.', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.44, '20171018', 'XAMS')
+('COATUE MANAGEMENT, L.L.C.', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.0, '20171019', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+('GSA CAPITAL PARTNERS LLP', 'FLOW TRADERS N.V.', 'NL0011279492', 0.48, '20171018', 'XAMS')
+('GSA CAPITAL PARTNERS LLP', 'FLOW TRADERS N.V.', 'NL0011279492', 0.0, '20171019', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+('GSA CAPITAL PARTNERS LLP', 'BRUNEL INTERNATIONAL N.V.', 'NL0010776944', 0.49, '20171013', 'XAMS')
+('GSA CAPITAL PARTNERS LLP', 'BRUNEL INTERNATIONAL N.V.', 'NL0010776944', 0.0, '20171014', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+
+Rows added: 4
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 709
+
+
+Rows before: 709
+
+Rows deleted: 0
+
+Rows after: 709
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('EGERTON CAPITAL (UK) LLP', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171020', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+('COATUE MANAGEMENT, L.L.C.', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.0, '20171019', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+('GSA CAPITAL PARTNERS LLP', 'FLOW TRADERS N.V.', 'NL0011279492', 0.0, '20171019', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+('GSA CAPITAL PARTNERS LLP', 'BRUNEL INTERNATIONAL N.V.', 'NL0010776944', 0.0, '20171014', 'XAMS', 'HALF_PERCENT', '20171021_18h22')
+
+Rows added: 4
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6914
+
+
+Rows before: 6914
+
+Rows deleted: 0
+
+Rows after: 6914
+
+Done.
+
+Script ran for 1.65 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 1073
+
+
+Rows before: 1073
+
+Rows deleted: 0
+
+Rows after: 1073
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 10641
+
+
+Rows before: 10641
+
+Rows deleted: 0
+
+Rows after: 10641
+
+Done.
+
+Script ran for 2.81 seconds.
+Adding corrections to: XLIS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 10
+
+
+Rows before: 10
+
+Rows deleted: 0
+
+Rows after: 10
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 248
+
+
+Rows before: 248
+
+Rows deleted: 0
+
+Rows after: 248
+
+Done.
+
+Script ran for 0.04 seconds.

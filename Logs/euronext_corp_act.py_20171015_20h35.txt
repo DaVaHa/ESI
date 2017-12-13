@@ -1,0 +1,9 @@
+
+Processing all Corporate Actions for Euronext...
+
+Processing CA: BRNL - 2014-06-04 - 2
+Processing CA: NYR - 2016-06-07 - 0.1
+Processing CA: CGG - 2016-07-20 - 0.03125
+
+Done.
+Script runtime: 1s

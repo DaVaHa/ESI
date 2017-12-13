@@ -1,0 +1,93 @@
+
+Importing updates of last 3 months into SourceData : XBRU.db.
+Checking updates from 20170325 and adding to XBRU.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 36275
+
+
+Rows before: 36275
+
+Rows deleted: 0
+
+Rows after: 36275
+
+Done.
+
+Script ran for 0.19 seconds.
+Adding corrections to: XBRU.db
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 127
+
+
+Rows before: 127
+
+Rows deleted: 0
+
+Rows after: 127
+
+Done.
+
+
+Done.
+
+Script ran for 0.0 seconds.
+Script ran for 0.0 seconds.
+Adding corrections to: XBRU.db
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 127
+
+
+Rows before: 127
+
+Rows deleted: 0
+
+Rows after: 127
+
+Done.
+
+
+Done.
+
+Script ran for 0.0 seconds.
+Adding corrections to: XBRU.db
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 127
+
+
+Rows before: 127
+
+Rows deleted: 0
+
+Rows after: 127
+
+Done.
+
+
+Done.
+
+Script ran for 0.0 seconds.

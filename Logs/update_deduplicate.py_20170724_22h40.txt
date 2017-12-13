@@ -1,0 +1,121 @@
+
+Importing updates of last 12 months into SourceData : XBRU.db.
+Checking updates from 20160724 and adding to XBRU.db...
+
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170724_22h41')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170724_22h41')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170724_22h41')
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170724_22h41')
+('GSA Capital Partners LLP', 'Celyad', 'BE0974260896', 0.59, '20170509', 'XBRU', '20170724_22h41')
+('JPMorgan Asset Management (UK) Ltd', 'Nyrstar', 'BE0003876936', 0.79, '20170720', 'XBRU', '20170724_22h41')
+
+Rows added: 6
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('GSA Capital Partners LLP', 'Celyad', 0.59, '20170509'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161103')]
+
+Rows before: 38185
+
+holder: GSA Capital Partners LLP // issuer: Celyad // date: 20170509
+Short interest: 0.0 vs 0.59
+Deleting SI: 0.59
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+
+Rows before: 38185
+
+Rows deleted: 5
+
+Rows after: 38180
+
+Done.
+
+Script ran for 15.87 seconds.
+
+Importing updates of last 12 months into SourceData : XAMS.db.
+Checking updates from 20160724 and adding to XAMS.db...
+
+('Marshall Wace LLP', 'PostNL N.V.', 'NL0009739416', 0.6, '20170721', 'XAMS', '20170724_22h41')
+('Millennium International Management LP', 'Galapagos N.V.', 'BE0003818359', 0.42, '20170721', 'XAMS', '20170724_22h41')
+('AQR Capital Management, LLC', 'SBM Offshore N.V.', 'NL0000360618', 2.71, '20170720', 'XAMS', '20170724_22h41')
+('BlackRock Investment Management (UK) Limited', 'ARCADIS N.V.', 'NL0006237562', 0.5, '20170720', 'XAMS', '20170724_22h41')
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 1.0, '20170720', 'XAMS', '20170724_22h41')
+('Marshall Wace LLP', 'PostNL N.V.', 'NL0009739416', 0.59, '20170720', 'XAMS', '20170724_22h41')
+('Marshall Wace LLP', 'Wereldhave N.V.', 'NL0000289213', 0.79, '20170720', 'XAMS', '20170724_22h41')
+('Millennium International Management LP', 'Galapagos N.V.', 'BE0003818359', 0.53, '20170720', 'XAMS', '20170724_22h41')
+('Oxford Asset Management', 'Galapagos N.V.', 'BE0003818359', 0.71, '20170720', 'XAMS', '20170724_22h41')
+('Tybourne Equity Master Fund', 'Philips Lighting N.V.', 'NL0011821392', 2.06, '20170505', 'XAMS', '20170724_22h41')
+('AQR Capital Management, LLC', 'Koninklijke Ahold Delhaize N.V.', 'NL0011794037', 0.55, '20160725', 'XAMS', '20170724_22h41')
+('Connor, Clark & Lunn Investment Management Ltd.', 'Fugro N.V.', 'NL0000352565', 0.48, '20170720', 'XAMS', '20170724_22h41')
+
+Rows added: 12
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('AQR Capital Management, LLC', 'Koninklijke Ahold Delhaize N.V.', 0.55, '20160725'), ('Tybourne Equity Master Fund', 'Philips Lighting N.V.', 2.06, '20170505')]
+
+Rows before: 6536
+
+holder: AQR Capital Management, LLC // issuer: Koninklijke Ahold Delhaize N.V. // date: 20160725
+Short interest: 0.0 vs 0.55
+Deleting SI: 0.55
+holder: Tybourne Equity Master Fund // issuer: Philips Lighting N.V. // date: 20170505
+Short interest: 2.01 vs 2.06
+Deleting SI: 2.06
+
+Rows before: 6536
+
+Rows deleted: 2
+
+Rows after: 6534
+
+Done.
+
+Script ran for 0.43 seconds.
+
+Importing updates of last 12 months into SourceData : XPAR.db.
+Checking updates from 20160724 and adding to XPAR.db...
+
+('MANIKAY PARTNERS LLC', 'TECHNIP', 'FR0000131708', 0.55, '20161205', 'XPAR', '20170724_22h41')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('MANIKAY PARTNERS LLC', 'TECHNIP', 0.55, '20161205')]
+
+Rows before: 9908
+
+holder: MANIKAY PARTNERS LLC // issuer: TECHNIP // date: 20161205
+Short interest: 0.12 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 9908
+
+Rows deleted: 1
+
+Rows after: 9907
+
+Done.
+
+Script ran for 0.67 seconds.

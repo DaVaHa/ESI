@@ -1,0 +1,150 @@
+
+Importing updates of last 6 months into SourceData : XPAR.db.
+Checking updates from 20170511 and adding to XPAR.db...
+
+('NATIXIS SA', 'AIR FRANCE-KLM', 'FR0000031122', 0.05, '20171026', 'XPAR', '20171111_11h22')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('NATIXIS SA', 'AIR FRANCE-KLM', 0.05, '20171026')]
+
+Rows before: 10891
+
+holder: NATIXIS SA // issuer: AIR FRANCE-KLM // date: 20171026
+Short interest: 0.0 vs 0.05
+Deleting SI: 0.0
+
+Rows before: 10891
+
+Rows deleted: 1
+
+Rows after: 10890
+
+Done.
+
+Script ran for 0.57 seconds.
+
+Importing updates of last 6 months into SourceData : XBRU.db.
+Checking updates from 20170511 and adding to XBRU.db...
+
+('RAM ACTIVE INVESTMENT SA', 'IBA', 'BE0003766806', 0.79, '20170818', 'XBRU', '20171111_11h23')
+('RAM ACTIVE INVESTMENT SA', 'IBA', 'BE0003766806', 0.79, '20170908', 'XBRU', '20171111_11h23')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('RAM ACTIVE INVESTMENT SA', 'IBA', 0.79, '20170818'), ('RAM ACTIVE INVESTMENT SA', 'IBA', 0.79, '20170908')]
+
+Rows before: 39662
+
+holder: RAM ACTIVE INVESTMENT SA // issuer: IBA // date: 20170818
+Short interest: 0.55 vs 0.79
+Deleting SI: 0.79
+holder: RAM ACTIVE INVESTMENT SA // issuer: IBA // date: 20170908
+Short interest: 0.68 vs 0.79
+Deleting SI: 0.79
+
+Rows before: 39662
+
+Rows deleted: 2
+
+Rows after: 39660
+
+Done.
+
+Script ran for 4.28 seconds.
+
+Importing updates of last 6 months into SourceData : XAMS.db.
+Checking updates from 20170511 and adding to XAMS.db...
+
+('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 1.23, '20171004', 'XAMS', '20171111_11h23')
+('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 1.15, '20170928', 'XAMS', '20171111_11h23')
+('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 1.03, '20170927', 'XAMS', '20171111_11h23')
+('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.92, '20170926', 'XAMS', '20171111_11h23')
+('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.81, '20170922', 'XAMS', '20171111_11h23')
+('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.69, '20170921', 'XAMS', '20171111_11h23')
+('ALGERT GLOBAL, LLC', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 0.5, '20170823', 'XAMS', '20171111_11h23')
+
+Rows added: 7
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('ALGERT GLOBAL, LLC', 'KONINKLIJKE BAM GROEP N.V.', 0.5, '20170823'), ('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 0.69, '20170921'), ('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 0.81, '20170922'), ('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 0.92, '20170926'), ('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 1.03, '20170927'), ('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 1.15, '20170928'), ('SCOPIA CAPITAL MANAGEMENT LP', 'PHILIPS LIGHTING N.V.', 1.23, '20171004')]
+
+Rows before: 7061
+
+holder: ALGERT GLOBAL, LLC // issuer: KONINKLIJKE BAM GROEP N.V. // date: 20170823
+Short interest: 0.0 vs 0.5
+Deleting SI: 0.0
+holder: SCOPIA CAPITAL MANAGEMENT LP // issuer: PHILIPS LIGHTING N.V. // date: 20170921
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: SCOPIA CAPITAL MANAGEMENT LP // issuer: PHILIPS LIGHTING N.V. // date: 20170922
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: SCOPIA CAPITAL MANAGEMENT LP // issuer: PHILIPS LIGHTING N.V. // date: 20170926
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.92
+holder: SCOPIA CAPITAL MANAGEMENT LP // issuer: PHILIPS LIGHTING N.V. // date: 20170927
+Short interest: 1.03 vs 1.03
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.03
+holder: SCOPIA CAPITAL MANAGEMENT LP // issuer: PHILIPS LIGHTING N.V. // date: 20170928
+Short interest: 1.15 vs 1.15
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.15
+holder: SCOPIA CAPITAL MANAGEMENT LP // issuer: PHILIPS LIGHTING N.V. // date: 20171004
+Short interest: 1.23 vs 1.23
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.23
+
+Rows before: 7061
+
+Rows deleted: 7
+
+Rows after: 7054
+
+Done.
+
+Script ran for 1.0 seconds.
+
+Importing updates of last 6 months into SourceData : XLIS.db.
+Checking updates from 20170511 and adding to XLIS.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 270
+
+
+Rows before: 270
+
+Rows deleted: 0
+
+Rows after: 270
+
+Done.
+
+Script ran for 0.01 seconds.

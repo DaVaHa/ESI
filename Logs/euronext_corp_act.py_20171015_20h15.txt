@@ -1,0 +1,14 @@
+Processing all Corporate Actions for Euronext
+
+Processing CA: BRNL - 2014-06-04 - 2
+Processing CA: NYR - 2016-06-07 - 0.1
+
+Done.
+Script runtime: 1
+Processing all Corporate Actions for Euronext
+
+Processing CA: BRNL - 2014-06-04 - 2
+Processing CA: NYR - 2016-06-07 - 0.1
+
+Done.
+Script runtime: 1sec

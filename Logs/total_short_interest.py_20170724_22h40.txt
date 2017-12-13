@@ -1,0 +1,170 @@
+Calculating total short interest for : XBRU
+
+Issuer: Ablynx
+Issuer: Aedifica
+Issuer: Agfa Gevaert Nv
+Issuer: Ahold-Delhaize Group
+Issuer: BPOST
+Issuer: Barco
+Issuer: Befimmo
+Issuer: Bekaert
+Issuer: Celyad
+Issuer: Cofinimmo
+Issuer: Colruyt
+Issuer: Delhaize Group
+Issuer: Dexia SA
+Issuer: EVS Broadcasting
+Issuer: Econocom
+Issuer: Euronav NV
+Issuer: Exmar
+Issuer: Fagron
+Issuer: Galapagos
+Issuer: IBA
+Issuer: KBC Groep NV
+Issuer: Kinepolis
+Issuer: MDXHealth
+Issuer: Nyrstar
+Issuer: Ontex
+Issuer: Orange Belgium SA
+Issuer: Proximus
+Issuer: Recticel
+Issuer: Solvay SA
+Issuer: Telenet
+Issuer: Tessenderlo
+Issuer: Thrombogenics NV
+Issuer: TiGenix
+Issuer: UCB 
+Issuer: Umicore
+
+Errors:
+
+Done.
+
+Script ran 0 min and 49 sec
+Calculating total short interest for : XAMS
+
+Issuer: AEGON N.V.
+Issuer: AMG Advanced Metallurgical Group N.V.
+Issuer: ARCADIS N.V.
+Issuer: ASM International N.V.
+Issuer: ASML Holding N.V.
+Issuer: Aalberts Industries N.V.
+Issuer: Accell Group N.V.
+Issuer: Aegon N.V.
+Issuer: AkzoNobel N.V.
+Issuer: Altice N.V.
+Issuer: Aperam
+Issuer: Arcadis N.V.
+Issuer: ArcelorMittal S.A.
+Issuer: BE Semiconductor Industries N.V.
+Issuer: Basic-Fit N.V.
+Issuer: BinckBank N.V.
+Issuer: Brunel International N.V.
+Issuer: Corbion N.V.
+Issuer: Corbion N.V. 
+Issuer: Core Laboratories N.V.
+Issuer: Corio N.V.
+Issuer: DOCDATA N.V.
+Issuer: Delta Lloyd N.V.
+Issuer: Eurocommercial Properties N.V.
+Issuer: Exact Holding N.V.
+Issuer: Flow Traders N.V.
+Issuer: Fugro N.V.
+Issuer: Galapagos N.V.
+Issuer: Gemalto N.V.
+Issuer: Heijmans N.V.
+Issuer: Inverko N.V.
+Issuer: Kendrion N.V.
+Issuer: Koninklijke Ahold Delhaize N.V.
+Issuer: Koninklijke Ahold N.V.
+Issuer: Koninklijke BAM Groep N.V.
+Issuer: Koninklijke Boskalis Westminster N.V.
+Issuer: Koninklijke DSM N.V.
+Issuer: Koninklijke KPN N.V.
+Issuer: Koninklijke Ten Cate N.V.
+Issuer: Koninklijke Vopak N.V.
+Issuer: Koninklijke Wessanen N.V.
+Issuer: NSI N.V.
+Issuer: Nutreco N.V.
+Issuer: OCI N.V.
+Issuer: Ordina N.V.
+Issuer: Pharming Group N.V.
+Issuer: Phelix N.V.
+Issuer: Philips Lighting N.V.
+Issuer: PostNL N.V.
+Issuer: Royal Dutch Shell plc
+Issuer: Royal Imtech N.V.
+Issuer: SBM Offshore N.V.
+Issuer: SNS Reaal N.V.
+Issuer: TKH Group N.V.
+Issuer: TNT Express N.V.
+Issuer: TomTom N.V.
+Issuer: USG People N.V.
+Issuer: Unibail-Rodamco
+Issuer: Vastned Retail N.V.
+Issuer: Wereldhave N.V.
+Issuer: Wolters Kluwer N.V.
+Issuer: Ziggo N.V.
+
+Errors:
+
+Done.
+
+Script ran 1 min and 28 sec
+Calculating total short interest for : XPAR
+
+Issuer: AB SCIENCE
+Issuer: ACCOR
+Issuer: ADOCIA
+Issuer: AFFINE R.E.
+Issuer: AIR FRANCE-KLM
+Issuer: AIRBUS GROUP SE
+Issuer: ALCATEL LUCENT
+Issuer: ALSTOM
+Issuer: ALTEN
+Issuer: ALTRAN TECHNOLOGIES
+Issuer: ANF IMMOBILIER
+Issuer: ARKEMA
+Issuer: AROUNDTOWN PROPERTY HOLDINGS
+Issuer: ARTPRICE.COM
+Issuer: ASSYSTEM
+Issuer: ATOS SE
+Issuer: AUSY
+Issuer: AVANQUEST
+Issuer: BELVEDERE
+Issuer: BENETEAU
+Issuer: BIOMERIEUX
+Issuer: BOLLORE
+Issuer: BOURBON
+Issuer: BOUYGUES
+Issuer: BUREAU VERITAS
+Issuer: BUREAU VERITAS REGISTRE INTERNATIONAL DE CLASSIFICATION DE NAVIRES ET D'AERONEFS
+Issuer: CAP GEMINI
+Issuer: CARREFOUR
+Issuer: CASINO GUICHARD-PERRACHON
+Issuer: CELLECTIS
+Issuer: CGG
+Issuer: CHARGEURS
+Issuer: COMPAGNIE DE SAINT-GOBAIN
+Issuer: COMPAGNIE GENERALE DE GEOPHYSIQUE - VERITAS
+Issuer: COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN
+Issuer: COMPAGNIE INDUSTRIELLE ET FINANCIERE D’INGENIERIE INGENICO
+Issuer: COMPAGNIE INDUSTRIELLE ET FINANCIERE D’INGENIERIE, INGENICO
+Issuer: COMPAGNIE PLASTIC OMNIUM
+Issuer: DANONE
+Issuer: DASSAULT SYSTEMES
+Issuer: DBV TECHNOLOGIES
+Issuer: DEVOTEAM
+Issuer: EDENRED
+Issuer: EIFFAGE
+Issuer: ELECTRICITE DE FRANCE
+Issuer: ELIOR GROUP
+Issuer: ELIS
+Issuer: ERYTECH PHARMA
+Issuer: ESSILOR INTERNATIONAL
+Issuer: ETABLISSEMENTS MAUREL ET PROM
+Issuer: EUROFINS SCIENTIFIC SE
+Issuer: EURONEXT NV
+Issuer: EUROPCAR GROUPE
+Issuer: EUTELSAT COMMUNICATIONS
+Issuer: FAURECIA

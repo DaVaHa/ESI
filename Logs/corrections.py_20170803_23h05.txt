@@ -1,0 +1,207 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 129
+
+
+Rows before: 129
+
+Rows deleted: 0
+
+Rows after: 129
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 38176
+
+
+Rows before: 38176
+
+Rows deleted: 0
+
+Rows after: 38176
+
+Done.
+
+Script ran for 3.1 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('ADAGE CAPITAL MANAGEMENT L.P.', 'ARCELORMITTAL S.A.', 'LU0323134006', 0.42, '20170731', 'XAMS')
+('ADAGE CAPITAL MANAGEMENT L.P.', 'ARCELORMITTAL S.A.', 'LU0323134006', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('BNP PARIBAS S.A.', 'APERAM', 'LU0569974404', 0.49, '20170731', 'XAMS')
+('BNP PARIBAS S.A.', 'APERAM', 'LU0569974404', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('BNP PARIBAS S.A.', 'BE SEMICONDUCTOR INDUSTRIES N.V.', 'NL0000339760', 0.49, '20170731', 'XAMS')
+('BNP PARIBAS S.A.', 'BE SEMICONDUCTOR INDUSTRIES N.V.', 'NL0000339760', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.', 'FUGRO N.V.', 'NL0000352565', 0.49, '20170731', 'XAMS')
+('CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.', 'FUGRO N.V.', 'NL0000352565', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('MARSHALL WACE LLP', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 0.48, '20170728', 'XAMS')
+('MARSHALL WACE LLP', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 0.0, '20170729', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+
+Rows added: 5
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 670
+
+
+Rows before: 670
+
+Rows deleted: 0
+
+Rows after: 670
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ADAGE CAPITAL MANAGEMENT L.P.', 'ARCELORMITTAL S.A.', 'LU0323134006', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('BNP PARIBAS S.A.', 'APERAM', 'LU0569974404', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('BNP PARIBAS S.A.', 'BE SEMICONDUCTOR INDUSTRIES N.V.', 'NL0000339760', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.', 'FUGRO N.V.', 'NL0000352565', 0.0, '20170801', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+('MARSHALL WACE LLP', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 0.0, '20170729', 'XAMS', 'HALF_PERCENT', '20170803_23h05')
+
+Rows added: 5
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6500
+
+
+Rows before: 6500
+
+Rows deleted: 0
+
+Rows after: 6500
+
+Done.
+
+Script ran for 0.97 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170803_23h06')
+
+Rows added: 1
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity PUBLICIS GROUPE SA - Holder: ALPINE\\\\xa0HERITAGE, L.P.
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'ONE_YEAR_GAP', '20170803_23h06')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 1017
+
+holder: ALPINE\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+
+ERROR: Record is not a double!!
+Length: 3
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 1017
+
+Rows deleted: 2
+
+Rows after: 1015
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170728_19h41')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 9903
+
+holder: ALPINE\\\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 9903
+
+Rows deleted: 1
+
+Rows after: 9902
+
+Done.
+
+Script ran for 2.18 seconds.

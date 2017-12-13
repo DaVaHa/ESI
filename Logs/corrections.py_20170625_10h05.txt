@@ -1,0 +1,36 @@
+Adding corrections to: XAMS.db
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 691
+
+
+Rows before: 691
+
+Rows deleted: 0
+
+Rows after: 691
+
+Done.
+
+Script ran for 0.0 seconds.
+Adding corrections to: XPAR.db
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 1055
+
+holder: ALPINE\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+
+ERROR: Record is not a double!!
+Length: 10
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0

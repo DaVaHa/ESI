@@ -1,0 +1,205 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity Aedifica - Holder: QUARTYS LIMITED
+('BlackRock Investment Management (UK) Limited', 'Aedifica', 'BE0003851681', 0.0, '20160715', 'XBRU', 'ONE_YEAR_GAP', '20170719_23h57')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 142
+
+
+Rows before: 142
+
+Rows deleted: 0
+
+Rows after: 142
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('BlackRock Investment Management (UK) Limited', 'Aedifica', 'BE0003851681', 0.0, '20160715', 'XBRU', 'ONE_YEAR_GAP', '20170719_23h57')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 38179
+
+
+Rows before: 38179
+
+Rows deleted: 0
+
+Rows after: 38179
+
+Done.
+
+Script ran for 3.13 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('Lone Pine Capital LLC', 'Koninklijke Ahold Delhaize N.V.', 'NL0011794037', 0.48, '20170718', 'XAMS')
+('Lone Pine Capital LLC', 'Koninklijke Ahold Delhaize N.V.', 'NL0011794037', 0.0, '20170719', 'XAMS', 'HALF_PERCENT', '20170719_23h57')
+('Oxford Asset Management', 'SBM Offshore N.V.', 'NL0000360618', 0.49, '20170718', 'XAMS')
+('Oxford Asset Management', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20170719', 'XAMS', 'HALF_PERCENT', '20170719_23h57')
+('Millennium International Management LP', 'NSI N.V.', 'NL0000292324', 0.48, '20170713', 'XAMS')
+('Millennium International Management LP', 'NSI N.V.', 'NL0000292324', 0.0, '20170714', 'XAMS', 'HALF_PERCENT', '20170719_23h57')
+
+Rows added: 3
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 730
+
+
+Rows before: 730
+
+Rows deleted: 0
+
+Rows after: 730
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('Lone Pine Capital LLC', 'Koninklijke Ahold Delhaize N.V.', 'NL0011794037', 0.0, '20170719', 'XAMS', 'HALF_PERCENT', '20170719_23h57')
+('Oxford Asset Management', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20170719', 'XAMS', 'HALF_PERCENT', '20170719_23h57')
+('Millennium International Management LP', 'NSI N.V.', 'NL0000292324', 0.0, '20170714', 'XAMS', 'HALF_PERCENT', '20170719_23h57')
+
+Rows added: 3
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6512
+
+
+Rows before: 6512
+
+Rows deleted: 0
+
+Rows after: 6512
+
+Done.
+
+Script ran for 0.93 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170719_23h57')
+
+Rows added: 1
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity PUBLICIS GROUPE SA - Holder: ALPINE\\\\xa0HERITAGE, L.P.
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'ONE_YEAR_GAP', '20170719_23h57')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 1021
+
+holder: ALPINE\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+
+ERROR: Record is not a double!!
+Length: 3
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 1021
+
+Rows deleted: 2
+
+Rows after: 1019
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170625_10h35')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 9908
+
+holder: ALPINE\\\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 9908
+
+Rows deleted: 1
+
+Rows after: 9907
+
+Done.
+
+Script ran for 1.98 seconds.

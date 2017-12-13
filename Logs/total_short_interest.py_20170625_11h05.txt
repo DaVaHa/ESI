@@ -1,0 +1,8 @@
+Calculating total short interest for : XPAR
+
+Calculating total short interest for : XPAR
+
+
+Done.
+
+Script ran for 0.0 seconds.

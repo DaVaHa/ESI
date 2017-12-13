@@ -1,0 +1,10 @@
+Loading Excel file...
+
+Loading Excel file...
+
+Importing worksheets:
+
+=> Archives
+Rows added: 38058
+
+=> Former positions

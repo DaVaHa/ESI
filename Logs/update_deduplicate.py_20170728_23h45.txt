@@ -1,0 +1,116 @@
+
+Importing updates of last 24 months into SourceData : XBRU.db.
+Checking updates from 20150728 and adding to XBRU.db...
+
+('OXFORD ASSET MANAGEMENT', 'FAGRON', 'BE0003874915', 0.63, '20151003', 'XBRU', '20170728_23h45')
+('OXFORD ASSET MANAGEMENT', 'FAGRON', 'BE0003874915', 0.63, '20151004', 'XBRU', '20170728_23h45')
+('GSA CAPITAL PARTNERS LLP', 'NYRSTAR', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170728_23h45')
+('GSA CAPITAL PARTNERS LLP', 'NYRSTAR', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170728_23h45')
+('GSA CAPITAL PARTNERS LLP', 'NYRSTAR', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170728_23h45')
+('ODDO CONTREPARTIE', 'ECONOCOM', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170728_23h45')
+('MARSHALL WACE LLP', 'EURONAV NV', 'BE0003816338', 1.08, '20170725', 'XBRU', '20170728_23h45')
+('WORLDQUANT, LLC', 'IBA', 'BE0003766806', 0.6, '20170727', 'XBRU', '20170728_23h45')
+
+Rows added: 8
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('ODDO CONTREPARTIE', 'ECONOCOM', 1.45, '20170323'), ('OXFORD ASSET MANAGEMENT', 'FAGRON', 0.63, '20151003'), ('OXFORD ASSET MANAGEMENT', 'FAGRON', 0.63, '20151004'), ('GSA CAPITAL PARTNERS LLP', 'NYRSTAR', 0.71, '20161101'), ('GSA CAPITAL PARTNERS LLP', 'NYRSTAR', 0.71, '20161102'), ('GSA CAPITAL PARTNERS LLP', 'NYRSTAR', 0.71, '20161103')]
+
+Rows before: 38178
+
+holder: ODDO CONTREPARTIE // issuer: ECONOCOM // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: OXFORD ASSET MANAGEMENT // issuer: FAGRON // date: 20151003
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: OXFORD ASSET MANAGEMENT // issuer: FAGRON // date: 20151004
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: GSA CAPITAL PARTNERS LLP // issuer: NYRSTAR // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA CAPITAL PARTNERS LLP // issuer: NYRSTAR // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA CAPITAL PARTNERS LLP // issuer: NYRSTAR // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+
+Rows before: 38178
+
+Rows deleted: 6
+
+Rows after: 38172
+
+Done.
+
+Script ran for 27.4 seconds.
+
+Importing updates of last 24 months into SourceData : XAMS.db.
+Checking updates from 20150728 and adding to XAMS.db...
+
+('AQR CAPITAL MANAGEMENT, LLC', 'KONINKLIJKE AHOLD DELHAIZE N.V.', 'NL0011794037', 0.55, '20160725', 'XAMS', '20170728_23h45')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('AQR CAPITAL MANAGEMENT, LLC', 'KONINKLIJKE AHOLD DELHAIZE N.V.', 0.55, '20160725')]
+
+Rows before: 6478
+
+holder: AQR CAPITAL MANAGEMENT, LLC // issuer: KONINKLIJKE AHOLD DELHAIZE N.V. // date: 20160725
+Short interest: 0.0 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 6478
+
+Rows deleted: 1
+
+Rows after: 6477
+
+Done.
+
+Script ran for 0.49 seconds.
+
+Importing updates of last 24 months into SourceData : XPAR.db.
+Checking updates from 20150728 and adding to XPAR.db...
+
+('MANIKAY PARTNERS LLC', 'TECHNIP', 'FR0000131708', 0.55, '20161205', 'XPAR', '20170728_23h45')
+('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 'FR0000131708', 1.1, '20150911', 'XPAR', '20170728_23h45')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 1.1, '20150911'), ('MANIKAY PARTNERS LLC', 'TECHNIP', 0.55, '20161205')]
+
+Rows before: 9904
+
+holder: ALKEN LUXEMBOURG S.A. // issuer: TECHNIP // date: 20150911
+Short interest: 1.02 vs 1.1
+Deleting SI: 1.1
+holder: MANIKAY PARTNERS LLC // issuer: TECHNIP // date: 20161205
+Short interest: 0.12 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 9904
+
+Rows deleted: 2
+
+Rows after: 9902
+
+Done.
+
+Script ran for 1.16 seconds.

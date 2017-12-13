@@ -1,0 +1,88 @@
+
+Importing updates of last 6 months into SourceData : XBRU.db.
+Checking updates from 20170206 and adding to XBRU.db...
+
+('ODDO CONTREPARTIE', 'ECONOCOM', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170806_23h00')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('ODDO CONTREPARTIE', 'ECONOCOM', 1.45, '20170323')]
+
+Rows before: 38177
+
+holder: ODDO CONTREPARTIE // issuer: ECONOCOM // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+
+Rows before: 38177
+
+Rows deleted: 1
+
+Rows after: 38176
+
+Done.
+
+Script ran for 6.03 seconds.
+
+Importing updates of last 6 months into SourceData : XAMS.db.
+Checking updates from 20170206 and adding to XAMS.db...
+
+('AHL PARTNERS LLP', 'GALAPAGOS N.V.', 'BE0003818359', 0.51, '20170803', 'XAMS', '20170806_23h00')
+('BOSTON PARTNERS GLOBAL INVESTORS, INC.', 'GEMALTO N.V.', 'NL0000400653', 0.53, '20170803', 'XAMS', '20170806_23h00')
+('HBK INVESTMENTS LP', 'FUGRO N.V.', 'NL0000352565', 1.26, '20170803', 'XAMS', '20170806_23h00')
+('JPMORGAN ASSET MANAGEMENT (UK) LTD.', 'FUGRO N.V.', 'NL0000352565', 1.36, '20170803', 'XAMS', '20170806_23h00')
+('MARSHALL WACE LLP', 'FLOW TRADERS N.V.', 'NL0011279492', 0.51, '20170803', 'XAMS', '20170806_23h00')
+('RENAISSANCE TECHNOLOGIES LLC', 'ASM INTERNATIONAL N.V.', 'NL0000334118', 0.5, '20170803', 'XAMS', '20170806_23h00')
+
+Rows added: 6
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6506
+
+
+Rows before: 6506
+
+Rows deleted: 0
+
+Rows after: 6506
+
+Done.
+
+Script ran for 0.22 seconds.
+
+Importing updates of last 6 months into SourceData : XPAR.db.
+Checking updates from 20170206 and adding to XPAR.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 9902
+
+
+Rows before: 9902
+
+Rows deleted: 0
+
+Rows after: 9902
+
+Done.
+
+Script ran for 0.3 seconds.

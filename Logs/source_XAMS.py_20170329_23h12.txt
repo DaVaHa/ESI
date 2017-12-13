@@ -1,0 +1,14 @@
+Loading Excel file from AFM website...
+Importing worksheets:
+
+=> Actueel-Current
+Rows added: 536
+
+=> Archief - Archive
+Rows added: 4878
+Something went wrong with exporting table ALL to database.
+ERROR: ("Execution failed on sql 'select count(*) from 'ALL';': no such table: ALL",)
+
+Done.
+
+Script ran for 2.94 seconds.

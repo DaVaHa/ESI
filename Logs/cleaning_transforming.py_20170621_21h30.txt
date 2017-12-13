@@ -1,0 +1,36 @@
+Importing updates of last 3 months into SourceData : XBRU.db.
+Checking updates from 20170321 and adding to XBRU.db...
+
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170621_21h32')
+('WorldQuant, LLC', 'Euronav NV', 'BE0003816338', 0.7, '20170607', 'XBRU', '20170621_21h32')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.83, '20170614', 'XBRU', '20170621_21h32')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.72, '20170608', 'XBRU', '20170621_21h32')
+('GSA Capital Partners LLP', 'Celyad', 'BE0974260896', 0.48, '20170508', 'XBRU', '20170621_21h32')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.92, '20170616', 'XBRU', '20170621_21h32')
+('WorldQuant, LLC', 'Euronav NV', 'BE0003816338', 0.68, '20170619', 'XBRU', '20170621_21h32')
+('Connor, Clark & Lunn Investment Management Ltd.', 'Euronav NV', 'BE0003816338', 0.6, '20170602', 'XBRU', '20170621_21h32')
+('BlackRock Institutional Trust Company, National Association', 'Nyrstar', 'BE0003876936', 0.78, '20170602', 'XBRU', '20170621_21h32')
+('Citadel Advisors II LLC', 'Nyrstar', 'BE0003876936', 0.66, '20170612', 'XBRU', '20170621_21h32')
+('Och-Ziff Management Europe Ltd.', 'Nyrstar', 'BE0003876936', 0.58, '20170616', 'XBRU', '20170621_21h32')
+('WorldQuant, LLC', 'Nyrstar', 'BE0003876936', 0.53, '20170620', 'XBRU', '20170621_21h32')
+('Adage Capital Management L.P.', 'Solvay SA', 'BE0003470755', 0.8, '20170616', 'XBRU', '20170621_21h32')
+
+Rows added: 13
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('Oddo Contrepartie', 'Econocom', 1.45, '20170323')]
+
+Rows before: 36676
+
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+
+Rows deleted: 1
+
+Done.
+

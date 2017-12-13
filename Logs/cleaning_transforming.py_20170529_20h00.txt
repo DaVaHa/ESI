@@ -1,0 +1,45 @@
+Extracting raw source data: XBRU
+Checking updates from 20170228 and adding to XBRU.db...
+
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170529_20h03')
+('Och-Ziff Management Europe Ltd.', 'Nyrstar', 'BE0003876936', 0.96, '20170505', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 1.72, '20170509', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.57, '20170525', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.6, '20170523', 'XBRU', '20170529_20h03')
+('Citadel Advisors LLC', 'Proximus', 'BE0003810273', 1.08, '20170510', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.59, '20170503', 'XBRU', '20170529_20h03')
+('Citadel Advisors II LLC', 'Nyrstar', 'BE0003876936', 0.61, '20170509', 'XBRU', '20170529_20h03')
+('Citadel Advisors LLC', 'Proximus', 'BE0003810273', 1.18, '20170503', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 1.6, '20170505', 'XBRU', '20170529_20h03')
+('Citadel Advisors II LLC', 'Nyrstar', 'BE0003876936', 0.52, '20170428', 'XBRU', '20170529_20h03')
+('GLG PARTNERS LP', 'BPOST', 'BE0974268972', 0.67, '20170410', 'XBRU', '20170529_20h03')
+('GLG PARTNERS LP', 'BPOST', 'BE0974268972', 0.7, '20170428', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 0.6, '20170526', 'XBRU', '20170529_20h03')
+('Connor, Clark & Lunn Investment Management Ltd.', 'Euronav NV', 'BE0003816338', 0.5, '20170519', 'XBRU', '20170529_20h03')
+('Och-Ziff Management Europe Ltd.', 'Nyrstar', 'BE0003876936', 0.79, '20170526', 'XBRU', '20170529_20h03')
+('Citadel Advisors II LLC', 'Nyrstar', 'BE0003876936', 0.71, '20170519', 'XBRU', '20170529_20h03')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 1.68, '20170526', 'XBRU', '20170529_20h03')
+('BlackRock Institutional Trust Company, National Association', 'Nyrstar', 'BE0003876936', 0.82, '20170502', 'XBRU', '20170529_20h03')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.51, '20170503', 'XBRU', '20170529_20h03')
+('Oxford Asset Management', 'Nyrstar', 'BE0003876936', 0.5, '20170517', 'XBRU', '20170529_20h03')
+('Citadel Advisors LLC', 'Proximus', 'BE0003810273', 0.99, '20170524', 'XBRU', '20170529_20h03')
+
+Rows added: 22
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('Oddo Contrepartie', 'Econocom', 1.45, '20170323')]
+
+Rows before: 36659
+
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+
+Rows deleted: 1
+
+Done.
+

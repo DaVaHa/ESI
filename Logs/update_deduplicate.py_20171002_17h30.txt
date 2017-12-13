@@ -1,0 +1,138 @@
+
+Importing updates of last 6 months into SourceData : XLIS.db.
+Checking updates from 20170402 and adding to XLIS.db...
+
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 2.22, '20170623', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 2.14, '20170622', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 2.01, '20170608', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 1.94, '20170524', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 1.82, '20170512', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 1.74, '20170502', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 1.61, '20170427', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 2.43, '20170908', 'XLIS', '20171002_17h34')
+('Point72 Europe (London), LLP', 'REN -  Redes Energéticas Nacionais, SGPS, SA', 'PTREL0AM0008', 0.5, '20170627', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.89, '20170823', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.98, '20170727', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 1.01, '20170713', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.91, '20170705', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.82, '20170627', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.73, '20170620', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.61, '20170614', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.53, '20170608', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'SONAE - SGPS, S A', 'PTSON0AM0001', 0.79, '20170915', 'XLIS', '20171002_17h34')
+('BlackRock Investment Management (UK) Limited', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 1.04, '20170406', 'XLIS', '20171002_17h34')
+('BlackRock Investment Management (UK) Limited', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.9, '20170405', 'XLIS', '20171002_17h34')
+('BlackRock Investment Management (UK) Limited', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.82, '20170404', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.88, '20170829', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.98, '20170811', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 1.0, '20170803', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.99, '20170626', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.9, '20170427', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.81, '20170413', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.71, '20170404', 'XLIS', '20171002_17h34')
+('BlackRock Investment Management (UK) Limited', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 1.1, '20170525', 'XLIS', '20171002_17h34')
+('Connor, Clark & Lunn Investment Management Ltd.', 'CTT - Correios de Portugal, SA', 'PTCTT0AM0001', 0.78, '20170925', 'XLIS', '20171002_17h34')
+('FIL Investments International *', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.59, '20170503', 'XLIS', '20171002_17h34')
+('FIL Investments International *', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.69, '20170425', 'XLIS', '20171002_17h34')
+('FIL Investments International *', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.77, '20170419', 'XLIS', '20171002_17h34')
+('FIL Investments International *', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.89, '20170413', 'XLIS', '20171002_17h34')
+('FIL Investments International *', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.96, '20170412', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.5, '20170718', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'Mota-Engil, SGPS, SA', 'PTMEN0AE0005', 0.6, '20170907', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.5, '20170914', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.41, '20170828', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.39, '20170825', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.4, '20170824', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.39, '20170814', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.4, '20170810', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.31, '20170804', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.21, '20170726', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.11, '20170706', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.01, '20170626', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.9, '20170619', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.81, '20170613', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.71, '20170607', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.6, '20170531', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.51, '20170522', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.8, '20170802', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.74, '20170728', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.88, '20170921', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.9, '20170912', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.89, '20170908', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.91, '20170907', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.88, '20170831', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.9, '20170815', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.89, '20170810', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.9, '20170808', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.82, '20170725', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.71, '20170627', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.66, '20170613', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.73, '20170609', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.88, '20170526', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.91, '20170525', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.86, '20170508', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.98, '20170504', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.08, '20170428', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.11, '20170411', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.01, '20170404', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.7, '20170901', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.61, '20170728', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.59, '20170508', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.63, '20170505', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.71, '20170406', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.63, '20170403', 'XLIS', '20171002_17h34')
+('AQR Capital Management, LLC', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.48, '20170919', 'XLIS', '20171002_17h34')
+('Lansdowne Partners (UK) LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 1.01, '20170907', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.9, '20170927', 'XLIS', '20171002_17h34')
+('Oceanwood Capital Management LLP *', 'Banco Comercial Português, SA', 'PTBCP0AM0015', 0.8, '20170912', 'XLIS', '20171002_17h34')
+('Carlson Capital UK LLP *', 'EDP - Energias de Portugal, S.A.', 'PTEDP0AM0009', 0.5, '20170515', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'EDP - Energias de Portugal, S.A.', 'PTEDP0AM0009', 0.5, '20170914', 'XLIS', '20171002_17h34')
+('Marshall Wace LLP', 'EDP - Energias de Portugal, S.A.', 'PTEDP0AM0009', 0.6, '20170927', 'XLIS', '20171002_17h34')
+
+Rows added: 86
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 86
+
+
+Rows before: 86
+
+Rows deleted: 0
+
+Rows after: 86
+
+Done.
+
+Script ran for 0.17 seconds.
+
+Importing updates of last 6 months into SourceData : XLIS.db.
+Checking updates from 20170402 and adding to XLIS.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 86
+
+
+Rows before: 86
+
+Rows deleted: 0
+
+Rows after: 86
+
+Done.
+
+Script ran for 0.0 seconds.

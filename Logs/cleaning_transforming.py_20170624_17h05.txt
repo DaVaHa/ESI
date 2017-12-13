@@ -1,0 +1,20 @@
+Importing updates of last 3 months into SourceData : XBRU.db.
+Checking updates from 20170324 and adding to XBRU.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 36675
+
+
+Rows deleted: 0
+
+Done.
+

@@ -1,0 +1,15 @@
+Calculating total short interest for : XBRU
+
+Issuer: ABLYNX
+Issuer: AEDIFICA
+Issuer: AGFA GEVAERT NV
+Issuer: BARCO
+Issuer: BEFIMMO
+Issuer: BEKAERT
+Issuer: BPOST
+Issuer: CELYAD
+Issuer: COFINIMMO
+Issuer: COLRUYT
+Issuer: DELHAIZE GROUP
+Issuer: DEXIA SA
+Issuer: ECONOCOM

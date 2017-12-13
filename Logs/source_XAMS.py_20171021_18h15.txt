@@ -1,0 +1,16 @@
+Loading Excel file from AFM website...
+
+Importing worksheets:
+
+=> Actueel
+Rows added: 684
+
+=> Historie
+Rows added: 5522
+
+=> ALL
+Rows added: 6206
+
+Done.
+
+Script ran for 4.56 seconds.

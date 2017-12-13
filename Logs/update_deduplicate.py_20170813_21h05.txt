@@ -1,0 +1,859 @@
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: AIR FRANCE-KLM // date: 20170614
+Short interest: 0.44 vs 0.44
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.44
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170717
+Short interest: 0.73 vs 0.73
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.73
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170718
+Short interest: 0.86 vs 0.86
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.86
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170719
+Short interest: 1.04 vs 1.04
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.04
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170720
+Short interest: 0.88 vs 0.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.88
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170721
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.92
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170802
+Short interest: 0.82 vs 0.82
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.82
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: AIR FRANCE-KLM // date: 20170717
+Short interest: 0.73 vs 0.73
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.73
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: AIR FRANCE-KLM // date: 20170718
+Short interest: 0.86 vs 0.86
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.86
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: AIR FRANCE-KLM // date: 20170719
+Short interest: 1.04 vs 1.04
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.04
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: AIR FRANCE-KLM // date: 20170720
+Short interest: 0.88 vs 0.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.88
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: AIR FRANCE-KLM // date: 20170721
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.92
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: AIR FRANCE-KLM // date: 20170802
+Short interest: 0.82 vs 0.82
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.82
+holder: KAIROS INVESTMENT MANAGEMENT LIMITED // issuer: BOURBON // date: 20170220
+Short interest: 0.71 vs 0.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.71
+holder: KAIROS INVESTMENT MANAGEMENT LIMITED // issuer: BOURBON // date: 20170322
+Short interest: 0.8 vs 0.8
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.8
+holder: FIR TREE INC. // issuer: CASINO GUICHARD-PERRACHON // date: 20170425
+Short interest: 0.0 vs 0.62
+Deleting SI: 0.62
+holder: OCEANIC OPPORTUNITIES MASTER FUND L.P. // issuer: CGG // date: 20170329
+Short interest: 0.79 vs 0.79
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.79
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170602
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170605
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170613
+Short interest: 0.75 vs 0.75
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.75
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170703
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170704
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170705
+Short interest: 0.68 vs 0.68
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.68
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170810
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170602
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170605
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170613
+Short interest: 0.75 vs 0.75
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.75
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170703
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170704
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170705
+Short interest: 0.68 vs 0.68
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.68
+holder: SUSQUEHANNA INTERNATIONALHOLDINGS LLC // issuer: CGG // date: 20170810
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: DAVIDSON KEMPNER EUROPEAN PARTNERS, LLP // issuer: ELIS // date: 20170608
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: DAVIDSON KEMPNER EUROPEAN PARTNERS, LLP // issuer: ELIS // date: 20170627
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: DAVIDSON KEMPNER EUROPEAN PARTNERS, LLP // issuer: ELIS // date: 20170628
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: DAVIDSON KEMPNER EUROPEAN PARTNERS, LLP // issuer: ELIS // date: 20170711
+Short interest: 0.96 vs 0.96
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.96
+holder: DAVIDSON KEMPNER EUROPEAN PARTNERS, LLP // issuer: ELIS // date: 20170712
+Short interest: 1.06 vs 1.06
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.06
+holder: DAVIDSON KEMPNER EUROPEAN PARTNERS, LLP // issuer: ELIS // date: 20170717
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.1
+holder: DAVIDSON KEMPNER EUROPEANPARTNERS, LLP // issuer: ELIS // date: 20170608
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: DAVIDSON KEMPNER EUROPEANPARTNERS, LLP // issuer: ELIS // date: 20170627
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: DAVIDSON KEMPNER EUROPEANPARTNERS, LLP // issuer: ELIS // date: 20170628
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: DAVIDSON KEMPNER EUROPEANPARTNERS, LLP // issuer: ELIS // date: 20170711
+Short interest: 0.96 vs 0.96
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.96
+holder: DAVIDSON KEMPNER EUROPEANPARTNERS, LLP // issuer: ELIS // date: 20170712
+Short interest: 1.06 vs 1.06
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.06
+holder: DAVIDSON KEMPNER EUROPEANPARTNERS, LLP // issuer: ELIS // date: 20170717
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.1
+holder: CANADA PENSION PLAN INVESTMENT BOARD // issuer: EUTELSAT COMMUNICATIONS // date: 20170510
+Short interest: 0.6 vs 0.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.6
+holder: CANADA PENSION PLAN INVESTMENT BOARD // issuer: EUTELSAT COMMUNICATIONS // date: 20170512
+Short interest: 0.8 vs 0.8
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.8
+holder: CANADA PENSION PLAN INVESTMENT BOARD // issuer: EUTELSAT COMMUNICATIONS // date: 20170605
+Short interest: 0.79 vs 0.79
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.79
+holder: CANADA PENSION PLAN INVESTMENTBOARD // issuer: EUTELSAT COMMUNICATIONS // date: 20170510
+Short interest: 0.6 vs 0.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.6
+holder: CANADA PENSION PLAN INVESTMENTBOARD // issuer: EUTELSAT COMMUNICATIONS // date: 20170512
+Short interest: 0.8 vs 0.8
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.8
+holder: CANADA PENSION PLAN INVESTMENTBOARD // issuer: EUTELSAT COMMUNICATIONS // date: 20170605
+Short interest: 0.79 vs 0.79
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.79
+holder: ANCHORAGE CAPITAL MASTER OFFSHORE, LTD // issuer: GAZTRANSPORT ET TECHNIGAZ // date: 20170214
+Short interest: 1.24 vs 1.24
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.24
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: GAZTRANSPORT ET TECHNIGAZ // date: 20170301
+Short interest: 2.0 vs 2.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.0
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: GAZTRANSPORT ET TECHNIGAZ // date: 20170727
+Short interest: 1.98 vs 1.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.98
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: GAZTRANSPORT ET TECHNIGAZ // date: 20170727
+Short interest: 1.98 vs 1.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.98
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: GENFIT // date: 20170602
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: GENFIT // date: 20170607
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: GENFIT // date: 20170623
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: GENFIT // date: 20170703
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: GENFIT // date: 20170712
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: MILLENNIUM INTERNATIONALMANAGEMENT LP // issuer: GENFIT // date: 20170602
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+holder: MILLENNIUM INTERNATIONALMANAGEMENT LP // issuer: GENFIT // date: 20170607
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: MILLENNIUM INTERNATIONALMANAGEMENT LP // issuer: GENFIT // date: 20170623
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: MILLENNIUM INTERNATIONALMANAGEMENT LP // issuer: GENFIT // date: 20170703
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: MILLENNIUM INTERNATIONALMANAGEMENT LP // issuer: GENFIT // date: 20170712
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: GUERBET // date: 20170405
+Short interest: 0.5 vs 0.5
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.5
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: INGENICO // date: 20170612
+Short interest: 0.53 vs 0.53
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.53
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: INGENICO // date: 20170613
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: INGENICO // date: 20170727
+Short interest: 0.71 vs 0.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.71
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: INGENICO // date: 20170612
+Short interest: 0.53 vs 0.53
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.53
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: INGENICO // date: 20170613
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: INGENICO // date: 20170727
+Short interest: 0.71 vs 0.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.71
+holder: MYRIAD OPPORTUNITIES MASTER FUND LIMITED // issuer: INGENICO // date: 20170719
+Short interest: 0.56 vs 0.56
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.56
+holder: MYRIAD OPPORTUNITIES MASTER FUNDLIMITED // issuer: INGENICO // date: 20170719
+Short interest: 0.56 vs 0.56
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.56
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: KORIAN // date: 20170720
+Short interest: 0.52 vs 0.52
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.52
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: KORIAN // date: 20170725
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: KORIAN // date: 20170802
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: KORIAN // date: 20170720
+Short interest: 0.52 vs 0.52
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.52
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: KORIAN // date: 20170725
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: KORIAN // date: 20170802
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130129
+Short interest: 0.5 vs 0.5
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.5
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130130
+Short interest: 0.38 vs 0.38
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.38
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130524
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170215
+Short interest: 0.64 vs 0.64
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.64
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170217
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170222
+Short interest: 0.8 vs 0.8
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.8
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170314
+Short interest: 0.9 vs 0.9
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.9
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170315
+Short interest: 0.89 vs 0.89
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.89
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170322
+Short interest: 0.79 vs 0.79
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.79
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170407
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170612
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: MILLENNIUM INTERNATIONALMANAGEMENT LP // issuer: MERCIALYS // date: 20170612
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: NATUREX // date: 20170420
+Short interest: 0.56 vs 0.56
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.56
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: NATUREX // date: 20170710
+Short interest: 0.6 vs 0.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.6
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: NATUREX // date: 20170710
+Short interest: 0.6 vs 0.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.6
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: NEOPOST S.A. // date: 20170720
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: NEOPOST S.A. // date: 20170727
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: NEOPOST S.A. // date: 20170720
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: NEOPOST S.A. // date: 20170727
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: NEOPOST S.A. // date: 20170224
+Short interest: 0.58 vs 0.58
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.58
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: NEOPOST S.A. // date: 20170308
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: NEOPOST S.A. // date: 20170329
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: NEOPOST S.A. // date: 20170627
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: NEOPOST S.A. // date: 20170720
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: NEOPOST S.A. // date: 20170627
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: NEOPOST S.A. // date: 20170720
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: JPMORGAN ASSET MANAGEMENT (UK) LIMITED // issuer: NEXANS // date: 20170807
+Short interest: 0.53 vs 0.53
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.53
+holder: JPMORGAN ASSET MANAGEMENT (UK)LIMITED // issuer: NEXANS // date: 20170807
+Short interest: 0.53 vs 0.53
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.53
+holder: QUANTITATIVE MANAGEMENT ASSOCIATES LLC // issuer: NEXANS // date: 20170522
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+holder: QUANTITATIVE MANAGEMENTASSOCIATES LLC // issuer: NEXANS // date: 20170522
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170214
+Short interest: 2.74 vs 2.74
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.74
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170307
+Short interest: 2.88 vs 2.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.88
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170308
+Short interest: 2.95 vs 2.95
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.95
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170313
+Short interest: 3.01 vs 3.01
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.01
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170317
+Short interest: 3.17 vs 3.17
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.17
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170523
+Short interest: 4.0 vs 4.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 4.0
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170524
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.97
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170530
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.87
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170601
+Short interest: 3.75 vs 3.75
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.75
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170602
+Short interest: 3.6 vs 3.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.6
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170605
+Short interest: 3.42 vs 3.42
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.42
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170606
+Short interest: 3.25 vs 3.25
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.25
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170607
+Short interest: 3.04 vs 3.04
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.04
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170608
+Short interest: 2.92 vs 2.92
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.92
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170612
+Short interest: 2.86 vs 2.86
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.86
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170614
+Short interest: 2.78 vs 2.78
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.78
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170619
+Short interest: 2.38 vs 2.38
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.38
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170620
+Short interest: 2.18 vs 2.18
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.18
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170622
+Short interest: 2.08 vs 2.08
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.08
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170626
+Short interest: 1.98 vs 1.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.98
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170628
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.88
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170630
+Short interest: 1.72 vs 1.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.72
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170703
+Short interest: 1.67 vs 1.67
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.67
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170705
+Short interest: 1.57 vs 1.57
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.57
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170713
+Short interest: 0.98 vs 0.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.98
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170726
+Short interest: 0.63 vs 0.63
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.63
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170731
+Short interest: 0.71 vs 0.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.71
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170523
+Short interest: 4.0 vs 4.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 4.0
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170524
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.97
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170530
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.87
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170601
+Short interest: 3.75 vs 3.75
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.75
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170602
+Short interest: 3.6 vs 3.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.6
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170605
+Short interest: 3.42 vs 3.42
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.42
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170606
+Short interest: 3.25 vs 3.25
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.25
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170607
+Short interest: 3.04 vs 3.04
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.04
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170608
+Short interest: 2.92 vs 2.92
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.92
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170612
+Short interest: 2.86 vs 2.86
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.86
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170614
+Short interest: 2.78 vs 2.78
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.78
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170619
+Short interest: 2.38 vs 2.38
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.38
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170620
+Short interest: 2.18 vs 2.18
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.18
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170622
+Short interest: 2.08 vs 2.08
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.08
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170626
+Short interest: 1.98 vs 1.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.98
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170628
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.88
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170630
+Short interest: 1.72 vs 1.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.72
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170703
+Short interest: 1.67 vs 1.67
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.67
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170705
+Short interest: 1.57 vs 1.57
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.57
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170713
+Short interest: 0.98 vs 0.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.98
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170726
+Short interest: 0.63 vs 0.63
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.63
+holder: OCH-ZIFF MANAGEMENT EUROPELIMITED // issuer: PIERRE ET VACANCES // date: 20170731
+Short interest: 0.71 vs 0.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.71
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: TECHNIPFMC PLC // date: 20170616
+Short interest: 0.54 vs 0.54
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.54
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: TECHNIPFMC PLC // date: 20170616
+Short interest: 0.54 vs 0.54
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.54
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: TELEVISION FRANCAISE 1 // date: 20170215
+Short interest: 0.96 vs 0.96
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.96
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: TELEVISION FRANCAISE 1 // date: 20170217
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: TELEVISION FRANCAISE 1 // date: 20170526
+Short interest: 0.97 vs 0.97
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.97
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: TELEVISION FRANCAISE 1 // date: 20170707
+Short interest: 1.05 vs 1.05
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.05
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: TELEVISION FRANCAISE 1 // date: 20170710
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.1
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: TELEVISION FRANCAISE 1 // date: 20170726
+Short interest: 1.08 vs 1.08
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.08
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: TELEVISION FRANCAISE 1 // date: 20170215
+Short interest: 0.96 vs 0.96
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.96
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: TELEVISION FRANCAISE 1 // date: 20170217
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: TELEVISION FRANCAISE 1 // date: 20170526
+Short interest: 0.97 vs 0.97
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.97
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: TELEVISION FRANCAISE 1 // date: 20170707
+Short interest: 1.05 vs 1.05
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.05
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: TELEVISION FRANCAISE 1 // date: 20170710
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.1
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: TELEVISION FRANCAISE 1 // date: 20170726
+Short interest: 1.08 vs 1.08
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.08
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170803
+Short interest: 0.63 vs 0.63
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.63
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170804
+Short interest: 0.78 vs 0.78
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.78
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: VALLOUREC // date: 20170803
+Short interest: 0.63 vs 0.63
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.63
+holder: BLACKROCK INVESTMENT MANAGEMENTUK LIMITED // issuer: VALLOUREC // date: 20170804
+Short interest: 0.78 vs 0.78
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.78
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170522
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170526
+Short interest: 0.64 vs 0.64
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.64
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170601
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170615
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.94
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170810
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170811
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: VALLOUREC // date: 20170522
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: VALLOUREC // date: 20170526
+Short interest: 0.64 vs 0.64
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.64
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: VALLOUREC // date: 20170601
+Short interest: 0.81 vs 0.81
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.81
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: VALLOUREC // date: 20170615
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.94
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: VALLOUREC // date: 20170810
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: BOSTON PARTNERS GLOBAL INVESTORSINC // issuer: VALLOUREC // date: 20170811
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+
+Rows before: 1555
+
+Rows deleted: 203
+
+Rows after: 1352
+
+Done.
+
+Script ran for 23.53 seconds.
+
+Importing updates of last 6 months into SourceData : XBRU.db.
+Checking updates from 20170213 and adding to XBRU.db...
+
+('ODDO CONTREPARTIE', 'ECONOCOM', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170813_21h05')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('ODDO CONTREPARTIE', 'ECONOCOM', 1.45, '20170323')]
+
+Rows before: 38186
+
+holder: ODDO CONTREPARTIE // issuer: ECONOCOM // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+
+Rows before: 38186
+
+Rows deleted: 1
+
+Rows after: 38185
+
+Done.
+
+Script ran for 5.06 seconds.
+
+Importing updates of last 6 months into SourceData : XAMS.db.
+Checking updates from 20170213 and adding to XAMS.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6545
+
+
+Rows before: 6545
+
+Rows deleted: 0
+
+Rows after: 6545
+
+Done.
+
+Script ran for 0.06 seconds.
+
+Importing updates of last 6 months into SourceData : XPAR.db.
+Checking updates from 20170213 and adding to XPAR.db...
+
+('FIR TREE INC.', 'CASINO GUICHARD-PERRACHON', 'FR0000125585', 0.62, '20170425', 'XPAR', '20170813_21h05')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('FIR TREE INC.', 'CASINO GUICHARD-PERRACHON', 0.62, '20170425'), ('BALYASNY ASSET MANAGEMENT, L.P.', "L'OREAL", 0.5, '20130129'), ('BALYASNY ASSET MANAGEMENT, L.P.', "L'OREAL", 0.38, '20130130'), ('BALYASNY ASSET MANAGEMENT, L.P.', "L'OREAL", 0.0, '20130131'), ('BALYASNY ASSET MANAGEMENT, L.P.', "L'OREAL", 0.0, '20130524')]
+
+Rows before: 10260
+
+holder: FIR TREE INC. // issuer: CASINO GUICHARD-PERRACHON // date: 20170425
+Short interest: 0.0 vs 0.62
+Deleting SI: 0.62
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130129
+Short interest: 0.5 vs 0.5
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.5
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130130
+Short interest: 0.38 vs 0.38
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.38
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130131
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+holder: BALYASNY ASSET MANAGEMENT, L.P. // issuer: L'OREAL // date: 20130524
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 10260
+
+Rows deleted: 5
+
+Rows after: 10255
+
+Done.
+
+Script ran for 0.92 seconds.

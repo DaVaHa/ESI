@@ -1,0 +1,27 @@
+# clean data
+echo "########### Cleaning names.. ###########"
+python3 cleaning_doubles.py
+
+echo "########### Updating & deduplicating data.. ###########"
+python3 update_deduplicate.py XPAR
+
+# add corrections
+echo "########### Adding corrections.. ###########"
+python3 corrections.py XPAR
+
+# calculate total_short_interest
+echo "########### Calculating total short interest.. ###########"
+python3 total_short_interest.py XPAR
+
+# updating SummaryDB
+echo "########### updating Issuers SummaryDB.db.. ###########"
+python3 summary_issuers.py XPAR
+
+# updating SummaryDB
+echo "########### updating Notifications SummaryDB.db.. ###########"
+python3 summary_notifications.py XPAR
+
+# graphing short interest
+echo "########### Creating graphs.. ###########"
+python3 graphs.py XPAR
+

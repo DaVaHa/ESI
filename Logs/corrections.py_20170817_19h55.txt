@@ -1,0 +1,192 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 130
+
+
+Rows before: 130
+
+Rows deleted: 0
+
+Rows after: 130
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 38188
+
+
+Rows before: 38188
+
+Rows deleted: 0
+
+Rows after: 38188
+
+Done.
+
+Script ran for 3.16 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 676
+
+
+Rows before: 676
+
+Rows deleted: 0
+
+Rows after: 676
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6565
+
+
+Rows before: 6565
+
+Rows deleted: 0
+
+Rows after: 6565
+
+Done.
+
+Script ran for 1.3 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170817_19h58')
+
+Rows added: 1
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity PUBLICIS GROUPE SA - Holder: ALPINE\\\\xa0HERITAGE, L.P.
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'ONE_YEAR_GAP', '20170817_19h58')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 1027
+
+holder: ALPINE\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+
+ERROR: Record is not a double!!
+Length: 3
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 1027
+
+Rows deleted: 2
+
+Rows after: 1025
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170728_19h41')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 10177
+
+holder: ALPINE\\\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 10177
+
+Rows deleted: 1
+
+Rows after: 10176
+
+Done.
+
+Script ran for 2.32 seconds.

@@ -1,0 +1,6 @@
+
+No argument given, please provide MIC for adding corrections to database..
+
+Calculating total short interest for : XPAR
+
+Script ran for 0.0 seconds.

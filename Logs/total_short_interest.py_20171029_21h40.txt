@@ -1,0 +1,20 @@
+
+Errors:
+
+Done.
+
+Script ran 2 min and 43 sec
+Calculating total short interest for : XLIS
+
+Issuer: BANCO COMERCIAL PORTUGUÊS, SA
+Issuer: CTT - CORREIOS DE PORTUGAL, SA
+Issuer: EDP - ENERGIAS DE PORTUGAL, S.A.
+Issuer: MOTA-ENGIL, SGPS, SA
+Issuer: REN -  REDES ENERGÉTICAS NACIONAIS, SGPS, SA
+Issuer: SONAE - SGPS, S A
+
+Errors:
+
+Done.
+
+Script ran 0 min and 6 sec

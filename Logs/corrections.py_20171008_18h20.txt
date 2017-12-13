@@ -1,0 +1,242 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 136
+
+
+Rows before: 136
+
+Rows deleted: 0
+
+Rows after: 136
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 38274
+
+
+Rows before: 38274
+
+Rows deleted: 0
+
+Rows after: 38274
+
+Done.
+
+Script ran for 2.98 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('CQS (UK) LLP', 'APERAM', 'LU0569974404', 0.08, '20171005', 'XAMS')
+('CQS (UK) LLP', 'APERAM', 'LU0569974404', 0.0, '20171006', 'XAMS', 'HALF_PERCENT', '20171008_18h24')
+('BNP PARIBAS S.A.', 'BE SEMICONDUCTOR INDUSTRIES N.V.', 'NL0000339760', 0.45, '20171003', 'XAMS')
+('BNP PARIBAS S.A.', 'BE SEMICONDUCTOR INDUSTRIES N.V.', 'NL0000339760', 0.0, '20171004', 'XAMS', 'HALF_PERCENT', '20171008_18h24')
+
+Rows added: 2
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 703
+
+
+Rows before: 703
+
+Rows deleted: 0
+
+Rows after: 703
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('CQS (UK) LLP', 'APERAM', 'LU0569974404', 0.0, '20171006', 'XAMS', 'HALF_PERCENT', '20171008_18h24')
+('BNP PARIBAS S.A.', 'BE SEMICONDUCTOR INDUSTRIES N.V.', 'NL0000339760', 0.0, '20171004', 'XAMS', 'HALF_PERCENT', '20171008_18h24')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6826
+
+
+Rows before: 6826
+
+Rows deleted: 0
+
+Rows after: 6826
+
+Done.
+
+Script ran for 0.96 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity TELEVISION FRANCAISE 1 - Holder: TREMBLANT CAPITAL LP
+('ROBECO INVESTMENT MANAGEMENT, INC.', 'TELEVISION FRANCAISE 1', 'FR0000054900', 0.0, '20161004', 'XPAR', 'ONE_YEAR_GAP', '20171008_18h24')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 1073
+
+
+Rows before: 1073
+
+Rows deleted: 0
+
+Rows after: 1073
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ROBECO INVESTMENT MANAGEMENT, INC.', 'TELEVISION FRANCAISE 1', 'FR0000054900', 0.0, '20161004', 'XPAR', 'ONE_YEAR_GAP', '20171008_18h24')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 10570
+
+
+Rows before: 10570
+
+Rows deleted: 0
+
+Rows after: 10570
+
+Done.
+
+Script ran for 1.71 seconds.
+Adding corrections to: XLIS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 10
+
+
+Rows before: 10
+
+Rows deleted: 0
+
+Rows after: 10
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 239
+
+
+Rows before: 239
+
+Rows deleted: 0
+
+Rows after: 239
+
+Done.
+
+Script ran for 0.02 seconds.

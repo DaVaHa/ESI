@@ -1,0 +1,38 @@
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.06 seconds.
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.01 seconds.
+
+This will add 0% corrections when SI < 0.5%
+
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170624_23h33')
+
+Rows added: 1
+
+Done.
+
+
+Done.
+
+Script ran for 0.19 seconds.

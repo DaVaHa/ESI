@@ -1,0 +1,10 @@
+Creating database for MIC: XAMS
+XAMS.db
+
+Done.
+
+Creating database for MIC: XBRU
+XBRU.db
+
+Done.
+

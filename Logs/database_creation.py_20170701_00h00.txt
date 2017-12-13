@@ -1,0 +1,15 @@
+Creating database for MIC: XBRU
+XBRU_ShortInterest.db
+
+Done.
+
+Creating database for MIC: XPAR
+XPAR_ShortInterest.db
+
+Done.
+
+Creating database for MIC: XAMS
+XAMS_ShortInterest.db
+
+Done.
+

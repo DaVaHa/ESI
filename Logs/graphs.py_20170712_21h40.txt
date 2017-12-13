@@ -1,0 +1,12 @@
+Creating Graphs for MIC: XBRU
+
+
+Script ran for 8.63 seconds.
+Creating Graphs for MIC: XAMS
+
+
+Script ran for 14.65 seconds.
+Creating Graphs for MIC: XPAR
+
+
+Script ran for 32.71 seconds.

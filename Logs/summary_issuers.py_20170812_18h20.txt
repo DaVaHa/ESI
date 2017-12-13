@@ -1,0 +1,10 @@
+
+Updating Issuers in SummaryDB for MIC: XBRU
+GREENYARD NV not yet in db
+Script ran for 3.81 seconds.
+
+Updating Issuers in SummaryDB for MIC: XAMS
+Script ran for 5.75 seconds.
+
+Updating Issuers in SummaryDB for MIC: XPAR
+Script ran for 12.0 seconds.

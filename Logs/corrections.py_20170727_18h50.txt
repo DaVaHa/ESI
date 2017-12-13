@@ -1,0 +1,196 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 142
+
+
+Rows before: 142
+
+Rows deleted: 0
+
+Rows after: 142
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 38182
+
+
+Rows before: 38182
+
+Rows deleted: 0
+
+Rows after: 38182
+
+Done.
+
+Script ran for 2.97 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 733
+
+
+Rows before: 733
+
+Rows deleted: 0
+
+Rows after: 733
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6547
+
+
+Rows before: 6547
+
+Rows deleted: 0
+
+Rows after: 6547
+
+Done.
+
+Script ran for 0.68 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170727_18h54')
+
+Rows added: 1
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity EDENRED - Holder: WORLDQUANT LLC
+('LANSDOWNE PARTNERS (UK) LLP', 'EDENRED', 'FR0010908533', 0.0, '20160727', 'XPAR', 'ONE_YEAR_GAP', '20170727_18h54')
+
+Equity PUBLICIS GROUPE SA - Holder: ALPINE\\\\xa0HERITAGE, L.P.
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'ONE_YEAR_GAP', '20170727_18h54')
+
+Rows added: 2
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 1022
+
+holder: ALPINE\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+
+ERROR: Record is not a double!!
+Length: 3
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 1022
+
+Rows deleted: 2
+
+Rows after: 1020
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('LANSDOWNE PARTNERS (UK) LLP', 'EDENRED', 'FR0010908533', 0.0, '20160727', 'XPAR', 'ONE_YEAR_GAP', '20170727_18h54')
+('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20170625_10h35')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 9908
+
+holder: ALPINE\\\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+Short interest: 0.0 vs 0.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.0
+
+Rows before: 9908
+
+Rows deleted: 1
+
+Rows after: 9907
+
+Done.
+
+Script ran for 1.92 seconds.

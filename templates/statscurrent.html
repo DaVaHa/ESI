@@ -1,0 +1,58 @@
+{% extends "layout.html" %}
+
+{% block content %}
+	
+	<script>$(function(){
+		$("#stats").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		});
+	</script>
+		
+	<!-- Text --> 
+	</br>
+	<h1 align='center' class='titlehead'> Current Highest Short Interest </h1>
+	<p align='center'><u><a  href="{{url_for('Stats')}}">Back to overview</a></u></p>
+
+	<!-- List all issuers  -->
+	<div style="text-align:center;">
+	{% for g in graphs %}
+		<div class="block"><p><u> {{g[0]}}</u>: {{g[1]}} % </br></p></div>
+		<div class="showhide">
+		</br>
+		<img src="/static/graphs/{{g[2]}}" alt="{{g[0]}}" width="500">
+	   	</br></br>
+
+		<!-- Table -->
+		<table id="myTable" >
+
+	 	<tr class="heading">
+		<th style="width:25%;">Holder</th>
+		<th style="width:15%;">Issuer</th>
+		<th style="width:10%;">ISIN</th>
+		<th style="width:8%;">Short Interest</th>
+		<th style="width:10%;">Position Date</th></tr>
+	  
+		<!-- Data on HTML --> 
+		{% if notifs_dict[g[3]] != []  %}
+			{% for d in notifs_dict[g[3]] %}
+				<tr><td>{{d[0]}}</td>
+				<td>{{d[1]}}</td>
+				<td>{{d[2]}}</td>
+				<td>{{d[3]}}</td>
+				<td>{{d[4]}}</td></tr>
+			{% endfor %}
+ 		{% else %}
+			<tr><td> - </td>
+			<td> - </td>
+			<td> - </td>
+			<td> - </td>
+			<td> - </td></tr>
+		{% endif %}
+
+		</table>
+		</div>
+		</br>	
+	{% endfor %}
+
+	</br></br></br>	</div>
+
+{% endblock %}

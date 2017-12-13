@@ -1,0 +1,7 @@
+Loading Excel file from AFM website..
+Importing worksheets:
+
+=> Valides_Current
+Rows added: 89
+
+=> Archivées_Archive

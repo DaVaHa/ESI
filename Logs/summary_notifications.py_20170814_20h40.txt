@@ -1,0 +1,9 @@
+
+Updating Notifications in SummaryDB for MIC: XBRU
+Script ran for 0.68 seconds.
+
+Updating Notifications in SummaryDB for MIC: XAMS
+Script ran for 0.41 seconds.
+
+Updating Notifications in SummaryDB for MIC: XPAR
+Script ran for 0.57 seconds.

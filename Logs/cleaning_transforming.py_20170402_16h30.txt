@@ -1,0 +1,77 @@
+Deduplicating ALL from ShortInterest_Brussels.db ...
+Deduplicating ALL from ShortInterest_Brussels.db ...
+Deduplicating ALL from ShortInterest_Brussels.db ...
+Deduplicating ALL from ShortInterest_Brussels.db ...
+Duplicates:
+[('AKO Capital LLP for AKO Master Fund Limited', 'Ahold-Delhaize Group', 1.72, '20121217'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131031'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131101'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131102'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131103'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131104'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131105'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131106'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131107'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131108'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131109'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131110'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131111'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131112'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131113'), ('BNP Paribas SA', 'Econocom', 0.8, '20131107'), ('BNP Paribas SA', 'Econocom', 0.8, '20131108'), ('BNP Paribas SA', 'Econocom', 0.8, '20131109'), ('BNP Paribas SA', 'Econocom', 0.8, '20131110'), ('BNP Paribas SA', 'Econocom', 0.8, '20131111'), ('BNP Paribas SA', 'Econocom', 0.8, '20131112'), ('BNP Paribas SA', 'Econocom', 0.8, '20131113'), ('Oddo Contrepartie', 'Econocom', 1.0999999999999999, '20170323'), ('Oxford Asset Management', 'Fagron', 0.5599999999999999, '20151003'), ('Oxford Asset Management', 'Fagron', 0.5599999999999999, '20151004'), ('GSA Capital Partners LLP', 'Nyrstar', 0.7100000000000001, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.7100000000000001, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.7100000000000001, '20161103'), ('Marshall Wace LLP', 'Nyrstar', 0.6799999999999999, '20160109'), ('Och-Ziff Management Europe Ltd.', 'Nyrstar', 1.81, '20161228')]
+
+Deduplicating ALL from ShortInterest_Brussels.db ...
+Duplicates:
+[('AKO Capital LLP for AKO Master Fund Limited', 'Ahold-Delhaize Group', 1.72, '20121217'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131031'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131101'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131102'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131103'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131104'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131105'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131106'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131107'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131108'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131109'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131110'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131111'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131112'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.6, '20131113'), ('BNP Paribas SA', 'Econocom', 0.8, '20131107'), ('BNP Paribas SA', 'Econocom', 0.8, '20131108'), ('BNP Paribas SA', 'Econocom', 0.8, '20131109'), ('BNP Paribas SA', 'Econocom', 0.8, '20131110'), ('BNP Paribas SA', 'Econocom', 0.8, '20131111'), ('BNP Paribas SA', 'Econocom', 0.8, '20131112'), ('BNP Paribas SA', 'Econocom', 0.8, '20131113'), ('Oddo Contrepartie', 'Econocom', 1.0999999999999999, '20170323'), ('Oxford Asset Management', 'Fagron', 0.5599999999999999, '20151003'), ('Oxford Asset Management', 'Fagron', 0.5599999999999999, '20151004'), ('GSA Capital Partners LLP', 'Nyrstar', 0.7100000000000001, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.7100000000000001, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.7100000000000001, '20161103'), ('Marshall Wace LLP', 'Nyrstar', 0.6799999999999999, '20160109'), ('Och-Ziff Management Europe Ltd.', 'Nyrstar', 1.81, '20161228')]
+
+Rows before: 34194
+holder: AKO Capital LLP for AKO Master Fund Limited // issuer: Ahold-Delhaize Group // date: 20121217
+Short interest: 1.66 vs 1.72
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131031
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131101
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131102
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131103
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131104
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131105
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131106
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131107
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131108
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131109
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131110
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131111
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131112
+Short interest: 0.73 vs 0.6
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131113
+Short interest: 0.73 vs 0.6
+holder: BNP Paribas SA // issuer: Econocom // date: 20131107
+Short interest: 0.75 vs 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131108
+Short interest: 0.75 vs 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131109
+Short interest: 0.75 vs 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131110
+Short interest: 0.75 vs 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131111
+Short interest: 0.75 vs 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131112
+Short interest: 0.75 vs 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131113
+Short interest: 0.75 vs 0.8
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.4500000000000002 vs 1.0999999999999999
+holder: Oxford Asset Management // issuer: Fagron // date: 20151003
+Short interest: 0.63 vs 0.5599999999999999
+holder: Oxford Asset Management // issuer: Fagron // date: 20151004
+Short interest: 0.63 vs 0.5599999999999999
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.7100000000000001
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.7100000000000001
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.7100000000000001
+holder: Marshall Wace LLP // issuer: Nyrstar // date: 20160109
+Short interest: 0.9199999999999999 vs 0.6799999999999999
+holder: Och-Ziff Management Europe Ltd. // issuer: Nyrstar // date: 20161228
+Short interest: 0.8099999999999999 vs 1.81
+
+Rows deleted: 29
+
+Done.
+

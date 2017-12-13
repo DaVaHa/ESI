@@ -1,0 +1,93 @@
+
+Importing updates of last 6 months into SourceData : XBRU.db.
+Checking updates from 20170126 and adding to XBRU.db...
+
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170726_00h34')
+('GSA Capital Partners LLP', 'Celyad', 'BE0974260896', 0.59, '20170509', 'XBRU', '20170726_00h34')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('GSA Capital Partners LLP', 'Celyad', 0.59, '20170509'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323')]
+
+Rows before: 38182
+
+holder: GSA Capital Partners LLP // issuer: Celyad // date: 20170509
+Short interest: 0.0 vs 0.59
+Deleting SI: 0.59
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+
+Rows before: 38182
+
+Rows deleted: 2
+
+Rows after: 38180
+
+Done.
+
+Script ran for 6.19 seconds.
+
+Importing updates of last 6 months into SourceData : XAMS.db.
+Checking updates from 20170126 and adding to XAMS.db...
+
+('AQR Capital Management, LLC', 'Koninklijke Vopak N.V.', 'NL0009432491', 1.2, '20170724', 'XAMS', '20170726_00h34')
+('Macquarie Funds Management Hong Kong Limited', 'Ordina N.V.', 'NL0000440584', 0.79, '20170724', 'XAMS', '20170726_00h34')
+('Marshall Wace LLP', 'Gemalto N.V.', 'NL0000400653', 0.5, '20170724', 'XAMS', '20170726_00h34')
+('Tybourne Equity Master Fund', 'Philips Lighting N.V.', 'NL0011821392', 2.06, '20170505', 'XAMS', '20170726_00h34')
+
+Rows added: 4
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('Tybourne Equity Master Fund', 'Philips Lighting N.V.', 2.06, '20170505')]
+
+Rows before: 6540
+
+holder: Tybourne Equity Master Fund // issuer: Philips Lighting N.V. // date: 20170505
+Short interest: 2.01 vs 2.06
+Deleting SI: 2.06
+
+Rows before: 6540
+
+Rows deleted: 1
+
+Rows after: 6539
+
+Done.
+
+Script ran for 0.37 seconds.
+
+Importing updates of last 6 months into SourceData : XPAR.db.
+Checking updates from 20170126 and adding to XPAR.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 9905
+
+
+Rows before: 9905
+
+Rows deleted: 0
+
+Rows after: 9905
+
+Done.
+
+Script ran for 0.23 seconds.

@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+
+	{% block content %}
+	
+	<script>$(function(){
+		$("#contact").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		});
+	</script>
+	
+	<!-- Text -->
+	</br>
+	<h1 align='center' class='titlehead'>Contact</h1>
+	
+	<div class='commentForm'>
+	
+	<p align="center">Missed something? Would like to see something? Feedback is always appreciated, so if you have any questions or suggestions, please fill in the form below. </p>
+	</br>
+	
+
+	{% if message != '' %}
+		</br><p><b><i>{{message}}</i></b></p></br></br></br></br></br></br></br></br>
+	{% else %}
+
+	<form action="{{url_for('Contact')}}" method='POST'>
+	<p>Who are you?
+	<input id="person" type="text" name="person" style="font-size:11pt;" maxlength="60" size="50" placeholder="Name/role" required></p>
+	<p>What's your e-mail?
+	<input id="email" type="email" name="email" style="font-size:11pt;" maxlength="60" size="50"  placeholder="short@interest.eu" required></p>
+	<p>What is it about?
+	<input id="subject" type="text" name="subject" style="font-size:11pt;" maxlength="60" size="50"  placeholder="Subject" required></p>
+	<p><textarea id="comment" type="text" name="comment" style="font-size:11pt;" maxlength="2000" rows="10" cols="49" placeholder="Questions, suggestions... " required></textarea></p>
+	<input type="submit" value="Send">
+	</form>	
+
+	{% endif %}
+
+	</div>
+
+{% endblock %}

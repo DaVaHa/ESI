@@ -1,0 +1,2 @@
+Creating database for MIC: XPAR
+Error: table RawSourceData already exists

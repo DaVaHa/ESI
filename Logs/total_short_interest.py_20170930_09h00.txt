@@ -1,0 +1,13 @@
+Issuer: UNIBAIL-RODAMCO
+Issuer: USG PEOPLE N.V.
+Issuer: VAN LANSCHOT KEMPEN N.V.
+Issuer: VASTNED RETAIL N.V.
+Issuer: WERELDHAVE N.V.
+Issuer: WOLTERS KLUWER N.V.
+Issuer: ZIGGO N.V.
+
+Errors:
+
+Done.
+
+Script ran 1 min and 10 sec

@@ -1,0 +1,244 @@
+Calculating total short interest for : XBRU
+
+Issuer: ablynx
+Issuer: aedifica
+Issuer: agfa gevaert nv
+Issuer: ahold-delhaize group
+Issuer: bpost
+Issuer: barco
+Issuer: befimmo
+Issuer: bekaert
+Issuer: celyad
+Issuer: cofinimmo
+Issuer: colruyt
+Issuer: dexia sa
+Issuer: evs broadcasting
+Issuer: econocom
+Issuer: euronav nv
+Issuer: exmar
+Issuer: fagron
+Issuer: galapagos
+Issuer: iba
+Issuer: kbc groep nv
+Issuer: kinepolis
+Issuer: mdxhealth
+Issuer: nyrstar
+Issuer: ontex
+Issuer: orange belgium sa
+Issuer: proximus
+Issuer: recticel
+Issuer: solvay sa
+Issuer: telenet
+Issuer: tessenderlo
+Issuer: thrombogenics nv
+Issuer: tigenix
+Issuer: ucb
+Issuer: umicore
+
+Errors:
+
+Done.
+
+Script ran 0 min and 18 sec
+Calculating total short interest for : XAMS
+
+Issuer: amg advanced metallurgical group n.v.
+Issuer: asm international n.v.
+Issuer: asml holding n.v.
+Issuer: aalberts industries n.v.
+Issuer: accell group n.v.
+Issuer: aegon n.v.
+Issuer: akzonobel n.v.
+Issuer: altice n.v.
+Issuer: aperam
+Issuer: arcadis n.v.
+Issuer: arcelormittal s.a.
+Issuer: be semiconductor industries n.v.
+Issuer: basic-fit n.v.
+Issuer: binckbank n.v.
+Issuer: brunel international n.v.
+Issuer: corbion n.v.
+Issuer: corbion n.v.
+Issuer: core laboratories n.v.
+Issuer: corio n.v.
+Issuer: delta lloyd n.v.
+Issuer: docdata n.v.
+Issuer: eurocommercial properties n.v.
+Issuer: exact holding n.v.
+Issuer: flow traders n.v.
+Issuer: fugro n.v.
+Issuer: galapagos n.v.
+Issuer: gemalto n.v.
+Issuer: heijmans n.v.
+Issuer: inverko n.v.
+Issuer: kendrion n.v.
+Issuer: koninklijke ahold delhaize n.v.
+Issuer: koninklijke ahold n.v.
+Issuer: koninklijke bam groep n.v.
+Issuer: koninklijke boskalis westminster n.v.
+Issuer: koninklijke dsm n.v.
+Issuer: koninklijke kpn n.v.
+Issuer: koninklijke ten cate n.v.
+Issuer: koninklijke vopak n.v.
+Issuer: koninklijke wessanen n.v.
+Issuer: nsi n.v.
+Issuer: nutreco n.v.
+Issuer: oci n.v.
+Issuer: ordina n.v.
+Issuer: pharming group n.v.
+Issuer: philips lighting n.v.
+Issuer: postnl n.v.
+Issuer: royal dutch shell plc
+Issuer: royal imtech n.v.
+Issuer: sbm offshore n.v.
+Issuer: sns reaal n.v.
+Issuer: tkh group n.v.
+Issuer: tnt express n.v.
+Issuer: tomtom n.v.
+Issuer: usg people n.v.
+Issuer: unibail-rodamco
+Issuer: vastned retail n.v.
+Issuer: wereldhave n.v.
+Issuer: wolters kluwer n.v.
+Issuer: ziggo n.v.
+
+Errors:
+
+Done.
+
+Script ran 0 min and 34 sec
+Calculating total short interest for : XPAR
+
+Issuer: ab science
+Issuer: accor
+Issuer: adocia
+Issuer: air france-klm
+Issuer: airbus group se
+Issuer: alcatel lucent
+Issuer: alstom
+Issuer: alten
+Issuer: altran technologies
+Issuer: anf immobilier
+Issuer: arkema
+Issuer: aroundtown property holdings
+Issuer: artprice.com
+Issuer: assystem
+Issuer: atos se
+Issuer: ausy
+Issuer: avanquest
+Issuer: belvedere
+Issuer: beneteau
+Issuer: biomerieux
+Issuer: bollore
+Issuer: bourbon
+Issuer: bouygues
+Issuer: bureau veritas
+Issuer: bureau veritas registre international de classification de navires et d'aeronefs
+Issuer: cap gemini
+Issuer: carrefour
+Issuer: casino guichard-perrachon
+Issuer: cellectis
+Issuer: cgg
+Issuer: chargeurs
+Issuer: compagnie de saint-gobain
+Issuer: compagnie generale de geophysique - veritas
+Issuer: compagnie generale des etablissements michelin
+Issuer: compagnie industrielle et financiere d’ingenierie ingenico
+Issuer: compagnie industrielle et financiere d’ingenierie, ingenico
+Issuer: compagnie plastic omnium
+Issuer: danone
+Issuer: dassault systemes
+Issuer: dbv technologies
+Issuer: devoteam
+Issuer: edenred
+Issuer: eiffage
+Issuer: elior group
+Issuer: erytech pharma
+Issuer: essilor international
+Issuer: etablissements maurel et prom
+Issuer: eurofins scientific se
+Issuer: euronext nv
+Issuer: europcar groupe
+Issuer: eutelsat communications
+Issuer: faurecia
+Issuer: fonciere des regions
+Issuer: gameloft
+Issuer: gameloft se
+Issuer: gaztransport et technigaz
+Issuer: gecina
+Issuer: gemalto nv
+Issuer: genfit
+Issuer: groupe eurotunnel se
+Issuer: groupe fnac
+Issuer: groupe steria sca
+Issuer: havas
+Issuer: hi-media
+Issuer: highco
+Issuer: icade
+Issuer: iliad
+Issuer: ingenico
+Issuer: innate pharma
+Issuer: jcdecaux sa
+Issuer: klepierre
+Issuer: l'air liquide
+Issuer: lafarge
+Issuer: lafargeholcim ltd
+Issuer: lagardere sca
+Issuer: marie brizard wine and spirits
+Issuer: mercialys
+Issuer: metabolic explorer
+Issuer: metropole television
+Issuer: montupet s.a.
+Issuer: naturex
+Issuer: neopost s.a.
+Issuer: nexans
+Issuer: nexity
+Issuer: nicox sa
+Issuer: orange
+Issuer: orpea
+Issuer: pagesjaunes groupe
+Issuer: parrot
+Issuer: pernod ricard
+Issuer: peugeot s.a.
+Issuer: pierre et vacances
+Issuer: poxel
+Issuer: primecity investment plc
+Issuer: publicis groupe sa
+Issuer: rallye
+Issuer: remy cointreau
+Issuer: renault
+Issuer: rexel
+Issuer: rubis
+Issuer: sa le noble age
+Issuer: safran
+Issuer: saft groupe s.a.
+Issuer: scor se
+Issuer: sequana
+Issuer: ses
+Issuer: soitec
+Issuer: solocal group
+Issuer: sopra group
+Issuer: sopra steria group
+Issuer: spie sa
+Issuer: srp groupe
+Issuer: stmicroelectronics nv
+Issuer: suez environnement company
+Issuer: technicolor
+Issuer: technip
+Issuer: technipfmc plc
+Issuer: television francaise 1
+Issuer: thales
+Issuer: theolia
+Issuer: ubisoft entertainment
+Issuer: valeo
+Issuer: vallourec
+Issuer: veolia environnement
+Issuer: virbac
+Issuer: wendel
+Issuer: zodiac aerospace
+
+Errors:
+
+Done.
+
+Script ran 1 min and 13 sec

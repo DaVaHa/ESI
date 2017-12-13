@@ -1,0 +1,19 @@
+Loading Excel file...
+
+Importing worksheets:
+
+=> Archives
+Rows added: 39533
+
+=> Former positions
+Rows added: 104
+
+=> Current positions
+Rows added: 34
+
+=> ALL
+Rows added: 39654
+
+Done.
+
+Script ran for 25.13 seconds.

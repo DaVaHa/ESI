@@ -1,0 +1,243 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 139
+
+
+Rows before: 139
+
+Rows deleted: 0
+
+Rows after: 139
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 39688
+
+
+Rows before: 39688
+
+Rows deleted: 0
+
+Rows after: 39688
+
+Done.
+
+Script ran for 3.34 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('SYSTEMATICA INVESTMENTS LIMITED', 'GEMALTO N.V.', 'NL0000400653', 0.49, '20171122', 'XAMS')
+('SYSTEMATICA INVESTMENTS LIMITED', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171123', 'XAMS', 'HALF_PERCENT', '20171125_12h19')
+
+Rows added: 1
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 725
+
+
+Rows before: 725
+
+Rows deleted: 0
+
+Rows after: 725
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ALGERT GLOBAL, LLC', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 0.0, '20170823', 'XAMS', 'HALF_PERCENT', '20170826_20h53')
+('SYSTEMATICA INVESTMENTS LIMITED', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171123', 'XAMS', 'HALF_PERCENT', '20171125_12h19')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('ALGERT GLOBAL, LLC', 'KONINKLIJKE BAM GROEP N.V.', 0.0, '20170823')]
+
+Rows before: 7150
+
+holder: ALGERT GLOBAL, LLC // issuer: KONINKLIJKE BAM GROEP N.V. // date: 20170823
+Short interest: 0.5 vs 0.0
+Deleting SI: 0.0
+
+Rows before: 7150
+
+Rows deleted: 1
+
+Rows after: 7149
+
+Done.
+
+Script ran for 1.12 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 1115
+
+
+Rows before: 1115
+
+Rows deleted: 0
+
+Rows after: 1115
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('WORLDQUANT LLC', 'CARREFOUR', 'FR0000120172', 0.0, '20171110', 'XPAR', 'HALF_PERCENT', '20171111_11h07')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('WORLDQUANT LLC', 'CARREFOUR', 0.0, '20171110')]
+
+Rows before: 10969
+
+holder: WORLDQUANT LLC // issuer: CARREFOUR // date: 20171110
+Short interest: 0.5 vs 0.0
+Deleting SI: 0.0
+
+Rows before: 10969
+
+Rows deleted: 1
+
+Rows after: 10968
+
+Done.
+
+Script ran for 1.78 seconds.
+Adding corrections to: XLIS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 32
+
+
+Rows before: 32
+
+Rows deleted: 0
+
+Rows after: 32
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 657
+
+
+Rows before: 657
+
+Rows deleted: 0
+
+Rows after: 657
+
+Done.
+
+Script ran for 0.04 seconds.

@@ -1,0 +1,83 @@
+
+Importing updates of last 3 months into SourceData : XBRU.db.
+Checking updates from 20170409 and adding to XBRU.db...
+
+('Marshall Wace LLP', 'Euronav NV', 'BE0003816338', 1.0, '20170630', 'XBRU', '20170709_22h08')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 0.83, '20170614', 'XBRU', '20170709_22h08')
+('JPMorgan Asset Management (UK) Ltd', 'IBA', 'BE0003766806', 0.72, '20170705', 'XBRU', '20170709_22h08')
+('Connor, Clark & Lunn Investment Management Ltd.', 'Euronav NV', 'BE0003816338', 0.7, '20170621', 'XBRU', '20170709_22h08')
+('BlackRock Institutional Trust Company, National Association', 'Ontex', 'BE0974276082', 0.7, '20170704', 'XBRU', '20170709_22h08')
+
+Rows added: 5
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 36288
+
+
+Rows before: 36288
+
+Rows deleted: 0
+
+Rows after: 36288
+
+Done.
+
+Script ran for 0.47 seconds.
+
+Importing updates of last 3 months into SourceData : XAMS.db.
+Checking updates from 20170409 and adding to XAMS.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6240
+
+
+Rows before: 6240
+
+Rows deleted: 0
+
+Rows after: 6240
+
+Done.
+
+Script ran for 0.1 seconds.
+
+Importing updates of last 3 months into SourceData : XPAR.db.
+Checking updates from 20170409 and adding to XPAR.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 9173
+
+
+Rows before: 9173
+
+Rows deleted: 0
+
+Rows after: 9173
+
+Done.
+
+Script ran for 0.19 seconds.

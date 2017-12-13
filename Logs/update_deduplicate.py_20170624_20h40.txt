@@ -1,0 +1,348 @@
+Importing updates of last 60 months into SourceData : XBRU.db.
+Checking updates from 20120624 and adding to XBRU.db...
+
+('AKO Capital LLP for AKO Master Fund Limited', 'Ahold-Delhaize Group', 'BE0003562700', 1.72, '20121217', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131031', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131101', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131102', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131103', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131104', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131105', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131106', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131107', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131107', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131108', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131108', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131109', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131109', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131110', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131110', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131111', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131111', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131112', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131112', 'XBRU', '20170624_20h40')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131113', 'XBRU', '20170624_20h40')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131113', 'XBRU', '20170624_20h40')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151003', 'XBRU', '20170624_20h40')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151004', 'XBRU', '20170624_20h40')
+Importing updates of last 60 months into SourceData : XPAR.db.
+Checking updates from 20120624 and adding to XPAR.db...
+
+('MANIKAY PARTNERS LLC', 'TECHNIP', 'FR0000131708', 0.55, '20161205', 'XPAR', '20170624_20h40')
+('CQS UK LLP', 'ALCATEL LUCENT', 'FR0000130007', 1.21, '20141021', 'XPAR', '20170624_20h40')
+('BRAHMAN CAPITAL CORP', 'NEOPOST S.A.', 'FR0000120560', 1.28, '20121101', 'XPAR', '20170624_20h40')
+('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 'FR0010096354', 2.14, '20121228', 'XPAR', '20170624_20h40')
+('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 'FR0010096354', 1.82, '20121224', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.88, '20140430', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.99, '20140425', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.06, '20140415', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.11, '20140411', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.01, '20140214', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.91, '20140116', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.8, '20140106', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.75, '20131223', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.61, '20131104', 'XPAR', '20170624_20h40')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.51, '20131025', 'XPAR', '20170624_20h40')
+('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 'FR0000131708', 1.1, '20150911', 'XPAR', '20170624_20h40')
+
+Rows added: 17
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('CQS UK LLP', 'ALCATEL LUCENT', 1.21, '20141021'), ('BRAHMAN CAPITAL CORP', 'NEOPOST S.A.', 1.28, '20121101'), ('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 1.82, '20121224'), ('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 2.14, '20121228'), ('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 1.1, '20150911'), ('MANIKAY PARTNERS LLC', 'TECHNIP', 0.55, '20161205')]
+
+Rows before: 8221
+
+holder: CQS UK LLP // issuer: ALCATEL LUCENT // date: 20141021
+Short interest: 1.2 vs 1.21
+Deleting SI: 1.21
+holder: BRAHMAN CAPITAL CORP // issuer: NEOPOST S.A. // date: 20121101
+Short interest: 0.83 vs 1.28
+Deleting SI: 1.28
+holder: CHEYNE CAPITAL MANAGEMENT (UK) LLP // issuer: PAGESJAUNES GROUPE // date: 20121224
+Short interest: 1.73 vs 1.82
+Deleting SI: 1.82
+holder: CHEYNE CAPITAL MANAGEMENT (UK) LLP // issuer: PAGESJAUNES GROUPE // date: 20121228
+Short interest: 1.94 vs 2.14
+Deleting SI: 2.14
+holder: ALKEN LUXEMBOURG S.A. // issuer: TECHNIP // date: 20150911
+Short interest: 1.02 vs 1.1
+Deleting SI: 1.1
+holder: MANIKAY PARTNERS LLC // issuer: TECHNIP // date: 20161205
+Short interest: 0.12 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 8221
+
+Rows deleted: 6
+
+Rows after: 8215
+
+Done.
+
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170624_20h40')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170624_20h40')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170624_20h40')
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170624_20h41')
+
+Rows added: 28
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('AKO Capital LLP for AKO Master Fund Limited', 'Ahold-Delhaize Group', 1.72, '20121217'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131031'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131101'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131102'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131103'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131104'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131105'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131106'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131107'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131108'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131109'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131110'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131111'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131112'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131113'), ('BNP Paribas SA', 'Econocom', 0.8, '20131107'), ('BNP Paribas SA', 'Econocom', 0.8, '20131108'), ('BNP Paribas SA', 'Econocom', 0.8, '20131109'), ('BNP Paribas SA', 'Econocom', 0.8, '20131110'), ('BNP Paribas SA', 'Econocom', 0.8, '20131111'), ('BNP Paribas SA', 'Econocom', 0.8, '20131112'), ('BNP Paribas SA', 'Econocom', 0.8, '20131113'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323'), ('Oxford Asset Management', 'Fagron', 0.63, '20151003'), ('Oxford Asset Management', 'Fagron', 0.63, '20151004'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161103')]
+
+Rows before: 36176
+
+holder: AKO Capital LLP for AKO Master Fund Limited // issuer: Ahold-Delhaize Group // date: 20121217
+Short interest: 1.66 vs 1.72
+Deleting SI: 1.72
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131031
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131101
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131102
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131103
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131104
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131105
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131106
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131107
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131108
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131109
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131110
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131111
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131112
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131113
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: BNP Paribas SA // issuer: Econocom // date: 20131107
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131108
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131109
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131110
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131111
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131112
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131113
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: Oxford Asset Management // issuer: Fagron // date: 20151003
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: Oxford Asset Management // issuer: Fagron // date: 20151004
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+
+Rows before: 36176
+
+Rows deleted: 28
+
+Rows after: 36148
+
+Done.
+
+Importing updates of last 60 months into SourceData : XPAR.db.
+Checking updates from 20120624 and adding to XPAR.db...
+
+('MANIKAY PARTNERS LLC', 'TECHNIP', 'FR0000131708', 0.55, '20161205', 'XPAR', '20170624_20h42')
+('CQS UK LLP', 'ALCATEL LUCENT', 'FR0000130007', 1.21, '20141021', 'XPAR', '20170624_20h42')
+('BRAHMAN CAPITAL CORP', 'NEOPOST S.A.', 'FR0000120560', 1.28, '20121101', 'XPAR', '20170624_20h42')
+('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 'FR0010096354', 2.14, '20121228', 'XPAR', '20170624_20h42')
+('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 'FR0010096354', 1.82, '20121224', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.88, '20140430', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.99, '20140425', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.06, '20140415', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.11, '20140411', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.01, '20140214', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.91, '20140116', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.8, '20140106', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.75, '20131223', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.61, '20131104', 'XPAR', '20170624_20h42')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.51, '20131025', 'XPAR', '20170624_20h42')
+('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 'FR0000131708', 1.1, '20150911', 'XPAR', '20170624_20h42')
+
+Rows added: 17
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('CQS UK LLP', 'ALCATEL LUCENT', 1.21, '20141021'), ('BRAHMAN CAPITAL CORP', 'NEOPOST S.A.', 1.28, '20121101'), ('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 1.82, '20121224'), ('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 2.14, '20121228'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.51, '20131025'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.61, '20131104'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.75, '20131223'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.8, '20140106'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.91, '20140116'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 1.01, '20140214'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 1.11, '20140411'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 1.06, '20140415'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.99, '20140425'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.88, '20140430'), ('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.43, '20140509'), ('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 1.1, '20150911'), ('MANIKAY PARTNERS LLC', 'TECHNIP', 0.55, '20161205')]
+
+Rows before: 8232
+
+holder: CQS UK LLP // issuer: ALCATEL LUCENT // date: 20141021
+Short interest: 1.2 vs 1.21
+Deleting SI: 1.21
+holder: BRAHMAN CAPITAL CORP // issuer: NEOPOST S.A. // date: 20121101
+Short interest: 0.83 vs 1.28
+Deleting SI: 1.28
+holder: CHEYNE CAPITAL MANAGEMENT (UK) LLP // issuer: PAGESJAUNES GROUPE // date: 20121224
+Short interest: 1.73 vs 1.82
+Deleting SI: 1.82
+holder: CHEYNE CAPITAL MANAGEMENT (UK) LLP // issuer: PAGESJAUNES GROUPE // date: 20121228
+Short interest: 1.94 vs 2.14
+Deleting SI: 2.14
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20131025
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20131104
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20131223
+Short interest: 0.75 vs 0.75
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.75
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140106
+Short interest: 0.8 vs 0.8
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.8
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140116
+Short interest: 0.91 vs 0.91
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.91
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140214
+Short interest: 1.01 vs 1.01
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.01
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140411
+Short interest: 1.11 vs 1.11
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.11
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140415
+Short interest: 1.06 vs 1.06
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.06
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140425
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.99
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140430
+Short interest: 0.88 vs 0.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.88
+holder: ALPINE\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140509
+Short interest: 0.43 vs 0.43
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.43
+holder: ALKEN LUXEMBOURG S.A. // issuer: TECHNIP // date: 20150911
+Short interest: 1.02 vs 1.1
+Deleting SI: 1.1
+holder: MANIKAY PARTNERS LLC // issuer: TECHNIP // date: 20161205
+Short interest: 0.12 vs 0.55
+Deleting SI: 0.55
+Importing updates of last 60 months into SourceData : XPAR.db.
+Checking updates from 20120624 and adding to XPAR.db...
+
+('MANIKAY PARTNERS LLC', 'TECHNIP', 'FR0000131708', 0.55, '20161205', 'XPAR', '20170624_20h43')
+('CQS UK LLP', 'ALCATEL LUCENT', 'FR0000130007', 1.21, '20141021', 'XPAR', '20170624_20h43')
+('BRAHMAN CAPITAL CORP', 'NEOPOST S.A.', 'FR0000120560', 1.28, '20121101', 'XPAR', '20170624_20h43')
+('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 'FR0010096354', 2.14, '20121228', 'XPAR', '20170624_20h43')
+('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 'FR0010096354', 1.82, '20121224', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.88, '20140430', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.99, '20140425', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.06, '20140415', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.11, '20140411', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 1.01, '20140214', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.91, '20140116', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.8, '20140106', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.75, '20131223', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.61, '20131104', 'XPAR', '20170624_20h43')
+('ALPINE\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.51, '20131025', 'XPAR', '20170624_20h43')
+('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 'FR0000131708', 1.1, '20150911', 'XPAR', '20170624_20h43')
+
+Rows added: 17
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('CQS UK LLP', 'ALCATEL LUCENT', 1.21, '20141021'), ('BRAHMAN CAPITAL CORP', 'NEOPOST S.A.', 1.28, '20121101'), ('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 1.82, '20121224'), ('CHEYNE CAPITAL MANAGEMENT (UK) LLP', 'PAGESJAUNES GROUPE', 2.14, '20121228'), ('ALKEN LUXEMBOURG S.A.', 'TECHNIP', 1.1, '20150911'), ('MANIKAY PARTNERS LLC', 'TECHNIP', 0.55, '20161205')]
+
+Rows before: 8221
+
+holder: CQS UK LLP // issuer: ALCATEL LUCENT // date: 20141021
+Short interest: 1.2 vs 1.21
+Deleting SI: 1.21
+holder: BRAHMAN CAPITAL CORP // issuer: NEOPOST S.A. // date: 20121101
+Short interest: 0.83 vs 1.28
+Deleting SI: 1.28
+holder: CHEYNE CAPITAL MANAGEMENT (UK) LLP // issuer: PAGESJAUNES GROUPE // date: 20121224
+Short interest: 1.73 vs 1.82
+Deleting SI: 1.82
+holder: CHEYNE CAPITAL MANAGEMENT (UK) LLP // issuer: PAGESJAUNES GROUPE // date: 20121228
+Short interest: 1.94 vs 2.14
+Deleting SI: 2.14
+holder: ALKEN LUXEMBOURG S.A. // issuer: TECHNIP // date: 20150911
+Short interest: 1.02 vs 1.1
+Deleting SI: 1.1
+holder: MANIKAY PARTNERS LLC // issuer: TECHNIP // date: 20161205
+Short interest: 0.12 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 8221
+
+Rows deleted: 6
+
+Rows after: 8215
+
+Done.
+

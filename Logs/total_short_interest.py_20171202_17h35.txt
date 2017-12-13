@@ -1,0 +1,34 @@
+Issuer: TECHNICOLOR
+Issuer: TECHNIP
+Issuer: TECHNIPFMC PLC
+Issuer: TELEPERFORMANCE
+Issuer: TELEVISION FRANCAISE 1
+Issuer: THALES
+Issuer: THEOLIA
+Issuer: UBISOFT ENTERTAINMENT
+Issuer: VALEO
+Issuer: VALLOUREC
+Issuer: VEOLIA ENVIRONNEMENT
+Issuer: VIRBAC
+Issuer: VIVENDI
+Issuer: WENDEL
+Issuer: X-FAB SILICON FOUNDRIES SE
+Issuer: ZODIAC AEROSPACE
+
+Errors:
+
+Done.
+
+Script ran 2 min and 60 sec
+Calculating total short interest for : XPAR
+
+Issuer: AB SCIENCE
+Issuer: ACCOR
+Issuer: ADOCIA
+Issuer: AFFINE R.E.
+Issuer: AIR FRANCE-KLM
+Issuer: AIRBUS
+Issuer: ALCATEL LUCENT
+Issuer: ALSTOM
+Issuer: ALTEN
+Issuer: ALTRAN TECHNOLOGIES

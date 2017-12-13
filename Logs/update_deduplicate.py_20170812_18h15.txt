@@ -1,0 +1,94 @@
+
+Importing updates of last 6 months into SourceData : XBRU.db.
+Checking updates from 20170212 and adding to XBRU.db...
+
+('ODDO CONTREPARTIE', 'ECONOCOM', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170812_18h18')
+('MARSHALL WACE LLP', 'EURONAV NV', 'BE0003816338', 0.76, '20170810', 'XBRU', '20170812_18h18')
+('OCH-ZIFF MANAGEMENT EUROPE LTD.', 'GREENYARD NV', 'BE0003765790', 0.56, '20170810', 'XBRU', '20170812_18h18')
+
+Rows added: 3
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('ODDO CONTREPARTIE', 'ECONOCOM', 1.45, '20170323')]
+
+Rows before: 38186
+
+holder: ODDO CONTREPARTIE // issuer: ECONOCOM // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+
+Rows before: 38186
+
+Rows deleted: 1
+
+Rows after: 38185
+
+Done.
+
+Script ran for 5.3 seconds.
+
+Importing updates of last 6 months into SourceData : XAMS.db.
+Checking updates from 20170212 and adding to XAMS.db...
+
+('AQR CAPITAL MANAGEMENT, LLC', 'KONINKLIJKE VOPAK N.V.', 'NL0009432491', 1.41, '20170810', 'XAMS', '20170812_18h18')
+('BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION', 'FUGRO N.V.', 'NL0000352565', 0.6, '20170810', 'XAMS', '20170812_18h18')
+('BLACKROCK INSTITUTIONAL TRUST COMPANY, NATIONAL ASSOCIATION', 'SBM OFFSHORE N.V.', 'NL0000360618', 0.71, '20170810', 'XAMS', '20170812_18h18')
+('BLACKROCK INVESTMENT MANAGEMENT (UK) LIMITED', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 1.11, '20170810', 'XAMS', '20170812_18h18')
+('GSA CAPITAL PARTNERS LLP', 'BINCKBANK N.V.', 'NL0000335578', 0.97, '20170810', 'XAMS', '20170812_18h18')
+('JPMORGAN ASSET MANAGEMENT (UK) LTD.', 'FUGRO N.V.', 'NL0000352565', 1.29, '20170810', 'XAMS', '20170812_18h18')
+('MARSHALL WACE LLP', 'FLOW TRADERS N.V.', 'NL0011279492', 0.7, '20170810', 'XAMS', '20170812_18h18')
+('MARSHALL WACE LLP', 'POSTNL N.V.', 'NL0009739416', 0.83, '20170810', 'XAMS', '20170812_18h18')
+('MARSHALL WACE LLP', 'WERELDHAVE N.V.', 'NL0000289213', 1.22, '20170810', 'XAMS', '20170812_18h18')
+('MILLENNIUM INTERNATIONAL MANAGEMENT LP', 'WERELDHAVE N.V.', 'NL0000289213', 1.08, '20170810', 'XAMS', '20170812_18h18')
+
+Rows added: 10
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6545
+
+
+Rows before: 6545
+
+Rows deleted: 0
+
+Rows after: 6545
+
+Done.
+
+Script ran for 0.25 seconds.
+
+Importing updates of last 6 months into SourceData : XPAR.db.
+Checking updates from 20170212 and adding to XPAR.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 9902
+
+
+Rows before: 9902
+
+Rows deleted: 0
+
+Rows after: 9902
+
+Done.
+
+Script ran for 0.32 seconds.

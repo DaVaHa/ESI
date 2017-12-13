@@ -1,0 +1,69 @@
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'AIR FRANCE-KLM', 'FR0000031122', 0.44, '20170614', 'XPAR')
+('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'AIR FRANCE-KLM', 'FR0000031122', 0.0, '20170615', 'XPAR', 'HALF_PERCENT', '20171202_19h09')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.43, '20140509', 'XPAR')
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'HALF_PERCENT', '20171202_19h09')
+
+Rows added: 2
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity PUBLICIS GROUPE SA - Holder: ALPINE\xa0HERITAGE, L.P.
+('ALPINE\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 'FR0000130577', 0.0, '20140510', 'XPAR', 'ONE_YEAR_GAP', '20171202_19h09')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[('ALPINE\\\\xa0HERITAGE, L.P.', 'PUBLICIS GROUPE SA', 0.0, '20140510')]
+
+Rows before: 3
+
+holder: ALPINE\\xa0HERITAGE, L.P. // issuer: PUBLICIS GROUPE SA // date: 20140510
+Short interest: 0.0 vs 0.0
+Deleting SI: 0.0
+
+Rows before: 3
+
+Rows deleted: 2
+
+Rows after: 1
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'AIR FRANCE-KLM', 'FR0000031122', 0.0, '20170615', 'XPAR', 'HALF_PERCENT', '20171202_19h09')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 10971
+
+
+Rows before: 10971
+
+Rows deleted: 0
+
+Rows after: 10971
+
+Done.
+
+Script ran for 3.09 seconds.

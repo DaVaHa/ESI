@@ -1,0 +1,15 @@
+Deduplicating SourceData from XAMS.db ...
+Duplicates:
+[('Daniel', 'Daniel', 0.0, 'Daniel')]
+
+Rows before: 5426
+holder: Daniel // issuer: Daniel // date: Daniel
+
+ERROR: Record is not a double!!
+Length: 3
+('Daniel', 'Daniel', 0.0, 'Daniel')
+Short interest: 0.0 vs 0.0
+Rows deleted: 3
+
+Done.
+

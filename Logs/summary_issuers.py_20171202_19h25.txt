@@ -1,0 +1,13 @@
+
+Updating Issuers in SummaryDB for MIC: XLIS
+Script ran for 1.71 seconds.
+
+Updating Issuers in SummaryDB for MIC: XBRU
+AGFA-GEVAERT NV not yet in db
+Script ran for 7.23 seconds.
+
+Updating Issuers in SummaryDB for MIC: XAMS
+Script ran for 8.07 seconds.
+
+Updating Issuers in SummaryDB for MIC: XPAR
+Script ran for 12.67 seconds.

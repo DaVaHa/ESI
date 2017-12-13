@@ -1,0 +1,6 @@
+
+Done.
+
+Creating databases for MIC: XAMS
+temp_XAMS.db
+XAMS.db

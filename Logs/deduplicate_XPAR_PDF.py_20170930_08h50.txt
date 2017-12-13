@@ -1,0 +1,200 @@
+Deduplicating SourceData from XPAR_PDF.db ...
+
+Duplicates:
+[('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 0.82, '20170802'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 0.72, '20170818'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 0.68, '20170830'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 0.77, '20170831'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 0.98, '20170908'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 1.23, '20170911'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 1.71, '20170912'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 1.15, '20170914'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'AIR FRANCE-KLM', 0.91, '20170919'), ('KAIROS INVESTMENT MANAGEMENT LIMITED', 'CGG', 2.33, '20170913'), ('KAIROS INVESTMENT MANAGEMENT LIMITED', 'CGG', 2.19, '20170914'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.72, '20170810'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.8, '20170822'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.99, '20170825'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 1.0, '20170829'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.99, '20170830'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.88, '20170901'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.77, '20170912'), ('SUSQUEHANNA INTERNATIONAL HOLDINGS LLC', 'CGG', 0.68, '20170915'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'GAZTRANSPORT ET TECHNIGAZ', 1.89, '20170816'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'GAZTRANSPORT ET TECHNIGAZ', 1.78, '20170908'), ('AQR CAPITAL MANAGEMENT, LLC', 'INGENICO', 3.0, '20170908'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'INGENICO', 0.69, '20170814'), ('MARSHALL WACE LLP', 'INGENICO', 2.3, '20170906'), ('MARSHALL WACE LLP', 'INGENICO', 2.29, '20170913'), ('MARSHALL WACE LLP', 'INGENICO', 2.17, '20170918'), ('MARSHALL WACE LLP', 'INGENICO', 2.07, '20170920'), ('WELLINGTON MANAGEMENT COMPANYLLP', 'INGENICO', 0.57, '20170911'), ('WELLINGTON MANAGEMENT COMPANYLLP', 'INGENICO', 0.63, '20170912'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'KORIAN', 0.59, '20170802'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'KORIAN', 0.6, '20170829'), ('MILLENNIUM INTERNATIONAL MANAGEMENT LP', 'MERCIALYS', 0.68, '20170818'), ('MILLENNIUM INTERNATIONAL MANAGEMENT LP', 'MERCIALYS', 0.7, '20170918'), ('JPMORGAN ASSET MANAGEMENT (UK) LIMITED', 'NEXANS', 0.53, '20170807'), ('OCH-ZIFF MANAGEMENT EUROPE LIMITED', 'PIERRE ET VACANCES', 0.71, '20170731'), ('JPMORGAN ASSET MANAGEMENT (UK) LIMITED', 'TECHNICOLOR', 0.54, '20170911'), ('JPMORGAN ASSET MANAGEMENT (UK) LIMITED', 'TECHNICOLOR', 0.61, '20170913'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 0.63, '20170803'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 0.78, '20170804'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 0.82, '20170822'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 0.94, '20170825'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 1.0, '20170830'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 0.91, '20170918'), ('BLACKROCK INVESTMENT MANAGEMENT UK LIMITED', 'VALLOUREC', 0.86, '20170919'), ('BOSTON PARTNERS GLOBAL INVESTORS INC', 'VALLOUREC', 0.72, '20170810'), ('BOSTON PARTNERS GLOBAL INVESTORS INC', 'VALLOUREC', 0.51, '20170811')]
+
+Rows before: 1524
+
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170802
+Short interest: 0.82 vs 0.82
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.82
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170818
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170830
+Short interest: 0.68 vs 0.68
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.68
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170831
+Short interest: 0.77 vs 0.77
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.77
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170908
+Short interest: 0.98 vs 0.98
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.98
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170911
+Short interest: 1.23 vs 1.23
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.23
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170912
+Short interest: 1.71 vs 1.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.71
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170914
+Short interest: 1.15 vs 1.15
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.15
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: AIR FRANCE-KLM // date: 20170919
+Short interest: 0.91 vs 0.91
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.91
+holder: KAIROS INVESTMENT MANAGEMENT LIMITED // issuer: CGG // date: 20170913
+Short interest: 2.33 vs 2.33
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.33
+holder: KAIROS INVESTMENT MANAGEMENT LIMITED // issuer: CGG // date: 20170914
+Short interest: 2.19 vs 2.19
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.19
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170810
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170822
+Short interest: 0.8 vs 0.8
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.8
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170825
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.99
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170829
+Short interest: 1.0 vs 1.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.0
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170830
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.99
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170901
+Short interest: 0.88 vs 0.88
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.88
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170912
+Short interest: 0.77 vs 0.77
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.77
+holder: SUSQUEHANNA INTERNATIONAL HOLDINGS LLC // issuer: CGG // date: 20170915
+Short interest: 0.68 vs 0.68
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.68
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: GAZTRANSPORT ET TECHNIGAZ // date: 20170816
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.89
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: GAZTRANSPORT ET TECHNIGAZ // date: 20170908
+Short interest: 1.78 vs 1.78
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.78
+holder: AQR CAPITAL MANAGEMENT, LLC // issuer: INGENICO // date: 20170908
+Short interest: 3.0 vs 3.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 3.0
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: INGENICO // date: 20170814
+Short interest: 0.69 vs 0.69
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.69
+holder: MARSHALL WACE LLP // issuer: INGENICO // date: 20170906
+Short interest: 2.3 vs 2.3
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.3
+holder: MARSHALL WACE LLP // issuer: INGENICO // date: 20170913
+Short interest: 2.29 vs 2.29
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.29
+holder: MARSHALL WACE LLP // issuer: INGENICO // date: 20170918
+Short interest: 2.17 vs 2.17
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.17
+holder: MARSHALL WACE LLP // issuer: INGENICO // date: 20170920
+Short interest: 2.07 vs 2.07
+Alert: Same SI!! Only delete 1..
+Deleting SI: 2.07
+holder: WELLINGTON MANAGEMENT COMPANYLLP // issuer: INGENICO // date: 20170911
+Short interest: 0.57 vs 0.57
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.57
+holder: WELLINGTON MANAGEMENT COMPANYLLP // issuer: INGENICO // date: 20170912
+Short interest: 0.63 vs 0.63
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.63
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: KORIAN // date: 20170802
+Short interest: 0.59 vs 0.59
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.59
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: KORIAN // date: 20170829
+Short interest: 0.6 vs 0.6
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.6
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170818
+Short interest: 0.68 vs 0.68
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.68
+holder: MILLENNIUM INTERNATIONAL MANAGEMENT LP // issuer: MERCIALYS // date: 20170918
+Short interest: 0.7 vs 0.7
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.7
+holder: JPMORGAN ASSET MANAGEMENT (UK) LIMITED // issuer: NEXANS // date: 20170807
+Short interest: 0.53 vs 0.53
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.53
+holder: OCH-ZIFF MANAGEMENT EUROPE LIMITED // issuer: PIERRE ET VACANCES // date: 20170731
+Short interest: 0.71 vs 0.71
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.71
+holder: JPMORGAN ASSET MANAGEMENT (UK) LIMITED // issuer: TECHNICOLOR // date: 20170911
+Short interest: 0.54 vs 0.54
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.54
+holder: JPMORGAN ASSET MANAGEMENT (UK) LIMITED // issuer: TECHNICOLOR // date: 20170913
+Short interest: 0.61 vs 0.61
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.61
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170803
+Short interest: 0.63 vs 0.63
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.63
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170804
+Short interest: 0.78 vs 0.78
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.78
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170822
+Short interest: 0.82 vs 0.82
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.82
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170825
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.94
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170830
+Short interest: 1.0 vs 1.0
+Alert: Same SI!! Only delete 1..
+Deleting SI: 1.0
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170918
+Short interest: 0.91 vs 0.91
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.91
+holder: BLACKROCK INVESTMENT MANAGEMENT UK LIMITED // issuer: VALLOUREC // date: 20170919
+Short interest: 0.86 vs 0.86
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.86
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170810
+Short interest: 0.72 vs 0.72
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.72
+holder: BOSTON PARTNERS GLOBAL INVESTORS INC // issuer: VALLOUREC // date: 20170811
+Short interest: 0.51 vs 0.51
+Alert: Same SI!! Only delete 1..
+Deleting SI: 0.51
+
+Rows before: 1524
+
+Rows deleted: 46
+
+Rows after: 1478
+
+Done.
+

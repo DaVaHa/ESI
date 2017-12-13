@@ -1,0 +1,568 @@
+Extracting raw source data: XBRU
+Checking updates from 20130424 and adding to XBRU.db...
+
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131031', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131101', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131102', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131103', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131104', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131105', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131106', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131107', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131107', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131108', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131108', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131109', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131109', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131110', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131110', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131111', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131111', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131112', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131112', 'XBRU', '20170424_22h35')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131113', 'XBRU', '20170424_22h35')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131113', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.64, '20141104', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141105', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141106', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141107', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141108', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141109', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141110', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141111', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141112', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.71, '20141113', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141114', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141115', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141116', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141117', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141118', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141119', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141120', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141121', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141122', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141123', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141124', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141125', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141126', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141127', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141128', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141129', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141130', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141201', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141202', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141203', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141204', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141205', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141206', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141207', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141208', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141209', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141210', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141211', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141212', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141213', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141214', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141215', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141216', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141217', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141218', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141219', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141220', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141221', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141222', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141223', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141224', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141225', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141226', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141227', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141228', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141229', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141230', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20141231', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150101', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150102', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150103', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150104', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150105', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150106', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150107', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150108', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150109', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150110', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150111', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150112', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150113', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150114', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150115', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150116', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150117', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150118', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150119', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150120', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150121', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150122', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150123', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150124', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150125', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150126', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150127', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150128', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150129', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150130', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150131', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150201', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150202', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150203', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150204', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150205', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150206', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150207', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150208', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150209', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150210', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150211', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150212', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150213', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150214', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150215', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150216', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150217', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150218', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150219', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150220', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150221', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150222', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150223', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150224', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150225', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150226', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150227', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150228', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150301', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150302', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150303', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150304', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150305', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150306', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150307', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150308', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150309', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150310', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150311', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150312', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150313', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150314', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150315', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150316', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150317', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150318', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150319', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150320', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150321', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150322', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150323', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150324', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150325', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150326', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150327', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150328', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150329', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150330', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150331', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150401', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150402', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150403', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150404', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150405', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150406', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150407', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150408', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150409', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150410', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150411', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150412', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150413', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150414', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150415', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150416', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150417', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150418', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150419', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150420', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150421', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150422', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150423', 'XBRU', '20170424_22h35')
+('Lansdowne Partners (UK) LLP ', 'Fagron', 'BE0003874915', 0.8, '20150424', 'XBRU', '20170424_22h35')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151003', 'XBRU', '20170424_22h35')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151004', 'XBRU', '20170424_22h35')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 0.92, '20160109', 'XBRU', '20170424_22h35')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170424_22h36')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170424_22h36')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170424_22h36')
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170424_22h36')
+
+Rows added: 200
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131031'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131101'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131102'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131103'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131104'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131105'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131106'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131107'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131108'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131109'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131110'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131111'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131112'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131113'), ('BNP Paribas SA', 'Econocom', 0.8, '20131107'), ('BNP Paribas SA', 'Econocom', 0.8, '20131108'), ('BNP Paribas SA', 'Econocom', 0.8, '20131109'), ('BNP Paribas SA', 'Econocom', 0.8, '20131110'), ('BNP Paribas SA', 'Econocom', 0.8, '20131111'), ('BNP Paribas SA', 'Econocom', 0.8, '20131112'), ('BNP Paribas SA', 'Econocom', 0.8, '20131113'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323'), ('Oxford Asset Management', 'Fagron', 0.63, '20151003'), ('Oxford Asset Management', 'Fagron', 0.63, '20151004'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161103'), ('Marshall Wace LLP', 'Nyrstar', 0.92, '20160109')]
+
+Rows before: 37001
+
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131031
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131101
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131102
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131103
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131104
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131105
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131106
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131107
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131108
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131109
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131110
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131111
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131112
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131113
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: BNP Paribas SA // issuer: Econocom // date: 20131107
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131108
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131109
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131110
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131111
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131112
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131113
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: Oxford Asset Management // issuer: Fagron // date: 20151003
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: Oxford Asset Management // issuer: Fagron // date: 20151004
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: Marshall Wace LLP // issuer: Nyrstar // date: 20160109
+Short interest: 0.68 vs 0.92
+Deleting SI: 0.92
+
+Rows deleted: 28
+
+Done.
+
+Extracting raw source data: XBRU
+Checking updates from 20130424 and adding to XBRU.db...
+
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131031', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131101', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131102', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131103', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131104', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131105', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131106', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131107', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131107', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131108', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131108', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131109', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131109', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131110', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131110', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131111', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131111', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131112', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131112', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131113', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131113', 'XBRU', '20170424_22h36')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151003', 'XBRU', '20170424_22h36')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151004', 'XBRU', '20170424_22h36')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 0.92, '20160109', 'XBRU', '20170424_22h36')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170424_22h36')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170424_22h36')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170424_22h36')
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170424_22h36')
+
+Rows added: 28
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131031'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131101'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131102'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131103'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131104'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131105'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131106'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131107'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131108'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131109'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131110'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131111'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131112'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131113'), ('BNP Paribas SA', 'Econocom', 0.8, '20131107'), ('BNP Paribas SA', 'Econocom', 0.8, '20131108'), ('BNP Paribas SA', 'Econocom', 0.8, '20131109'), ('BNP Paribas SA', 'Econocom', 0.8, '20131110'), ('BNP Paribas SA', 'Econocom', 0.8, '20131111'), ('BNP Paribas SA', 'Econocom', 0.8, '20131112'), ('BNP Paribas SA', 'Econocom', 0.8, '20131113'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323'), ('Oxford Asset Management', 'Fagron', 0.63, '20151003'), ('Oxford Asset Management', 'Fagron', 0.63, '20151004'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161103'), ('Marshall Wace LLP', 'Nyrstar', 0.92, '20160109')]
+
+Rows before: 37001
+
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131031
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131101
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131102
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131103
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131104
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131105
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131106
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131107
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131108
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131109
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131110
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131111
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131112
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131113
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: BNP Paribas SA // issuer: Econocom // date: 20131107
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131108
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131109
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131110
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131111
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131112
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131113
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: Oxford Asset Management // issuer: Fagron // date: 20151003
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: Oxford Asset Management // issuer: Fagron // date: 20151004
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: Marshall Wace LLP // issuer: Nyrstar // date: 20160109
+Short interest: 0.68 vs 0.92
+Deleting SI: 0.92
+
+Rows deleted: 28
+
+Done.
+
+Extracting raw source data: XBRU
+Checking updates from 20130424 and adding to XBRU.db...
+
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131031', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131101', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131102', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131103', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131104', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131105', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131106', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131107', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131107', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131108', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131108', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131109', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131109', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131110', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131110', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131111', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131111', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131112', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131112', 'XBRU', '20170424_22h36')
+('BNP Paribas SA', 'Econocom', 'BE0974266950', 0.8, '20131113', 'XBRU', '20170424_22h36')
+('Pictet Asset Management SA', 'EVS Broadcasting', 'BE0003820371', 0.73, '20131113', 'XBRU', '20170424_22h36')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151003', 'XBRU', '20170424_22h37')
+('Oxford Asset Management', 'Fagron', 'BE0003874915', 0.63, '20151004', 'XBRU', '20170424_22h37')
+('Marshall Wace LLP', 'Nyrstar', 'BE0003876936', 0.92, '20160109', 'XBRU', '20170424_22h37')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170424_22h37')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170424_22h37')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170424_22h37')
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170424_22h37')
+
+Rows added: 28
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131031'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131101'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131102'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131103'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131104'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131105'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131106'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131107'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131108'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131109'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131110'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131111'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131112'), ('Pictet Asset Management SA', 'EVS Broadcasting', 0.73, '20131113'), ('BNP Paribas SA', 'Econocom', 0.8, '20131107'), ('BNP Paribas SA', 'Econocom', 0.8, '20131108'), ('BNP Paribas SA', 'Econocom', 0.8, '20131109'), ('BNP Paribas SA', 'Econocom', 0.8, '20131110'), ('BNP Paribas SA', 'Econocom', 0.8, '20131111'), ('BNP Paribas SA', 'Econocom', 0.8, '20131112'), ('BNP Paribas SA', 'Econocom', 0.8, '20131113'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323'), ('Oxford Asset Management', 'Fagron', 0.63, '20151003'), ('Oxford Asset Management', 'Fagron', 0.63, '20151004'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161103'), ('Marshall Wace LLP', 'Nyrstar', 0.92, '20160109')]
+
+Rows before: 37001
+
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131031
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131101
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131102
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131103
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131104
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131105
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131106
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131107
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131108
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131109
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131110
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131111
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131112
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: Pictet Asset Management SA // issuer: EVS Broadcasting // date: 20131113
+Short interest: 0.6 vs 0.73
+Deleting SI: 0.73
+holder: BNP Paribas SA // issuer: Econocom // date: 20131107
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131108
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131109
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131110
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131111
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131112
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: BNP Paribas SA // issuer: Econocom // date: 20131113
+Short interest: 0.75 vs 0.8
+Deleting SI: 0.8
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: Oxford Asset Management // issuer: Fagron // date: 20151003
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: Oxford Asset Management // issuer: Fagron // date: 20151004
+Short interest: 0.56 vs 0.63
+Deleting SI: 0.63
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: Marshall Wace LLP // issuer: Nyrstar // date: 20160109
+Short interest: 0.68 vs 0.92
+Deleting SI: 0.92
+
+Rows deleted: 28
+
+Done.
+

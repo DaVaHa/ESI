@@ -1,0 +1,5 @@
+Creating database for MIC: XLIS
+XLIS_ShortInterest.db
+
+Done.
+

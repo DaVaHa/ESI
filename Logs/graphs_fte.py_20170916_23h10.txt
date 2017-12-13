@@ -1,0 +1,14 @@
+
+Script ran for 26.98 seconds.
+Creating Graphs for MIC: XBRU
+
+
+Script ran for 36.12 seconds.
+Creating Graphs for MIC: XBRU
+
+
+Script ran for 9.68 seconds.
+Creating Graphs for MIC: XBRU
+
+
+Script ran for 35.36 seconds.

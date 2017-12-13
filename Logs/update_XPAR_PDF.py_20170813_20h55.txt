@@ -1,0 +1,28 @@
+
+Importing updates of XPAR_PDF.db into XPAR.db
+
+
+Done.
+
+Script ran for 0.29 seconds.
+
+Importing updates of XPAR_PDF.db into XPAR.db
+
+
+Done.
+
+Script ran for 0.25 seconds.
+
+Importing updates of XPAR_PDF.db into XPAR.db
+
+
+Done.
+
+Script ran for 0.2 seconds.
+
+Importing updates of XPAR_PDF.db into XPAR.db
+
+
+Done.
+
+Script ran for 0.13 seconds.

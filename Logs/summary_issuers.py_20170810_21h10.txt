@@ -1,0 +1,10 @@
+
+Updating Issuers in SummaryDB for MIC: XBRU
+RESILUX not yet in db
+Script ran for 3.5 seconds.
+
+Updating Issuers in SummaryDB for MIC: XAMS
+Script ran for 5.04 seconds.
+
+Updating Issuers in SummaryDB for MIC: XPAR
+Script ran for 11.8 seconds.

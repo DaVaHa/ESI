@@ -1,0 +1,8 @@
+Calculating total short interest for : XPAR
+
+Issuer: AB SCIENCE
+Issuer: ACCOR
+Issuer: ADOCIA
+Issuer: AFFINE R.E.
+Issuer: AIR FRANCE-KLM
+Issuer: AIRBUS

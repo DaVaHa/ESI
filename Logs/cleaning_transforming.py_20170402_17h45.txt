@@ -1,0 +1,3610 @@
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20141201')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20151020
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.93, '20151020')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.93, '20151020')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20151021
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.93, '20151021')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.93, '20151021')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20151022
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.93, '20151022')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.93, '20151022')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20151221
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20151221')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20151221')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20151222
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20151222')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20151222')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160112
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160112')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160112')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160113
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160113')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160113')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160114
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160114')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160114')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160115
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160115')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160115')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160116
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160116')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160116')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160117
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160117')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.4, '20160117')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160120
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160120')
+Short interest: 1.62 vs 1.62
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160120')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160121
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160121')
+Short interest: 1.62 vs 1.62
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160121')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160122
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160122')
+Short interest: 1.62 vs 1.62
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160122')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160123
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160123')
+Short interest: 1.62 vs 1.62
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160123')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160124
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160124')
+Short interest: 1.62 vs 1.62
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160124')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160125
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160125')
+Short interest: 1.62 vs 1.62
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.62, '20160125')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160205
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.89, '20160205')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.89, '20160205')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160206
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.89, '20160206')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.89, '20160206')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160207
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.89, '20160207')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.89, '20160207')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160210
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160210')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160210')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160211
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160211')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160211')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160212
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160212')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160212')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160213
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160213')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160213')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160214
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160214')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160214')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160215
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160215')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160215')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160216
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160216')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.85, '20160216')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160331
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160331')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160331')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160401
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160401')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160401')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160402
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160402')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160402')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160403
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160403')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160403')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160404
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160404')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160404')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160405
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160405')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.94, '20160405')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160810
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160810')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160810')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160811
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160811')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160811')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160812
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160812')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160812')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160813
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160813')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160813')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160814
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160814')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160814')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160815
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160815')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160815')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160816
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160816')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160816')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160817
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160817')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160817')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160818
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160818')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 1.1, '20160818')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160914
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160914')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160914')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160915
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160915')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160915')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160916
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160916')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160916')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160917
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160917')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160917')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160918
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160918')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160918')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160919
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160919')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160919')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160920
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160920')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160920')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160921
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160921')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160921')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160922
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160922')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160922')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160923
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160923')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160923')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160924
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160924')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160924')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160925
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160925')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160925')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160926
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160926')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160926')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160927
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160927')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160927')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160928
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160928')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160928')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160929
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160929')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160929')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20160930
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160930')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20160930')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20161001
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161001')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161001')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20161002
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161002')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161002')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20161003
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161003')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161003')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20161004
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161004')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161004')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Solvay SA // date: 20161005
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161005')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Solvay SA', 0.99, '20161005')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130305
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130305')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130305')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130306
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130306')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130306')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130307
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130307')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130307')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130308
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130308')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130308')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130309
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130309')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130309')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130310
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130310')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130310')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130311
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130311')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.88, '20130311')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130312
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130312')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130312')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130313
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130313')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130313')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130314
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130314')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130314')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130315
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130315')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130315')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130316
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130316')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130316')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130317
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130317')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130317')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130318
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130318')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130318')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130319
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130319')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130319')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130320
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130320')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130320')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130321
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130321')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130321')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130322
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130322')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130322')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130323
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130323')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130323')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130324
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130324')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130324')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130325
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130325')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130325')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130326
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130326')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130326')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130327
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130327')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130327')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130328
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130328')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130328')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130329
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130329')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130329')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130330
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130330')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130330')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130331
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130331')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130331')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130401
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130401')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130401')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130402
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130402')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130402')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130403
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130403')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130403')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130404
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130404')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130404')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130405
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130405')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130405')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130406
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130406')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130406')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130407
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130407')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130407')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130408
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130408')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130408')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130409
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130409')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130409')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130410
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130410')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130410')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130411
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130411')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130411')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130412
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130412')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130412')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130413
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130413')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130413')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130414
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130414')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130414')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130415
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130415')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130415')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130416
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130416')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130416')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20130417
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130417')
+Short interest: 1.99 vs 1.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.99, '20130417')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140509
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140509')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140509')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140510
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140510')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140510')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140511
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140511')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140511')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140512
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140512')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140512')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140513
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140513')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140513')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140514
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140514')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140514')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140515
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140515')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140515')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140516
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140516')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140516')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140517
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140517')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140517')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140518
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140518')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140518')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140519
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140519')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140519')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140520
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140520')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140520')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140521
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140521')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140521')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140522
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140522')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140522')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140523
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140523')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140523')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140524
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140524')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140524')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140525
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140525')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140525')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140526
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140526')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140526')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140527
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140527')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140527')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140528
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140528')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140528')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140529
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140529')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140529')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140530
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140530')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140530')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140531
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140531')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140531')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140601
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140601')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140601')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140602
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140602')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140602')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140603
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140603')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140603')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140604
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140604')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140604')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140605
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140605')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140605')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140606
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140606')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140606')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140607
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140607')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140607')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140608
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140608')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140608')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140609
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140609')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140609')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140610
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140610')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140610')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140611
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140611')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140611')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140612
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140612')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140612')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140613
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140613')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140613')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140614
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140614')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140614')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140615
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140615')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140615')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140616
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140616')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140616')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140617
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140617')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140617')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140618
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140618')
+Short interest: 3.24 vs 3.24
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 3.24, '20140618')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140714
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140714')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140714')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140715
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140715')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140715')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140716
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140716')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140716')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Adage Capital Management L.P. // issuer: Thrombogenics NV // date: 20140717
+
+ERROR: Record is not a double!!
+Length: 3
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140717')
+Short interest: 1.89 vs 1.89
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Adage Capital Management L.P.', 'Thrombogenics NV', 1.89, '20140717')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130607
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130607')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130607')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130608
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130608')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130608')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130609
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130609')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130609')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130610
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130610')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130610')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130611
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130611')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130611')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130612
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130612')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130612')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130613
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130613')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130613')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130614
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130614')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130614')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130615
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130615')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130615')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130616
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130616')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130616')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130617
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130617')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130617')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130618
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130618')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130618')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130619
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130619')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130619')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130620
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130620')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130620')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130621
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130621')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130621')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130622
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130622')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130622')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130623
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130623')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130623')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130624
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130624')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130624')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130625
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130625')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130625')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130626
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130626')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130626')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130627
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130627')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130627')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130628
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130628')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130628')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130629
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130629')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130629')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130630
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130630')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130630')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130701
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130701')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130701')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130702
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130702')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130702')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130703
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130703')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130703')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130704
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130704')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130704')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130705
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130705')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130705')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130706
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130706')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130706')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130707
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130707')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130707')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130708
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130708')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130708')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130709
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130709')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130709')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130710
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130710')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130710')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130711
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130711')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130711')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130712
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130712')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130712')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130713
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130713')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130713')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130714
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130714')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130714')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130715
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130715')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130715')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130716
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130716')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130716')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130717
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130717')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130717')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130718
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130718')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130718')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130719
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130719')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130719')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130720
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130720')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130720')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130721
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130721')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130721')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130722
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130722')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130722')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130723
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130723')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130723')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130724
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130724')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130724')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130725
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130725')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130725')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130726
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130726')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130726')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130727
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130727')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130727')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130728
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130728')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130728')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130729
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130729')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130729')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130730
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130730')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130730')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130731
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130731')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130731')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130801
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130801')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130801')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130802
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130802')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130802')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130803
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130803')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130803')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130804
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130804')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130804')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130805
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130805')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130805')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130806
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130806')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130806')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130807
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130807')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130807')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130808
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130808')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130808')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130809
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130809')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130809')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130810
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130810')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130810')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130811
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130811')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130811')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130812
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130812')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130812')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130813
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130813')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130813')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130814
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130814')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130814')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130815
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130815')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130815')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130816
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130816')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130816')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130817
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130817')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130817')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130818
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130818')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130818')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130819
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130819')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130819')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130820
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130820')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130820')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130821
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130821')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130821')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130822
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130822')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130822')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130823
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130823')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130823')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130824
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130824')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130824')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130825
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130825')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130825')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130826
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130826')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130826')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130827
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130827')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130827')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130828
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130828')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130828')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20130829
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130829')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 0.99, '20130829')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131113
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131113')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131113')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131114
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131114')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131114')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131115
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131115')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131115')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131116
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131116')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131116')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131117
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131117')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.4, '20131117')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131118
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131118')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131118')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131119
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131119')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131119')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131120
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131120')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131120')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131121
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131121')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131121')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131122
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131122')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131122')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131123
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131123')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131123')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131124
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131124')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131124')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131125
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131125')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131125')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131126
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131126')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131126')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Falcon Edge Capital LP // issuer: Thrombogenics NV // date: 20131127
+
+ERROR: Record is not a double!!
+Length: 3
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131127')
+Short interest: 1.85 vs 1.85
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Falcon Edge Capital LP', 'Thrombogenics NV', 1.85, '20131127')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Meditor Capital Management Limited // issuer: Thrombogenics NV // date: 20131213
+
+ERROR: Record is not a double!!
+Length: 3
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131213')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131213')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Meditor Capital Management Limited // issuer: Thrombogenics NV // date: 20131214
+
+ERROR: Record is not a double!!
+Length: 3
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131214')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131214')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Meditor Capital Management Limited // issuer: Thrombogenics NV // date: 20131215
+
+ERROR: Record is not a double!!
+Length: 3
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131215')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131215')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Meditor Capital Management Limited // issuer: Thrombogenics NV // date: 20131216
+
+ERROR: Record is not a double!!
+Length: 3
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131216')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131216')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Meditor Capital Management Limited // issuer: Thrombogenics NV // date: 20131217
+
+ERROR: Record is not a double!!
+Length: 3
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131217')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Meditor Capital Management Limited', 'Thrombogenics NV', 0.99, '20131217')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140319
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140319')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140319')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140320
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140320')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140320')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140321
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140321')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140321')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140322
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140322')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140322')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140323
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140323')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140323')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140324
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140324')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140324')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140325
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140325')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140325')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140326
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140326')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140326')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Thrombogenics NV // date: 20140327
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140327')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Thrombogenics NV', 1.1, '20140327')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130212
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130212')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130212')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130213
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130213')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130213')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130214
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130214')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130214')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130215
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130215')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130215')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130216
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130216')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130216')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130217
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130217')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130217')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130218
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130218')
+Short interest: 1.88 vs 1.88
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.88, '20130218')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130604
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130604')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130604')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130605
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130605')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130605')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130606
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130606')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130606')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130607
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130607')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130607')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130608
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130608')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130608')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130609
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130609')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130609')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130610
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130610')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130610')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130611
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130611')
+Short interest: 3.87 vs 3.87
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.87, '20130611')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130628
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130628')
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130628')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130629
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130629')
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130629')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130630
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130630')
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130630')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130701
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130701')
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130701')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130702
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130702')
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130702')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20130703
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130703')
+Short interest: 3.97 vs 3.97
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 3.97, '20130703')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20141002
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141002')
+Short interest: 1.84 vs 1.84
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141002')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20141003
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141003')
+Short interest: 1.84 vs 1.84
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141003')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20141004
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141004')
+Short interest: 1.84 vs 1.84
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141004')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20141005
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141005')
+Short interest: 1.84 vs 1.84
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141005')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20141006
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141006')
+Short interest: 1.84 vs 1.84
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.84, '20141006')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: PERCEPTIVE ADVISORS LLC // issuer: Thrombogenics NV // date: 20141015
+
+ERROR: Record is not a double!!
+Length: 3
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.4, '20141015')
+Short interest: 1.4 vs 1.4
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('PERCEPTIVE ADVISORS LLC', 'Thrombogenics NV', 1.4, '20141015')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131219
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131219')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131219')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131220
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131220')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131220')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131221
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131221')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131221')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131222
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131222')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131222')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131223
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131223')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131223')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131224
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131224')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131224')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131225
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131225')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131225')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131226
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131226')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131226')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131227
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131227')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131227')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131228
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131228')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131228')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131229
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131229')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131229')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131230
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131230')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131230')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20131231
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20131231')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20131231')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140101
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20140101')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20140101')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140102
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20140102')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20140102')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140103
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20140103')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20140103')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140104
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20140104')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20140104')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140105
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20140105')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20140105')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140109
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.12, '20140109')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.12, '20140109')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140110
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.12, '20140110')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.12, '20140110')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140111
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.12, '20140111')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.12, '20140111')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140112
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.12, '20140112')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.12, '20140112')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140113
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.12, '20140113')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.12, '20140113')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140114
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.12, '20140114')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.12, '20140114')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140128
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140128')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140128')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140129
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140129')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140129')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140520
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140520')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140520')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140521
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140521')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140521')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140522
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140522')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140522')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140523
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140523')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140523')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140524
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140524')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140524')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140525
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140525')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140525')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140526
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.99, '20140526')
+Short interest: 0.99 vs 0.99
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.99, '20140526')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140603
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.93, '20140603')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.93, '20140603')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140604
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.93, '20140604')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.93, '20140604')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140611
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140611')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140611')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140612
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140612')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140612')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140613
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140613')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140613')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140614
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140614')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140614')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140615
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140615')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140615')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140616
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140616')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140616')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140617
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140617')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140617')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140618
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140618')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140618')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140619
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140619')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140619')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140620
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140620')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140620')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140621
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140621')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140621')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140622
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140622')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140622')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140623
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140623')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140623')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140624
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140624')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140624')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140625
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140625')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140625')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20140626
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20140626')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20140626')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141008
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.94, '20141008')
+Short interest: 0.94 vs 0.94
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.94, '20141008')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141014
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.14, '20141014')
+Short interest: 1.14 vs 1.14
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.14, '20141014')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141015
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.14, '20141015')
+Short interest: 1.14 vs 1.14
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.14, '20141015')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141016
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.14, '20141016')
+Short interest: 1.14 vs 1.14
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.14, '20141016')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141017
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20141017')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20141017')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141018
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20141018')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20141018')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20141019
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.92, '20141019')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.92, '20141019')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20160329
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.93, '20160329')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.93, '20160329')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20160330
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.93, '20160330')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.93, '20160330')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20160331
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 0.93, '20160331')
+Short interest: 0.93 vs 0.93
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 0.93, '20160331')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Marshall Wace LLP // issuer: Umicore // date: 20160405
+
+ERROR: Record is not a double!!
+Length: 3
+('Marshall Wace LLP', 'Umicore', 1.1, '20160405')
+Short interest: 1.1 vs 1.1
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Marshall Wace LLP', 'Umicore', 1.1, '20160405')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Umicore // date: 20150922
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Umicore', 0.92, '20150922')
+Short interest: 0.92 vs 0.92
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Umicore', 0.92, '20150922')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Umicore // date: 20150928
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Umicore', 1.12, '20150928')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Umicore', 1.12, '20150928')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Umicore // date: 20150929
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Umicore', 1.12, '20150929')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Umicore', 1.12, '20150929')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Umicore // date: 20150930
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Umicore', 1.12, '20150930')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Umicore', 1.12, '20150930')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+holder: Millennium Internation Management LP // issuer: Umicore // date: 20151001
+
+ERROR: Record is not a double!!
+Length: 3
+('Millennium Internation Management LP', 'Umicore', 1.12, '20151001')
+Short interest: 1.12 vs 1.12
+Alert: Same SI!! Only delete 1..
+Something went wrong with deduplicating record:
+('Millennium Internation Management LP', 'Umicore', 1.12, '20151001')
+ERROR: ("name 'causing_error_on_purpose' is not defined",)
+
+Rows deleted: 31
+
+Done.
+

@@ -1,0 +1,26 @@
+
+Importing updates of last 6 months into SourceData : XPAR_PDF.db.
+Checking updates from 20170213 and adding to XPAR_PDF.db...
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR_PDF.db ...
+
+Duplicates:
+[]
+
+Rows before: 1239
+
+
+Rows before: 1239
+
+Rows deleted: 0
+
+Rows after: 1239
+
+Done.
+
+Script ran for 0.01 seconds.

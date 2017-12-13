@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+	<script>$(function(){
+		$("#notifications").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		});
+	</script>
+		
+	<!-- -->
+	</br>
+	<h1 align='center' class='titlehead'>Short Interest Notifications</h1>
+	
+	<!-- Search Bar -->
+	<form action="{{url_for('Notifications')}}" method='POST' style='text-align:center'>
+	  <input type='text' id="myInput" name='name' placeholder='Search Notifications on Holder, Issuer, ISIN ...'>
+	</br>
+	<select style="height:30px; width:210px" name='myMic' id='myMic'>
+	    {% for m in mics %}
+              <option value="{{ m.name[0] }}">{{ m.name[1] }}</option>
+            {% endfor %}
+	</select>
+	</form>
+	</br>
+
+	<!-- Table -->
+	<table id="myTable" >
+	  <tr class="heading">
+		<th style="width:400px;">Holder</th>
+		<th style="width:250px;">Issuer</th>
+		<th style="width:125px;">ISIN</th>
+		<th style="width:125px;">Short Interest</th>
+		<th style="width:125px;">Position Date</th>
+		<th style="width:100px;">MIC</th>
+	  </tr>
+	  
+	<!-- Data on HTML --> 
+	{% for d in data %}
+		<tr><td>{{d[0]}}</td>
+		<td>{{d[1]}}</td>
+		<td>{{d[2]}}</td>
+		<td>{{d[3]}}</td>
+		<td>{{d[4]}}</td>
+		<td>{{d[5]}}</td></tr>
+	{% endfor %}
+	</table>
+	
+	
+{% endblock %}

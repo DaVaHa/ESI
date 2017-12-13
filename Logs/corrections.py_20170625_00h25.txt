@@ -1,0 +1,1552 @@
+
+This will add 0% corrections in case of one year gap
+
+
+Equity: Ordina N.V.
+
+Holder: GSA Capital Partners LLP
+
+Equity: TomTom N.V.
+
+Holder: Discovery Capital Management, LLC
+
+Holder: Discovery Capital Management, LLC
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Hound Partners, LLC
+
+Holder: BlueMountain Capital Management, LLC
+
+Holder: TT International
+
+Holder: Cadian Capital Management, LLC
+
+Holder: AKO Capital LLP
+
+Holder: Marble Arch Investments, LP
+
+Holder: Meritage Group LP
+
+Holder: Passport Capital, LLC
+
+Equity: Koninklijke BAM Groep N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Marshall Wace LLP
+
+Holder: Oxford Asset Management
+
+Holder: Oxford Asset Management
+
+Holder: WorldQuant, LLC
+
+Holder: WorldQuant, LLC
+
+Holder: Man Investments Limited
+
+Holder: Lucerne Capital Management, LLC
+
+Holder: TT International
+
+Holder: TT International
+
+Holder: AKO Capital LLP
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Holder: Saemor Capital B.V.
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Numeric Investors LLC
+
+Equity: TKH Group N.V.
+
+Holder: SFM UK Management LLP
+
+Equity: Arcadis N.V.
+
+Holder: Canada Pension Plan Investment Board
+
+Holder: Capital Fund Management S.A.
+
+Holder: AKO Capital LLP
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Equity: BE Semiconductor Industries N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: WorldQuant, LLC
+
+Holder: Capital Fund Management S.A.
+
+Holder: Hutchin Hill Capital, LP
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Equity: BinckBank N.V.
+
+Holder: Oxford Asset Management
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: WorldQuant, LLC
+
+Holder: Pictet Asset Management S.A.
+
+Equity: Heijmans N.V.
+
+Holder: Macquarie Funds Management Hong Kong Limited
+
+Holder: WorldQuant, LLC
+
+Holder: Oxford Asset Management
+
+Holder: Rotella Acrospire LLC
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: BlackRock Advisors (UK) Limited
+
+Equity: SBM Offshore N.V.
+
+Holder: Valiant Capital Management, LP
+
+Holder: Sophos Capital Management, L.P.
+
+Holder: WorldQuant, LLC
+
+Holder: Man Investments Limited
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Discovery Capital Management, LLC
+
+Holder: Kynikos Associates LP
+
+Holder: UBS Global Asset Management (UK) Ltd.
+
+Holder: BlueCrest Capital Management Limited
+
+Holder: Egerton Capital (UK) LLP
+
+Holder: Encompass Capital Advisors LLC
+
+Equity: Aperam
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Susquehanna International Holdings LLC
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: BlackRock Advisors, LLC
+
+Holder: Marshall Wace LLP
+
+Holder: TT International
+
+Holder: TT International
+
+Holder: Millennium International Management LP
+
+Holder: Bocage Capital, LLC
+
+Holder: UBS O'Connor Limited
+
+Equity: Brunel International N.V.
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Equity: Koninklijke Vopak N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: GAM Investment Management (Switzerland) AG, Zurich
+
+Holder: Adelphi Capital LLP
+
+Holder: FIL Investment Services (UK) Limited
+
+Holder: Scopia Capital Management LLC
+
+Equity: Koninklijke Ahold Delhaize N.V.
+
+Equity: Basic-Fit N.V.
+
+Equity: Koninklijke Boskalis Westminster N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Equity: Fugro N.V.
+
+Holder: WorldQuant, LLC
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: TT International
+
+Holder: TT International
+
+Holder: Capital Fund Management S.A.
+
+Holder: Capital Fund Management S.A.
+
+Holder: Oxford Asset Management
+
+Holder: Man Investments Limited
+
+Holder: BlueCrest Capital Management Limited
+
+Holder: Martin Currie Investment Management Ltd.
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Citadel Advisors II LLC
+
+Holder: GAM Investment Management Lugano SA
+
+Holder: UBS Limited
+
+Holder: Lansdowne Partners (UK) LLP
+
+Holder: Adelphi Capital LLP
+
+Holder: AKO Capital LLP
+
+Holder: Citadel Europe LLP
+
+Holder: The Children's Investment Fund Management (UK) LLP
+
+Holder: Egerton Capital (UK) LLP
+
+Holder: Arrowstreet Capital, Limited Partnership
+
+Equity: Philips Lighting N.V.
+
+Equity: Wereldhave N.V.
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Canada Pension Plan Investment Board
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Holder: Two Sigma Investments, LP
+
+Holder: Susquehanna International Holdings LLC
+
+Holder: D.E. Shaw & Co., L.P.
+
+Equity: Koninklijke KPN N.V.
+
+Holder: AQR Capital Management, LLC
+
+Holder: Citadel Europe LLP
+
+Holder: Susquehanna International Holdings LLC
+
+Holder: GLG Partners LP
+
+Holder: Arrowgrass Capital Partners LLP
+
+Equity: Gemalto N.V.
+
+Holder: D.E. Shaw & Co., L.P.
+
+Holder: Steadfast Capital Management LP
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Eminence Capital, LP
+
+Holder: Lone Pine Capital LLC
+
+Holder: Wellington Management Company LLP
+
+Holder: Georgetown Asset Holdings, Ltd.
+
+Holder: Coatue Management, L.L.C.
+
+Holder: Maverick Capital , Ltd.
+
+Holder: Blue Ridge Capital, LLC
+
+Holder: Conatus Capital Management LP
+
+Holder: Tybourne Equity Master Fund
+
+Holder: Soroban Capital Partners LLC
+
+Holder: QVT Financial LP
+
+Holder: Corvex Management LP
+
+Holder: Scopia Capital Management LLC
+
+Holder: Kynikos Associates LP
+
+Holder: Hoplite Capital Management LLC
+
+Equity: Aegon N.V.
+
+Holder: Citadel Europe LLP
+
+Equity: Altice N.V.
+
+Holder: Marshall Wace LLP
+
+Equity: Koninklijke Wessanen N.V.
+
+Equity: NSI N.V.
+
+Holder: Carlson Capital UK LLP
+
+Holder: Thames River Capital LLP
+
+Equity: Galapagos N.V.
+
+Holder: WorldQuant, LLC
+
+Holder: Marshall Wace LLP
+
+Equity: OCI N.V.
+
+Holder: AQR Capital Management, LLC
+
+Equity: AkzoNobel N.V.
+
+Holder: Highbridge Capital Management LLC
+
+Equity: PostNL N.V.
+
+Holder: Marshall Wace LLP
+
+Holder: Oxford Asset Management
+
+Holder: Oxford Asset Management
+
+Holder: WorldQuant, LLC
+
+Holder: WorldQuant, LLC
+
+Holder: PDT Partners, LLC
+
+Holder: AQR Capital Management, LLC
+
+Holder: Highbridge Capital Management LLC
+
+Holder: Archipel Asset Management AB
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Canada Pension Plan Investment Board
+
+Equity: Accell Group N.V.
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Equity: Flow Traders N.V.
+
+Equity: ArcelorMittal S.A.
+
+Holder: Marshall Wace LLP
+
+Holder: Quartys Limited
+
+Holder: Luminus Management, LLC
+
+Holder: Oxford Asset Management
+
+Holder: Capital Fund Management S.A.
+
+Holder: Millennium International Management LP
+
+Holder: Discovery Capital Management, LLC
+
+Equity: ASML Holding N.V.
+
+Equity: Aalberts Industries N.V.
+
+Equity: Delta Lloyd N.V.
+
+Holder: Marshall Wace LLP
+
+Holder: B&G Master Fund Plc
+
+Holder: PDT Partners, LLC
+
+Holder: WorldQuant, LLC
+
+Holder: AQR Capital Management, LLC
+
+Holder: Altair Investment Management Limited
+
+Holder: Citadel Europe LLP
+
+Equity: Koninklijke Ahold N.V.
+
+Holder: Davidson Kempner European Partners, LLP
+
+Equity: Corbion N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Susquehanna International Holdings LLC
+
+Holder: S.A.C. Global Investors LLP
+
+Holder: Ako Capital LLP
+
+Equity: AMG Advanced Metallurgical Group N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Oxford Asset Management
+
+Holder: Numeric Investors LLC
+
+Holder: Highbridge Capital Management LLC
+
+Equity: Inverko N.V.
+
+Holder: Better Options LLP
+
+Equity: Unibail-Rodamco
+
+Holder: Lansdowne Partners Limited
+
+Equity: Royal Dutch Shell Plc
+
+Equity: USG People N.V.
+
+Holder: Wellington Management Company LLP
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: D.E. Shaw & Co., L.P.
+
+Holder: Oxford Asset Management
+
+Holder: Marshall Wace LLP
+
+Holder: BlackRock Advisors (UK) Limited
+
+Equity: Wolters Kluwer N.V.
+
+Holder: Marshall Wace LLP
+
+Holder: GLG Partners LP
+
+Holder: Odey Asset Management LLP
+
+Holder: Capital Fund Management S.A.
+
+Equity: Docdata N.V.
+
+Equity: Vastned Retail N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: B&G Master Fund Plc
+
+Equity: Koninklijke DSM N.V.
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Equity: Kendrion N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Numeric Investors LLC
+
+Equity: TNT Express N.V.
+
+Holder: Tyrus Capital S.A.M.
+
+Holder: Marshall Wace LLP
+
+Holder: AQR Capital Management, LLC
+
+Holder: WorldQuant, LLC
+
+Holder: BlueCrest Capital Management Limited
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Holder: GLG Partners LP
+
+Holder: CapeView Capital LLP
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Equity: Royal Imtech N.V.
+
+Holder: Marshall Wace LLP
+
+Holder: Susquehanna International Holdings LLC
+
+Holder: GLG Partners LP
+
+Holder: CapeView Capital LLP
+
+Holder: GMT Capital Corp
+
+Holder: GMT Capital Corp
+
+Holder: Oxford Asset Management
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Holder: BlueCrest Capital Management LLP
+
+Holder: TT International
+
+Holder: AQR Capital Management, LLC
+
+Holder: Naya Management LLP
+
+Holder: DSAM Partners LLP
+
+Holder: Third Point LLC
+
+Holder: Occitan Master Fund LP
+
+Holder: WorldQuant, LLC
+
+Holder: The Children's Investment Fund Management (UK) LLP
+
+Holder: Denjoy Integral Fund Limited
+
+Equity: Koninklijke Ten Cate N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Equity: Core Laboratories N.V.
+
+Holder: King Street Capital Management, L.P.
+
+Holder: Pimco EqS Long Short Fund
+
+Holder: GLG Partners LP
+
+Holder: Balyasny Asset Management LP
+
+Equity: Eurocommercial Properties N.V.
+
+Holder: Wellington Management Company LLP
+
+Equity: Nutreco N.V.
+
+Holder: Marshall Wace LLP
+
+Holder: UBS Global Asset Management (UK) Ltd.
+
+Equity: Exact Holding N.V.
+
+Holder: Millennium International Management LP
+
+Equity: Corbion N.V. 
+
+Holder: Susquehanna International Holdings LLC
+
+Equity: Corio N.V.
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Wellington Management Company LLP
+
+Equity: Pharming Group N.V.
+
+Holder: Susquehanna International Holdings LLC
+
+Equity: ASM International N.V.
+
+Holder: Highbridge Capital Management LLC
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Equity: Ziggo N.V.
+
+Holder: Odey Asset Management LLP
+
+Equity: SNS Reaal N.V.
+
+Rows added: 3
+
+Done.
+
+
+Done.
+
+Script ran for 1.05 seconds.
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.72 seconds.
+
+This will add 0% corrections in case of one year gap
+
+Already in Corrections:
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS')
+Already in Corrections:
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS')
+Already in Corrections:
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS')
+Already in Corrections:
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS')
+Already in Corrections:
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS')
+Already in Corrections:
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS')
+Already in Corrections:
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS')
+Already in Corrections:
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS')
+Already in Corrections:
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS')
+Already in Corrections:
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS')
+Already in Corrections:
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS')
+Already in Corrections:
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS')
+Already in Corrections:
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151104', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151104', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151023', 'XAMS')
+Already in Corrections:
+('Hutchin Hill Capital, LP', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151023', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151010', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'BinckBank N.V.', 'NL0000335578', 0.0, '20150613', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'BinckBank N.V.', 'NL0000335578', 0.0, '20150325', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'BinckBank N.V.', 'NL0000335578', 0.0, '20130525', 'XAMS')
+Already in Corrections:
+('Pictet Asset Management S.A.', 'BinckBank N.V.', 'NL0000335578', 0.0, '20131212', 'XAMS')
+Already in Corrections:
+('Macquarie Funds Management Hong Kong Limited', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160305', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160220', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160216', 'XAMS')
+Already in Corrections:
+('Rotella Acrospire LLC', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160127', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Heijmans N.V.', 'NL0009269109', 0.0, '20140923', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Heijmans N.V.', 'NL0009269109', 0.0, '20140628', 'XAMS')
+Already in Corrections:
+('BlackRock Advisors (UK) Limited', 'Heijmans N.V.', 'NL0009269109', 0.0, '20140213', 'XAMS')
+Already in Corrections:
+('Valiant Capital Management, LP', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160130', 'XAMS')
+Already in Corrections:
+('Sophos Capital Management, L.P.', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160608', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160513', 'XAMS')
+Already in Corrections:
+('Man Investments Limited', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160414', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160216', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160123', 'XAMS')
+Already in Corrections:
+('Kynikos Associates LP', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150822', 'XAMS')
+Already in Corrections:
+('UBS Global Asset Management (UK) Ltd.', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150519', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management Limited', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150508', 'XAMS')
+Already in Corrections:
+('Egerton Capital (UK) LLP', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150207', 'XAMS')
+Already in Corrections:
+('Encompass Capital Advisors LLC', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20130313', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Aperam', 'LU0569974404', 0.0, '20160318', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Aperam', 'LU0569974404', 0.0, '20150825', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Aperam', 'LU0569974404', 0.0, '20150818', 'XAMS')
+Already in Corrections:
+('BlackRock Advisors, LLC', 'Aperam', 'LU0569974404', 0.0, '20150808', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Aperam', 'LU0569974404', 0.0, '20150417', 'XAMS')
+Already in Corrections:
+('TT International', 'Aperam', 'LU0569974404', 0.0, '20130807', 'XAMS')
+Already in Corrections:
+('TT International', 'Aperam', 'LU0569974404', 0.0, '20141023', 'XAMS')
+Already in Corrections:
+('Millennium International Management LP', 'Aperam', 'LU0569974404', 0.0, '20140927', 'XAMS')
+Already in Corrections:
+('Bocage Capital, LLC', 'Aperam', 'LU0569974404', 0.0, '20130807', 'XAMS')
+Already in Corrections:
+("UBS O'Connor Limited", 'Aperam', 'LU0569974404', 0.0, '20130126', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Brunel International N.V.', 'NL0010776944', 0.0, '20151010', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20160511', 'XAMS')
+Already in Corrections:
+('GAM Investment Management (Switzerland) AG, Zurich', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20160422', 'XAMS')
+Already in Corrections:
+('Adelphi Capital LLP', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20141112', 'XAMS')
+Already in Corrections:
+('FIL Investment Services (UK) Limited', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20140930', 'XAMS')
+Already in Corrections:
+('Scopia Capital Management LLC', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20140130', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Boskalis Westminster N.V.', 'NL0000852580', 0.0, '20151215', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Fugro N.V.', 'NL0000352565', 0.0, '20141119', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20141101', 'XAMS')
+Already in Corrections:
+('TT International', 'Fugro N.V.', 'NL0000352565', 0.0, '20141111', 'XAMS')
+Already in Corrections:
+('TT International', 'Fugro N.V.', 'NL0000352565', 0.0, '20160416', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Fugro N.V.', 'NL0000352565', 0.0, '20130117', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Fugro N.V.', 'NL0000352565', 0.0, '20160305', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Fugro N.V.', 'NL0000352565', 0.0, '20151008', 'XAMS')
+Already in Corrections:
+('Man Investments Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20150903', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20150228', 'XAMS')
+Already in Corrections:
+('Martin Currie Investment Management Ltd.', 'Fugro N.V.', 'NL0000352565', 0.0, '20141111', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Fugro N.V.', 'NL0000352565', 0.0, '20141108', 'XAMS')
+Already in Corrections:
+('Citadel Advisors II LLC', 'Fugro N.V.', 'NL0000352565', 0.0, '20141107', 'XAMS')
+Already in Corrections:
+('GAM Investment Management Lugano SA', 'Fugro N.V.', 'NL0000352565', 0.0, '20141105', 'XAMS')
+Already in Corrections:
+('UBS Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20141031', 'XAMS')
+Already in Corrections:
+('Lansdowne Partners (UK) LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20141024', 'XAMS')
+Already in Corrections:
+('Adelphi Capital LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140814', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140719', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140711', 'XAMS')
+Already in Corrections:
+("The Children's Investment Fund Management (UK) LLP", 'Fugro N.V.', 'NL0000352565', 0.0, '20140328', 'XAMS')
+Already in Corrections:
+('Egerton Capital (UK) LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140130', 'XAMS')
+Already in Corrections:
+('Arrowstreet Capital, Limited Partnership', 'Fugro N.V.', 'NL0000352565', 0.0, '20131018', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20140514', 'XAMS')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20160405', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20160209', 'XAMS')
+Already in Corrections:
+('Two Sigma Investments, LP', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20141223', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20141213', 'XAMS')
+Already in Corrections:
+('D.E. Shaw & Co., L.P.', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20121120', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130410', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20160608', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130518', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130501', 'XAMS')
+Already in Corrections:
+('Arrowgrass Capital Partners LLP', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130301', 'XAMS')
+Already in Corrections:
+('D.E. Shaw & Co., L.P.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150310', 'XAMS')
+Already in Corrections:
+('Steadfast Capital Management LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20160218', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20160129', 'XAMS')
+Already in Corrections:
+('Eminence Capital, LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20160121', 'XAMS')
+Already in Corrections:
+('Lone Pine Capital LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150911', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150901', 'XAMS')
+Already in Corrections:
+('Georgetown Asset Holdings, Ltd.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150828', 'XAMS')
+Already in Corrections:
+('Coatue Management, L.L.C.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150619', 'XAMS')
+Already in Corrections:
+('Maverick Capital , Ltd.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150205', 'XAMS')
+Already in Corrections:
+('Blue Ridge Capital, LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141129', 'XAMS')
+Already in Corrections:
+('Conatus Capital Management LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141127', 'XAMS')
+Already in Corrections:
+('Tybourne Equity Master Fund', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141029', 'XAMS')
+Already in Corrections:
+('Soroban Capital Partners LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141028', 'XAMS')
+Already in Corrections:
+('QVT Financial LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141024', 'XAMS')
+Already in Corrections:
+('Corvex Management LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141018', 'XAMS')
+Already in Corrections:
+('Scopia Capital Management LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20140628', 'XAMS')
+Already in Corrections:
+('Kynikos Associates LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20140410', 'XAMS')
+Already in Corrections:
+('Hoplite Capital Management LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20140409', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Aegon N.V.', 'NL0000303709', 0.0, '20150507', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Altice N.V.', 'NL0011333752', 0.0, '20160226', 'XAMS')
+Already in Corrections:
+('Carlson Capital UK LLP', 'NSI N.V.', 'NL0000292324', 0.0, '20131101', 'XAMS')
+Already in Corrections:
+('Thames River Capital LLP', 'NSI N.V.', 'NL0000292324', 0.0, '20131016', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Galapagos N.V.', 'BE0003818359', 0.0, '20160108', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Galapagos N.V.', 'BE0003818359', 0.0, '20160604', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'OCI N.V.', 'NL0010558797', 0.0, '20150226', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'AkzoNobel N.V.', 'NL0000009132', 0.0, '20121215', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'PostNL N.V.', 'NL0009739416', 0.0, '20140429', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'PostNL N.V.', 'NL0009739416', 0.0, '20140326', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'PostNL N.V.', 'NL0009739416', 0.0, '20160604', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20130130', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20160303', 'XAMS')
+Already in Corrections:
+('PDT Partners, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20151106', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20131107', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20130822', 'XAMS')
+Already in Corrections:
+('Archipel Asset Management AB', 'PostNL N.V.', 'NL0009739416', 0.0, '20130710', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'PostNL N.V.', 'NL0009739416', 0.0, '20130606', 'XAMS')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'PostNL N.V.', 'NL0009739416', 0.0, '20130118', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Accell Group N.V.', 'NL0009767532', 0.0, '20130807', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160409', 'XAMS')
+Already in Corrections:
+('Quartys Limited', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160409', 'XAMS')
+Already in Corrections:
+('Luminus Management, LLC', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160319', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160308', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160123', 'XAMS')
+Already in Corrections:
+('Millennium International Management LP', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20151212', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20140805', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20150318', 'XAMS')
+Already in Corrections:
+('B&G Master Fund Plc', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160513', 'XAMS')
+Already in Corrections:
+('PDT Partners, LLC', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160412', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160302', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160225', 'XAMS')
+Already in Corrections:
+('Altair Investment Management Limited', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20151204', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20150226', 'XAMS')
+Already in Corrections:
+('Davidson Kempner European Partners, LLP', 'Koninklijke Ahold N.V.', 'NL0010672325', 0.0, '20160611', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Corbion N.V.', 'NL0010583399', 0.0, '20160624', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Corbion N.V.', 'NL0010583399', 0.0, '20140319', 'XAMS')
+Already in Corrections:
+('S.A.C. Global Investors LLP', 'Corbion N.V.', 'NL0000852549', 0.0, '20130326', 'XAMS')
+Already in Corrections:
+('Ako Capital LLP', 'Corbion N.V.', 'NL0000852549', 0.0, '20130108', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20160518', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20130802', 'XAMS')
+Already in Corrections:
+('Numeric Investors LLC', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20130531', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20130507', 'XAMS')
+Already in Corrections:
+('Better Options LLP', 'Inverko N.V.', 'NL0011495189', 0.0, '20160419', 'XAMS')
+Already in Corrections:
+('Lansdowne Partners Limited', 'Unibail-Rodamco', 'FR0000124711', 0.0, '20130615', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'USG People N.V.', 'NL0000354488', 0.0, '20151230', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'USG People N.V.', 'NL0000354488', 0.0, '20130627', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'USG People N.V.', 'NL0000354488', 0.0, '20150806', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'USG People N.V.', 'NL0000354488', 0.0, '20150804', 'XAMS')
+Already in Corrections:
+('D.E. Shaw & Co., L.P.', 'USG People N.V.', 'NL0000354488', 0.0, '20150214', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'USG People N.V.', 'NL0000354488', 0.0, '20141223', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'USG People N.V.', 'NL0000354488', 0.0, '20141104', 'XAMS')
+Already in Corrections:
+('BlackRock Advisors (UK) Limited', 'USG People N.V.', 'NL0000354488', 0.0, '20130628', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20151229', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20131218', 'XAMS')
+Already in Corrections:
+('Odey Asset Management LLP', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20130806', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20130117', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Vastned Retail N.V.', 'NL0000288918', 0.0, '20151203', 'XAMS')
+Already in Corrections:
+('B&G Master Fund Plc', 'Vastned Retail N.V.', 'NL0000288918', 0.0, '20151125', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke DSM N.V.', 'NL0000009827', 0.0, '20151031', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Kendrion N.V.', 'NL0000852531', 0.0, '20151009', 'XAMS')
+Already in Corrections:
+('Numeric Investors LLC', 'Kendrion N.V.', 'NL0000852531', 0.0, '20150421', 'XAMS')
+Already in Corrections:
+('Tyrus Capital S.A.M.', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150930', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150527', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150417', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150409', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management Limited', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150408', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150408', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150331', 'XAMS')
+Already in Corrections:
+('CapeView Capital LLP', 'TNT Express N.V.', 'NL0009739424', 0.0, '20141018', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TNT Express N.V.', 'NL0009739424', 0.0, '20130606', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Royal Imtech N.V.', 'NL0010886891', 0.0, '20150514', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20141024', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20141016', 'XAMS')
+Already in Corrections:
+('CapeView Capital LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140918', 'XAMS')
+Already in Corrections:
+('GMT Capital Corp', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130611', 'XAMS')
+Already in Corrections:
+('GMT Capital Corp', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140902', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140730', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140607', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140115', 'XAMS')
+Already in Corrections:
+('TT International', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140107', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20131206', 'XAMS')
+Already in Corrections:
+('Naya Management LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130717', 'XAMS')
+Already in Corrections:
+('DSAM Partners LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130705', 'XAMS')
+Already in Corrections:
+('Third Point LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130417', 'XAMS')
+Already in Corrections:
+('Occitan Master Fund LP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130309', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130216', 'XAMS')
+Already in Corrections:
+("The Children's Investment Fund Management (UK) LLP", 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20121123', 'XAMS')
+Already in Corrections:
+('Denjoy Integral Fund Limited', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20121121', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Ten Cate N.V.', 'NL0000375749', 0.0, '20150722', 'XAMS')
+Already in Corrections:
+('King Street Capital Management, L.P.', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20150203', 'XAMS')
+Already in Corrections:
+('Pimco EqS Long Short Fund', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20150117', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20130222', 'XAMS')
+Already in Corrections:
+('Balyasny Asset Management LP', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20130221', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'Eurocommercial Properties N.V.', 'NL0000288876', 0.0, '20150520', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Nutreco N.V.', 'NL0010395208', 0.0, '20150205', 'XAMS')
+Already in Corrections:
+('UBS Global Asset Management (UK) Ltd.', 'Nutreco N.V.', 'NL0010395208', 0.0, '20140807', 'XAMS')
+Already in Corrections:
+('Millennium International Management LP', 'Exact Holding N.V.', 'NL0000350361', 0.0, '20141018', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Corbion N.V. ', 'NL0010583399', 0.0, '20140308', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Corio N.V.', 'NL0000288967', 0.0, '20140204', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'Corio N.V.', 'NL0000288967', 0.0, '20131219', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Pharming Group N.V.', 'NL0010391025', 0.0, '20140125', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'ASM International N.V.', 'NL0000334118', 0.0, '20130226', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'ASM International N.V.', 'NL0000334118', 0.0, '20130115', 'XAMS')
+Already in Corrections:
+('Odey Asset Management LLP', 'Ziggo N.V.', 'NL0006294290', 0.0, '20130214', 'XAMS')
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.97 seconds.
+
+This will add 0% corrections in case of one year gap
+
+Already in Corrections:
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS')
+Already in Corrections:
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS')
+Already in Corrections:
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS')
+Already in Corrections:
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS')
+Already in Corrections:
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS')
+Already in Corrections:
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS')
+Already in Corrections:
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS')
+Already in Corrections:
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS')
+Already in Corrections:
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS')
+Already in Corrections:
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS')
+Already in Corrections:
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS')
+Already in Corrections:
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS')
+Already in Corrections:
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151104', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151104', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151023', 'XAMS')
+Already in Corrections:
+('Hutchin Hill Capital, LP', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151023', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'BE Semiconductor Industries N.V.', 'NL0000339760', 0.0, '20151010', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'BinckBank N.V.', 'NL0000335578', 0.0, '20150613', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'BinckBank N.V.', 'NL0000335578', 0.0, '20150325', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'BinckBank N.V.', 'NL0000335578', 0.0, '20130525', 'XAMS')
+Already in Corrections:
+('Pictet Asset Management S.A.', 'BinckBank N.V.', 'NL0000335578', 0.0, '20131212', 'XAMS')
+Already in Corrections:
+('Macquarie Funds Management Hong Kong Limited', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160305', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160220', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160216', 'XAMS')
+Already in Corrections:
+('Rotella Acrospire LLC', 'Heijmans N.V.', 'NL0009269109', 0.0, '20160127', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Heijmans N.V.', 'NL0009269109', 0.0, '20140923', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Heijmans N.V.', 'NL0009269109', 0.0, '20140628', 'XAMS')
+Already in Corrections:
+('BlackRock Advisors (UK) Limited', 'Heijmans N.V.', 'NL0009269109', 0.0, '20140213', 'XAMS')
+Already in Corrections:
+('Valiant Capital Management, LP', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160130', 'XAMS')
+Already in Corrections:
+('Sophos Capital Management, L.P.', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160608', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160513', 'XAMS')
+Already in Corrections:
+('Man Investments Limited', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160414', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160216', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20160123', 'XAMS')
+Already in Corrections:
+('Kynikos Associates LP', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150822', 'XAMS')
+Already in Corrections:
+('UBS Global Asset Management (UK) Ltd.', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150519', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management Limited', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150508', 'XAMS')
+Already in Corrections:
+('Egerton Capital (UK) LLP', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20150207', 'XAMS')
+Already in Corrections:
+('Encompass Capital Advisors LLC', 'SBM Offshore N.V.', 'NL0000360618', 0.0, '20130313', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Aperam', 'LU0569974404', 0.0, '20160318', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Aperam', 'LU0569974404', 0.0, '20150825', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Aperam', 'LU0569974404', 0.0, '20150818', 'XAMS')
+Already in Corrections:
+('BlackRock Advisors, LLC', 'Aperam', 'LU0569974404', 0.0, '20150808', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Aperam', 'LU0569974404', 0.0, '20150417', 'XAMS')
+Already in Corrections:
+('TT International', 'Aperam', 'LU0569974404', 0.0, '20130807', 'XAMS')
+Already in Corrections:
+('TT International', 'Aperam', 'LU0569974404', 0.0, '20141023', 'XAMS')
+Already in Corrections:
+('Millennium International Management LP', 'Aperam', 'LU0569974404', 0.0, '20140927', 'XAMS')
+Already in Corrections:
+('Bocage Capital, LLC', 'Aperam', 'LU0569974404', 0.0, '20130807', 'XAMS')
+Already in Corrections:
+("UBS O'Connor Limited", 'Aperam', 'LU0569974404', 0.0, '20130126', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Brunel International N.V.', 'NL0010776944', 0.0, '20151010', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20160511', 'XAMS')
+Already in Corrections:
+('GAM Investment Management (Switzerland) AG, Zurich', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20160422', 'XAMS')
+Already in Corrections:
+('Adelphi Capital LLP', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20141112', 'XAMS')
+Already in Corrections:
+('FIL Investment Services (UK) Limited', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20140930', 'XAMS')
+Already in Corrections:
+('Scopia Capital Management LLC', 'Koninklijke Vopak N.V.', 'NL0009432491', 0.0, '20140130', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Boskalis Westminster N.V.', 'NL0000852580', 0.0, '20151215', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Fugro N.V.', 'NL0000352565', 0.0, '20141119', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20141101', 'XAMS')
+Already in Corrections:
+('TT International', 'Fugro N.V.', 'NL0000352565', 0.0, '20141111', 'XAMS')
+Already in Corrections:
+('TT International', 'Fugro N.V.', 'NL0000352565', 0.0, '20160416', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Fugro N.V.', 'NL0000352565', 0.0, '20130117', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Fugro N.V.', 'NL0000352565', 0.0, '20160305', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Fugro N.V.', 'NL0000352565', 0.0, '20151008', 'XAMS')
+Already in Corrections:
+('Man Investments Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20150903', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20150228', 'XAMS')
+Already in Corrections:
+('Martin Currie Investment Management Ltd.', 'Fugro N.V.', 'NL0000352565', 0.0, '20141111', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Fugro N.V.', 'NL0000352565', 0.0, '20141108', 'XAMS')
+Already in Corrections:
+('Citadel Advisors II LLC', 'Fugro N.V.', 'NL0000352565', 0.0, '20141107', 'XAMS')
+Already in Corrections:
+('GAM Investment Management Lugano SA', 'Fugro N.V.', 'NL0000352565', 0.0, '20141105', 'XAMS')
+Already in Corrections:
+('UBS Limited', 'Fugro N.V.', 'NL0000352565', 0.0, '20141031', 'XAMS')
+Already in Corrections:
+('Lansdowne Partners (UK) LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20141024', 'XAMS')
+Already in Corrections:
+('Adelphi Capital LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140814', 'XAMS')
+Already in Corrections:
+('AKO Capital LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140719', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140711', 'XAMS')
+Already in Corrections:
+("The Children's Investment Fund Management (UK) LLP", 'Fugro N.V.', 'NL0000352565', 0.0, '20140328', 'XAMS')
+Already in Corrections:
+('Egerton Capital (UK) LLP', 'Fugro N.V.', 'NL0000352565', 0.0, '20140130', 'XAMS')
+Already in Corrections:
+('Arrowstreet Capital, Limited Partnership', 'Fugro N.V.', 'NL0000352565', 0.0, '20131018', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20140514', 'XAMS')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20160405', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20160209', 'XAMS')
+Already in Corrections:
+('Two Sigma Investments, LP', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20141223', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20141213', 'XAMS')
+Already in Corrections:
+('D.E. Shaw & Co., L.P.', 'Wereldhave N.V.', 'NL0000289213', 0.0, '20121120', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130410', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20160608', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130518', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130501', 'XAMS')
+Already in Corrections:
+('Arrowgrass Capital Partners LLP', 'Koninklijke KPN N.V.', 'NL0000009082', 0.0, '20130301', 'XAMS')
+Already in Corrections:
+('D.E. Shaw & Co., L.P.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150310', 'XAMS')
+Already in Corrections:
+('Steadfast Capital Management LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20160218', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20160129', 'XAMS')
+Already in Corrections:
+('Eminence Capital, LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20160121', 'XAMS')
+Already in Corrections:
+('Lone Pine Capital LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150911', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150901', 'XAMS')
+Already in Corrections:
+('Georgetown Asset Holdings, Ltd.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150828', 'XAMS')
+Already in Corrections:
+('Coatue Management, L.L.C.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150619', 'XAMS')
+Already in Corrections:
+('Maverick Capital , Ltd.', 'Gemalto N.V.', 'NL0000400653', 0.0, '20150205', 'XAMS')
+Already in Corrections:
+('Blue Ridge Capital, LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141129', 'XAMS')
+Already in Corrections:
+('Conatus Capital Management LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141127', 'XAMS')
+Already in Corrections:
+('Tybourne Equity Master Fund', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141029', 'XAMS')
+Already in Corrections:
+('Soroban Capital Partners LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141028', 'XAMS')
+Already in Corrections:
+('QVT Financial LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141024', 'XAMS')
+Already in Corrections:
+('Corvex Management LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20141018', 'XAMS')
+Already in Corrections:
+('Scopia Capital Management LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20140628', 'XAMS')
+Already in Corrections:
+('Kynikos Associates LP', 'Gemalto N.V.', 'NL0000400653', 0.0, '20140410', 'XAMS')
+Already in Corrections:
+('Hoplite Capital Management LLC', 'Gemalto N.V.', 'NL0000400653', 0.0, '20140409', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Aegon N.V.', 'NL0000303709', 0.0, '20150507', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Altice N.V.', 'NL0011333752', 0.0, '20160226', 'XAMS')
+Already in Corrections:
+('Carlson Capital UK LLP', 'NSI N.V.', 'NL0000292324', 0.0, '20131101', 'XAMS')
+Already in Corrections:
+('Thames River Capital LLP', 'NSI N.V.', 'NL0000292324', 0.0, '20131016', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Galapagos N.V.', 'BE0003818359', 0.0, '20160108', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Galapagos N.V.', 'BE0003818359', 0.0, '20160604', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'OCI N.V.', 'NL0010558797', 0.0, '20150226', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'AkzoNobel N.V.', 'NL0000009132', 0.0, '20121215', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'PostNL N.V.', 'NL0009739416', 0.0, '20140429', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'PostNL N.V.', 'NL0009739416', 0.0, '20140326', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'PostNL N.V.', 'NL0009739416', 0.0, '20160604', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20130130', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20160303', 'XAMS')
+Already in Corrections:
+('PDT Partners, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20151106', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20131107', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'PostNL N.V.', 'NL0009739416', 0.0, '20130822', 'XAMS')
+Already in Corrections:
+('Archipel Asset Management AB', 'PostNL N.V.', 'NL0009739416', 0.0, '20130710', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'PostNL N.V.', 'NL0009739416', 0.0, '20130606', 'XAMS')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'PostNL N.V.', 'NL0009739416', 0.0, '20130118', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Accell Group N.V.', 'NL0009767532', 0.0, '20130807', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160409', 'XAMS')
+Already in Corrections:
+('Quartys Limited', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160409', 'XAMS')
+Already in Corrections:
+('Luminus Management, LLC', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160319', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160308', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20160123', 'XAMS')
+Already in Corrections:
+('Millennium International Management LP', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20151212', 'XAMS')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'ArcelorMittal S.A.', 'LU0323134006', 0.0, '20140805', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20150318', 'XAMS')
+Already in Corrections:
+('B&G Master Fund Plc', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160513', 'XAMS')
+Already in Corrections:
+('PDT Partners, LLC', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160412', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160302', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20160225', 'XAMS')
+Already in Corrections:
+('Altair Investment Management Limited', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20151204', 'XAMS')
+Already in Corrections:
+('Citadel Europe LLP', 'Delta Lloyd N.V.', 'NL0009294552', 0.0, '20150226', 'XAMS')
+Already in Corrections:
+('Davidson Kempner European Partners, LLP', 'Koninklijke Ahold N.V.', 'NL0010672325', 0.0, '20160611', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Corbion N.V.', 'NL0010583399', 0.0, '20160624', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Corbion N.V.', 'NL0010583399', 0.0, '20140319', 'XAMS')
+Already in Corrections:
+('S.A.C. Global Investors LLP', 'Corbion N.V.', 'NL0000852549', 0.0, '20130326', 'XAMS')
+Already in Corrections:
+('Ako Capital LLP', 'Corbion N.V.', 'NL0000852549', 0.0, '20130108', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20160518', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20130802', 'XAMS')
+Already in Corrections:
+('Numeric Investors LLC', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20130531', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'AMG Advanced Metallurgical Group N.V.', 'NL0000888691', 0.0, '20130507', 'XAMS')
+Already in Corrections:
+('Better Options LLP', 'Inverko N.V.', 'NL0011495189', 0.0, '20160419', 'XAMS')
+Already in Corrections:
+('Lansdowne Partners Limited', 'Unibail-Rodamco', 'FR0000124711', 0.0, '20130615', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'USG People N.V.', 'NL0000354488', 0.0, '20151230', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'USG People N.V.', 'NL0000354488', 0.0, '20130627', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'USG People N.V.', 'NL0000354488', 0.0, '20150806', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'USG People N.V.', 'NL0000354488', 0.0, '20150804', 'XAMS')
+Already in Corrections:
+('D.E. Shaw & Co., L.P.', 'USG People N.V.', 'NL0000354488', 0.0, '20150214', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'USG People N.V.', 'NL0000354488', 0.0, '20141223', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'USG People N.V.', 'NL0000354488', 0.0, '20141104', 'XAMS')
+Already in Corrections:
+('BlackRock Advisors (UK) Limited', 'USG People N.V.', 'NL0000354488', 0.0, '20130628', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20151229', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20131218', 'XAMS')
+Already in Corrections:
+('Odey Asset Management LLP', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20130806', 'XAMS')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Wolters Kluwer N.V.', 'NL0000395903', 0.0, '20130117', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Vastned Retail N.V.', 'NL0000288918', 0.0, '20151203', 'XAMS')
+Already in Corrections:
+('B&G Master Fund Plc', 'Vastned Retail N.V.', 'NL0000288918', 0.0, '20151125', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke DSM N.V.', 'NL0000009827', 0.0, '20151031', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Kendrion N.V.', 'NL0000852531', 0.0, '20151009', 'XAMS')
+Already in Corrections:
+('Numeric Investors LLC', 'Kendrion N.V.', 'NL0000852531', 0.0, '20150421', 'XAMS')
+Already in Corrections:
+('Tyrus Capital S.A.M.', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150930', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150527', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150417', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150409', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management Limited', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150408', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150408', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'TNT Express N.V.', 'NL0009739424', 0.0, '20150331', 'XAMS')
+Already in Corrections:
+('CapeView Capital LLP', 'TNT Express N.V.', 'NL0009739424', 0.0, '20141018', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TNT Express N.V.', 'NL0009739424', 0.0, '20130606', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Royal Imtech N.V.', 'NL0010886891', 0.0, '20150514', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20141024', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20141016', 'XAMS')
+Already in Corrections:
+('CapeView Capital LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140918', 'XAMS')
+Already in Corrections:
+('GMT Capital Corp', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130611', 'XAMS')
+Already in Corrections:
+('GMT Capital Corp', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140902', 'XAMS')
+Already in Corrections:
+('Oxford Asset Management', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140730', 'XAMS')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140607', 'XAMS')
+Already in Corrections:
+('BlueCrest Capital Management LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140115', 'XAMS')
+Already in Corrections:
+('TT International', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20140107', 'XAMS')
+Already in Corrections:
+('AQR Capital Management, LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20131206', 'XAMS')
+Already in Corrections:
+('Naya Management LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130717', 'XAMS')
+Already in Corrections:
+('DSAM Partners LLP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130705', 'XAMS')
+Already in Corrections:
+('Third Point LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130417', 'XAMS')
+Already in Corrections:
+('Occitan Master Fund LP', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130309', 'XAMS')
+Already in Corrections:
+('WorldQuant, LLC', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20130216', 'XAMS')
+Already in Corrections:
+("The Children's Investment Fund Management (UK) LLP", 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20121123', 'XAMS')
+Already in Corrections:
+('Denjoy Integral Fund Limited', 'Royal Imtech N.V.', 'NL0006055329', 0.0, '20121121', 'XAMS')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Ten Cate N.V.', 'NL0000375749', 0.0, '20150722', 'XAMS')
+Already in Corrections:
+('King Street Capital Management, L.P.', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20150203', 'XAMS')
+Already in Corrections:
+('Pimco EqS Long Short Fund', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20150117', 'XAMS')
+Already in Corrections:
+('GLG Partners LP', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20130222', 'XAMS')
+Already in Corrections:
+('Balyasny Asset Management LP', 'Core Laboratories N.V.', 'NL0000200384', 0.0, '20130221', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'Eurocommercial Properties N.V.', 'NL0000288876', 0.0, '20150520', 'XAMS')
+Already in Corrections:
+('Marshall Wace LLP', 'Nutreco N.V.', 'NL0010395208', 0.0, '20150205', 'XAMS')
+Already in Corrections:
+('UBS Global Asset Management (UK) Ltd.', 'Nutreco N.V.', 'NL0010395208', 0.0, '20140807', 'XAMS')
+Already in Corrections:
+('Millennium International Management LP', 'Exact Holding N.V.', 'NL0000350361', 0.0, '20141018', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Corbion N.V. ', 'NL0010583399', 0.0, '20140308', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Corio N.V.', 'NL0000288967', 0.0, '20140204', 'XAMS')
+Already in Corrections:
+('Wellington Management Company LLP', 'Corio N.V.', 'NL0000288967', 0.0, '20131219', 'XAMS')
+Already in Corrections:
+('Susquehanna International Holdings LLC', 'Pharming Group N.V.', 'NL0010391025', 0.0, '20140125', 'XAMS')
+Already in Corrections:
+('Highbridge Capital Management LLC', 'ASM International N.V.', 'NL0000334118', 0.0, '20130226', 'XAMS')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'ASM International N.V.', 'NL0000334118', 0.0, '20130115', 'XAMS')
+Already in Corrections:
+('Odey Asset Management LLP', 'Ziggo N.V.', 'NL0006294290', 0.0, '20130214', 'XAMS')
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.9 seconds.

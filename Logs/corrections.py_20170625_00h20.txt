@@ -1,0 +1,623 @@
+
+This will add 0% corrections in case of one year gap
+
+
+Equity: Ordina N.V.
+GSA Capital Partners LLP
+2015-06-17 00:00:00
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Already in Corrections:
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+
+Equity: TomTom N.V.
+Discovery Capital Management, LLC
+2012-11-01 00:00:00
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Discovery Capital Management, LLC
+2015-09-29 00:00:00
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+BlackRock Institutional Trust Company, N.A.
+2015-09-18 00:00:00
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Hound Partners, LLC
+2015-07-06 00:00:00
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+BlueMountain Capital Management, LLC
+2015-04-15 00:00:00
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+TT International
+2015-02-11 00:00:00
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Cadian Capital Management, LLC
+2014-03-21 00:00:00
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+AKO Capital LLP
+2014-03-06 00:00:00
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Marble Arch Investments, LP
+2014-02-27 00:00:00
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Meritage Group LP
+2013-03-07 00:00:00
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+Passport Capital, LLC
+2012-11-08 00:00:00
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h21')
+
+This will add 0% corrections in case of one year gap
+
+
+Equity: Ordina N.V.
+
+Holder: GSA Capital Partners LLP
+2015-06-17 00:00:00
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Equity: TomTom N.V.
+
+Holder: Discovery Capital Management, LLC
+2012-11-01 00:00:00
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Discovery Capital Management, LLC
+2015-09-29 00:00:00
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: BlackRock Institutional Trust Company, N.A.
+2015-09-18 00:00:00
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Hound Partners, LLC
+2015-07-06 00:00:00
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: BlueMountain Capital Management, LLC
+2015-04-15 00:00:00
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: TT International
+2015-02-11 00:00:00
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Cadian Capital Management, LLC
+2014-03-21 00:00:00
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: AKO Capital LLP
+2014-03-06 00:00:00
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Marble Arch Investments, LP
+2014-02-27 00:00:00
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Meritage Group LP
+2013-03-07 00:00:00
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Passport Capital, LLC
+2012-11-08 00:00:00
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Equity: Koninklijke BAM Groep N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+2014-10-09 00:00:00
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Marshall Wace LLP
+2015-06-22 00:00:00
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Oxford Asset Management
+2013-01-09 00:00:00
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Oxford Asset Management
+2015-01-02 00:00:00
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: WorldQuant, LLC
+2014-11-07 00:00:00
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: WorldQuant, LLC
+2016-06-21 00:00:00
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Man Investments Limited
+2016-02-16 00:00:00
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Lucerne Capital Management, LLC
+2014-11-06 00:00:00
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: TT International
+2012-11-16 00:00:00
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: TT International
+2014-09-10 00:00:00
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: AKO Capital LLP
+2014-07-10 00:00:00
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+2014-02-20 00:00:00
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Saemor Capital B.V.
+2014-01-10 00:00:00
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: BlackRock Institutional Trust Company, N.A.
+2013-07-23 00:00:00
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Numeric Investors LLC
+2012-12-07 00:00:00
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Equity: TKH Group N.V.
+
+Holder: SFM UK Management LLP
+2016-04-05 00:00:00
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Equity: Arcadis N.V.
+
+Holder: Canada Pension Plan Investment Board
+2016-04-28 00:00:00
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: Capital Fund Management S.A.
+2016-03-07 00:00:00
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: AKO Capital LLP
+2015-12-15 00:00:00
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+2015-10-09 00:00:00
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h23')
+
+Rows added: 1
+
+Done.
+
+
+Done.
+
+Script ran for 0.24 seconds.
+
+This will add 0% corrections in case of one year gap
+
+
+Equity: Ordina N.V.
+
+Holder: GSA Capital Partners LLP
+2015-06-17 00:00:00
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: TomTom N.V.
+
+Holder: Discovery Capital Management, LLC
+2012-11-01 00:00:00
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Discovery Capital Management, LLC
+2015-09-29 00:00:00
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: BlackRock Institutional Trust Company, N.A.
+2015-09-18 00:00:00
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Hound Partners, LLC
+2015-07-06 00:00:00
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: BlueMountain Capital Management, LLC
+2015-04-15 00:00:00
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: TT International
+2015-02-11 00:00:00
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Cadian Capital Management, LLC
+2014-03-21 00:00:00
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: AKO Capital LLP
+2014-03-06 00:00:00
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Marble Arch Investments, LP
+2014-02-27 00:00:00
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Meritage Group LP
+2013-03-07 00:00:00
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Passport Capital, LLC
+2012-11-08 00:00:00
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: Koninklijke BAM Groep N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+2014-10-09 00:00:00
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Marshall Wace LLP
+2015-06-22 00:00:00
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Oxford Asset Management
+2013-01-09 00:00:00
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Oxford Asset Management
+2015-01-02 00:00:00
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: WorldQuant, LLC
+2014-11-07 00:00:00
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: WorldQuant, LLC
+2016-06-21 00:00:00
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Man Investments Limited
+2016-02-16 00:00:00
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Lucerne Capital Management, LLC
+2014-11-06 00:00:00
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: TT International
+2012-11-16 00:00:00
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: TT International
+2014-09-10 00:00:00
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: AKO Capital LLP
+2014-07-10 00:00:00
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+2014-02-20 00:00:00
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Saemor Capital B.V.
+2014-01-10 00:00:00
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: BlackRock Institutional Trust Company, N.A.
+2013-07-23 00:00:00
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Numeric Investors LLC
+2012-12-07 00:00:00
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: TKH Group N.V.
+
+Holder: SFM UK Management LLP
+2016-04-05 00:00:00
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: Arcadis N.V.
+
+Holder: Canada Pension Plan Investment Board
+2016-04-28 00:00:00
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: Capital Fund Management S.A.
+2016-03-07 00:00:00
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: AKO Capital LLP
+2015-12-15 00:00:00
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+2015-10-09 00:00:00
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.15 seconds.
+
+This will add 0% corrections in case of one year gap
+
+
+Equity: Ordina N.V.
+
+Holder: GSA Capital Partners LLP
+Already in Corrections:
+('GSA Capital Partners LLP', 'Ordina N.V.', 'NL0000440584', 0.0, '20150618', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: TomTom N.V.
+
+Holder: Discovery Capital Management, LLC
+
+Holder: Discovery Capital Management, LLC
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Hound Partners, LLC
+
+Holder: BlueMountain Capital Management, LLC
+
+Holder: TT International
+
+Holder: Cadian Capital Management, LLC
+
+Holder: AKO Capital LLP
+
+Holder: Marble Arch Investments, LP
+
+Holder: Meritage Group LP
+
+Holder: Passport Capital, LLC
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121102', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Discovery Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150930', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'TomTom N.V.', 'NL0000387058', 0.0, '20150919', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Hound Partners, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150707', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlueMountain Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20150416', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('TT International', 'TomTom N.V.', 'NL0000387058', 0.0, '20150212', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Cadian Capital Management, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20140322', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('AKO Capital LLP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140307', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Marble Arch Investments, LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20140228', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Meritage Group LP', 'TomTom N.V.', 'NL0000387058', 0.0, '20130308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Passport Capital, LLC', 'TomTom N.V.', 'NL0000387058', 0.0, '20121109', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: Koninklijke BAM Groep N.V.
+
+Holder: BlackRock Investment Management (UK) Limited
+
+Holder: Marshall Wace LLP
+
+Holder: Oxford Asset Management
+
+Holder: Oxford Asset Management
+
+Holder: WorldQuant, LLC
+
+Holder: WorldQuant, LLC
+
+Holder: Man Investments Limited
+
+Holder: Lucerne Capital Management, LLC
+
+Holder: TT International
+
+Holder: TT International
+
+Holder: AKO Capital LLP
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+
+Holder: Saemor Capital B.V.
+
+Holder: BlackRock Institutional Trust Company, N.A.
+
+Holder: Numeric Investors LLC
+Already in Corrections:
+('BlackRock Investment Management (UK) Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Marshall Wace LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150623', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130110', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Oxford Asset Management', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20150103', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141108', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('WorldQuant, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160622', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Man Investments Limited', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20160217', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Lucerne Capital Management, LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20141107', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121117', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('TT International', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140911', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('AKO Capital LLP', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140711', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140221', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Saemor Capital B.V.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20140111', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('BlackRock Institutional Trust Company, N.A.', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20130724', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Numeric Investors LLC', 'Koninklijke BAM Groep N.V.', 'NL0000337319', 0.0, '20121208', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: TKH Group N.V.
+
+Holder: SFM UK Management LLP
+Already in Corrections:
+('SFM UK Management LLP', 'TKH Group N.V.', 'NL0000852523', 0.0, '20160406', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Equity: Arcadis N.V.
+
+Holder: Canada Pension Plan Investment Board
+
+Holder: Capital Fund Management S.A.
+
+Holder: AKO Capital LLP
+
+Holder: JPMorgan Asset Management (UK) Ltd.
+Already in Corrections:
+('Canada Pension Plan Investment Board', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160429', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('Capital Fund Management S.A.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20160308', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('AKO Capital LLP', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151216', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+Already in Corrections:
+('JPMorgan Asset Management (UK) Ltd.', 'Arcadis N.V.', 'NL0006237562', 0.0, '20151010', 'XAMS', 'ONE_YEAR_GAP', '20170625_00h24')
+
+Rows added: 0
+
+Done.
+
+
+Done.
+
+Script ran for 0.15 seconds.

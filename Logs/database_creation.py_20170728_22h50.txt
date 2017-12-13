@@ -1,0 +1,9 @@
+Creating database: SummaryDB
+Error: near ";": syntax error
+Creating database: SummaryDB
+Error: near ";": syntax error
+Creating database: SummaryDB
+SummaryDB.db
+
+Done.
+

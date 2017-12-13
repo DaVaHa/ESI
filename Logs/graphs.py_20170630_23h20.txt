@@ -1,0 +1,40 @@
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+
+No argument given, please provide MIC for creating graphs.
+
+Script ran for 7.14 seconds.
+Creating Graphs for MIC: GRAPHS.PY
+
+Script ran for 3.97 seconds.
+Creating Graphs for MIC: XBRU
+
+Script ran for 2.36 seconds.
+Creating Graphs for MIC: XBRU
+
+Script ran for 4.63 seconds.

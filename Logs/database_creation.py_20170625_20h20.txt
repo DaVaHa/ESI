@@ -1,0 +1,10 @@
+Creating database for MIC: XPAR
+XPAR_ShortInterest.db
+
+Done.
+
+Creating database for MIC: XPAR
+XPAR_ShortInterest.db
+
+Done.
+

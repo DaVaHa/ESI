@@ -1,0 +1,271 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Equity FAGRON - Holder: CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.
+('MARSHALL WACE LLP', 'FAGRON', 'BE0003874915', 0.0, '20161202', 'XBRU', 'ONE_YEAR_GAP', '20171202_15h29')
+
+Rows added: 1
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 140
+
+
+Rows before: 140
+
+Rows deleted: 0
+
+Rows after: 140
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('MARSHALL WACE LLP', 'FAGRON', 'BE0003874915', 0.0, '20161202', 'XBRU', 'ONE_YEAR_GAP', '20171202_15h29')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 39704
+
+
+Rows before: 39704
+
+Rows deleted: 0
+
+Rows after: 39704
+
+Done.
+
+Script ran for 4.62 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('CITADEL ADVISORS II LLC', 'KONINKLIJKE VOPAK N.V.', 'NL0009432491', 0.47, '20171130', 'XAMS')
+('CITADEL ADVISORS II LLC', 'KONINKLIJKE VOPAK N.V.', 'NL0009432491', 0.0, '20171201', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('GLG PARTNERS LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.09, '20171129', 'XAMS')
+('GLG PARTNERS LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.0, '20171130', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('PALOMA PARTNERS MANAGEMENT COMPANY', 'GEMALTO N.V.', 'NL0000400653', 0.49, '20171129', 'XAMS')
+('PALOMA PARTNERS MANAGEMENT COMPANY', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171130', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('WORLDQUANT, LLC', 'GEMALTO N.V.', 'NL0000400653', 0.49, '20171129', 'XAMS')
+('WORLDQUANT, LLC', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171130', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('LONE PINE CAPITAL LLC', 'KONINKLIJKE AHOLD DELHAIZE N.V.', 'NL0011794037', 0.46, '20171127', 'XAMS')
+('LONE PINE CAPITAL LLC', 'KONINKLIJKE AHOLD DELHAIZE N.V.', 'NL0011794037', 0.0, '20171128', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('WORLDQUANT, LLC', 'WERELDHAVE N.V.', 'NL0000289213', 0.49, '20171127', 'XAMS')
+('WORLDQUANT, LLC', 'WERELDHAVE N.V.', 'NL0000289213', 0.0, '20171128', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.', 'BINCKBANK N.V.', 'NL0000335578', 0.49, '20171124', 'XAMS')
+('CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.', 'BINCKBANK N.V.', 'NL0000335578', 0.0, '20171125', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('MARSHALL WACE LLP', 'ARCELORMITTAL S.A.', 'LU1598757687', 0.49, '20171124', 'XAMS')
+('MARSHALL WACE LLP', 'ARCELORMITTAL S.A.', 'LU1598757687', 0.0, '20171125', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+
+Rows added: 8
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 733
+
+
+Rows before: 733
+
+Rows deleted: 0
+
+Rows after: 733
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('ALGERT GLOBAL, LLC', 'KONINKLIJKE BAM GROEP N.V.', 'NL0000337319', 0.0, '20170823', 'XAMS', 'HALF_PERCENT', '20170826_20h53')
+('CITADEL ADVISORS II LLC', 'KONINKLIJKE VOPAK N.V.', 'NL0009432491', 0.0, '20171201', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('GLG PARTNERS LP', 'PHILIPS LIGHTING N.V.', 'NL0011821392', 0.0, '20171130', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('PALOMA PARTNERS MANAGEMENT COMPANY', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171130', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('WORLDQUANT, LLC', 'GEMALTO N.V.', 'NL0000400653', 0.0, '20171130', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('LONE PINE CAPITAL LLC', 'KONINKLIJKE AHOLD DELHAIZE N.V.', 'NL0011794037', 0.0, '20171128', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('WORLDQUANT, LLC', 'WERELDHAVE N.V.', 'NL0000289213', 0.0, '20171128', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('CONNOR, CLARK & LUNN INVESTMENT MANAGEMENT LTD.', 'BINCKBANK N.V.', 'NL0000335578', 0.0, '20171125', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+('MARSHALL WACE LLP', 'ARCELORMITTAL S.A.', 'LU1598757687', 0.0, '20171125', 'XAMS', 'HALF_PERCENT', '20171202_15h29')
+
+Rows added: 9
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('ALGERT GLOBAL, LLC', 'KONINKLIJKE BAM GROEP N.V.', 0.0, '20170823')]
+
+Rows before: 7202
+
+holder: ALGERT GLOBAL, LLC // issuer: KONINKLIJKE BAM GROEP N.V. // date: 20170823
+Short interest: 0.5 vs 0.0
+Deleting SI: 0.0
+
+Rows before: 7202
+
+Rows deleted: 1
+
+Rows after: 7201
+
+Done.
+
+Script ran for 1.84 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+('CAPITAL FUND MANAGEMENT SA', 'TECHNICOLOR', 'FR0010918292', 0.49, '20171130', 'XPAR')
+('CAPITAL FUND MANAGEMENT SA', 'TECHNICOLOR', 'FR0010918292', 0.0, '20171201', 'XPAR', 'HALF_PERCENT', '20171202_15h29')
+
+Rows added: 1
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 1116
+
+
+Rows before: 1116
+
+Rows deleted: 0
+
+Rows after: 1116
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('WORLDQUANT LLC', 'CARREFOUR', 'FR0000120172', 0.0, '20171110', 'XPAR', 'HALF_PERCENT', '20171111_11h07')
+('CAPITAL FUND MANAGEMENT SA', 'TECHNICOLOR', 'FR0010918292', 0.0, '20171201', 'XPAR', 'HALF_PERCENT', '20171202_15h29')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('WORLDQUANT LLC', 'CARREFOUR', 0.0, '20171110')]
+
+Rows before: 11008
+
+holder: WORLDQUANT LLC // issuer: CARREFOUR // date: 20171110
+Short interest: 0.5 vs 0.0
+Deleting SI: 0.0
+
+Rows before: 11008
+
+Rows deleted: 1
+
+Rows after: 11007
+
+Done.
+
+Script ran for 3.33 seconds.
+Adding corrections to: XLIS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 32
+
+
+Rows before: 32
+
+Rows deleted: 0
+
+Rows after: 32
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 665
+
+
+Rows before: 665
+
+Rows deleted: 0
+
+Rows after: 665
+
+Done.
+
+Script ran for 0.07 seconds.

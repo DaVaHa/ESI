@@ -1,0 +1,4 @@
+Creating database: SummaryDB
+Error: near "FROM": syntax error
+Creating database: SummaryDB
+Error: near "FROM": syntax error

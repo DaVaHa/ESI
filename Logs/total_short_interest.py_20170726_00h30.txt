@@ -1,0 +1,37 @@
+Calculating total short interest for : XBRU
+
+Issuer: Ablynx
+Issuer: Aedifica
+Issuer: Agfa Gevaert Nv
+Issuer: Ahold-Delhaize Group
+Issuer: BPOST
+Issuer: Barco
+Issuer: Befimmo
+Issuer: Bekaert
+Issuer: Celyad
+Issuer: Cofinimmo
+Issuer: Colruyt
+Issuer: Delhaize Group
+Issuer: Dexia SA
+Issuer: EVS Broadcasting
+Issuer: Econocom
+Issuer: Euronav NV
+Issuer: Exmar
+Issuer: Fagron
+Issuer: Galapagos
+Issuer: IBA
+Issuer: KBC Groep NV
+Issuer: Kinepolis
+Issuer: MDXHealth
+Issuer: Nyrstar
+Issuer: Ontex
+Issuer: Orange Belgium SA
+Issuer: Proximus
+Issuer: Recticel
+Issuer: Solvay SA
+Issuer: Telenet
+Issuer: Tessenderlo
+Issuer: Thrombogenics NV
+Issuer: TiGenix
+Issuer: UCB 
+Issuer: Umicore

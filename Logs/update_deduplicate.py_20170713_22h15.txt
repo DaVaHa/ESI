@@ -1,0 +1,114 @@
+
+Importing updates of last 12 months into SourceData : XBRU.db.
+Checking updates from 20160713 and adding to XBRU.db...
+
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161101', 'XBRU', '20170713_22h19')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161102', 'XBRU', '20170713_22h19')
+('GSA Capital Partners LLP', 'Nyrstar', 'BE0003876936', 0.71, '20161103', 'XBRU', '20170713_22h19')
+('Oddo Contrepartie', 'Econocom', 'BE0974266950', 1.45, '20170323', 'XBRU', '20170713_22h19')
+('GSA Capital Partners LLP', 'Celyad', 'BE0974260896', 0.59, '20170509', 'XBRU', '20170713_22h19')
+('BlackRock Institutional Trust Company, National Association', 'Ontex', 'BE0974276082', 0.8, '20170712', 'XBRU', '20170713_22h19')
+
+Rows added: 6
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[('GSA Capital Partners LLP', 'Celyad', 0.59, '20170509'), ('Oddo Contrepartie', 'Econocom', 1.45, '20170323'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161101'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161102'), ('GSA Capital Partners LLP', 'Nyrstar', 0.71, '20161103')]
+
+Rows before: 38180
+
+holder: GSA Capital Partners LLP // issuer: Celyad // date: 20170509
+Short interest: 0.0 vs 0.59
+Deleting SI: 0.59
+holder: Oddo Contrepartie // issuer: Econocom // date: 20170323
+Short interest: 1.1 vs 1.45
+Deleting SI: 1.45
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161101
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161102
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+holder: GSA Capital Partners LLP // issuer: Nyrstar // date: 20161103
+Short interest: 0.69 vs 0.71
+Deleting SI: 0.71
+
+Rows before: 38180
+
+Rows deleted: 5
+
+Rows after: 38175
+
+Done.
+
+Script ran for 13.96 seconds.
+
+Importing updates of last 12 months into SourceData : XAMS.db.
+Checking updates from 20160713 and adding to XAMS.db...
+
+('AKO Capital LLP', 'TKH Group N.V.', 'NL0000852523', 1.13, '20170712', 'XAMS', '20170713_22h19')
+('AQR Capital Management, LLC', 'Koninklijke Vopak N.V.', 'NL0009432491', 1.1, '20170712', 'XAMS', '20170713_22h19')
+('BlackRock Investment Management (UK) Limited', 'Brunel International N.V.', 'NL0010776944', 1.1, '20170712', 'XAMS', '20170713_22h19')
+('BlackRock Investment Management (UK) Limited', 'Koninklijke Wessanen N.V.', 'NL0000395317', 0.6, '20170712', 'XAMS', '20170713_22h19')
+('BlackRock Investment Management (UK) Limited', 'Wereldhave N.V.', 'NL0000289213', 0.62, '20170712', 'XAMS', '20170713_22h19')
+('Millennium International Management LP', 'Galapagos N.V.', 'BE0003818359', 0.69, '20170712', 'XAMS', '20170713_22h19')
+('Oxford Asset Management', 'SBM Offshore N.V.', 'NL0000360618', 0.59, '20170712', 'XAMS', '20170713_22h19')
+('AQR Capital Management, LLC', 'Koninklijke Ahold Delhaize N.V.', 'NL0011794037', 0.55, '20160725', 'XAMS', '20170713_22h19')
+
+Rows added: 8
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[('AQR Capital Management, LLC', 'Koninklijke Ahold Delhaize N.V.', 0.55, '20160725')]
+
+Rows before: 6487
+
+holder: AQR Capital Management, LLC // issuer: Koninklijke Ahold Delhaize N.V. // date: 20160725
+Short interest: 0.0 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 6487
+
+Rows deleted: 1
+
+Rows after: 6486
+
+Done.
+
+Script ran for 0.39 seconds.
+
+Importing updates of last 12 months into SourceData : XPAR.db.
+Checking updates from 20160713 and adding to XPAR.db...
+
+('MANIKAY PARTNERS LLC', 'TECHNIP', 'FR0000131708', 0.55, '20161205', 'XPAR', '20170713_22h19')
+
+Rows added: 1
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[('MANIKAY PARTNERS LLC', 'TECHNIP', 0.55, '20161205')]
+
+Rows before: 9908
+
+holder: MANIKAY PARTNERS LLC // issuer: TECHNIP // date: 20161205
+Short interest: 0.12 vs 0.55
+Deleting SI: 0.55
+
+Rows before: 9908
+
+Rows deleted: 1
+
+Rows after: 9907
+
+Done.
+
+Script ran for 0.75 seconds.

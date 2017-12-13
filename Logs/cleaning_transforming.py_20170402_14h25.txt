@@ -1,0 +1,9 @@
+Extracting raw source data...
+Adding updates to XAMS.db...
+('AQR Capital Management, LLC', 'OCI N.V.', 'NL0010558797', 0.49, '20170330', 'XAMS')
+('Marshall Wace LLP', 'Arcadis N.V.', 'NL0006237562', 0.69, '20170330', 'XAMS')
+('Systematica Investments Limited', 'TomTom N.V.', 'NL0000387058', 0.6, '20170330', 'XAMS')
+Rows added: 3
+
+Done.
+

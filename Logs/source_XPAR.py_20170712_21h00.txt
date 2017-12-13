@@ -1,0 +1,30 @@
+Loading Excel file from AFM website..
+Importing worksheets:
+
+=> Valides_Current
+Rows added: 89
+
+=> Archivées_Archive
+Rows added: 8805
+
+=> ALL
+Rows added: 8894
+
+Done.
+
+Script ran for 4.35 seconds.
+Loading Excel file from AFM website..
+Importing worksheets:
+
+=> Valides_Current
+Rows added: 89
+
+=> Archivées_Archive
+Rows added: 8805
+
+=> ALL
+Rows added: 8894
+
+Done.
+
+Script ran for 3.9 seconds.

@@ -1,0 +1,57 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<!-- Script --> 
+<script>$(function(){
+	$("#about").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+	});
+</script>
+
+<!-- Text --> 
+</br>
+<h1 align='center' class='titlehead'>About</h1>
+
+<div class="paragraph">
+<h2 align='center'>What This Website Is About.</h2>
+<p>This website is the result of research done for a master thesis. The objective of this scription was to investigate the predictive power of the Short Interest on the return of stocks traded on the Euronext markets (French, Dutch, Belgian and Portugese equity markets). As always, one of the biggest problems with data is getting it into the right format. In this case, the problem is that the short interest notifications are published <i>irregularly</i> on the websites of the respective authorities and <i>by holder</i>. Cleaning and transforming this raw data has already been done for you, so this website is about publishing the <b><u>Total Short Interest per Share</u></b> and showing them in some pretty and interactive graphs.</p>
+</div>
+
+
+<div class="paragraph">
+<h2 align='center'>Why You Should Care.</h2>
+<p>A picture is worth a thousand words, so how about two? The picture below shows the average (relative & annualized) return of shares after crossing short interest levels, for stocks traded on Euronext. Why care? Well, returns are highly negative for stocks crossing high short interest levels... The second picture shows the result of regression models for various equal-weighted portfolios based on  short interest levels. If the first picture couldn't convince you, then take a look at the statistical significance of the second picture...</p>
+</div>
+</div><p align="center" style="font-size:90%;">
+<img class="enlargeIMG" src='/static/ShortInterestReturns.jpg' alt="ShortInterestReturns" height="350px" width="600px" border="1px">
+</br><img class="enlargeIMG" src='/static/RegressionModels.jpg' alt="RegressionModels" height="350px" width="600px" border="1px">
+</br><i>(Click to enlarge)</i></br>
+</p>
+</div>
+
+
+<div class="paragraph">
+<h2 align='center'>What You Should Know About The Data.</h2>
+<p>According to <a href='https://www.esma.europa.eu/regulation/trading/short-selling'>European regulation</a>, only short positions of at least 0.5% (of share capital) have to be published on the websites of the respective authorities. Short positions of at least 0.2% have to be reported to the authorities, but <i>do not have to be published</i>. Yes, this means that the full dataset is NOT available to the public. The short interest as seen on this website is underestimating the actual short interest and should thus be considered a <u><i>minimum</i></u> short interest. A comparison with the average short positions mentioned in a recent <a href="https://www.esma.europa.eu/sites/default/files/library/esma70-145-127_consultation_paper_on_the_evaluation_of_certain_aspects_of_the_ssr.pdf">ESMA consultation paper</a> (p35-39) suggests that only around 60% of the actual short interest can be derived from the public notifications...
+</p>
+</div>
+
+
+<div class="paragraph">
+<h2 align='center'>What You Should Know About The Calculation.</h2>
+<p>Two rules are implemented to calculate the total short interest by share. As notifications are not (required to be) published when they are below 0.5%, the first rule is that short positions of holders in certain issuers are set to 0% whenever the publicly reported position is below 0.5%. The second rule is that short positions older than one year are also set to 0%, to avoid keeping (very) old short positions into the calculation. </p>
+</div>
+
+<div class="paragraph">
+<h2 align='center'>What You Should Do.</h2>
+<p> Other than avoiding these stocks, you mean? Well, if you see weird things or have some questions, 
+please let me know (<a href="{{url_for('Contact')}}">here</a>)!
+</p>
+</div>
+
+
+
+
+{% endblock %}
+
+
+

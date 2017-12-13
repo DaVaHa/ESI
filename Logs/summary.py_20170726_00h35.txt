@@ -1,0 +1,9 @@
+
+Updating SummaryDB for MIC: XBRU
+Script ran for 2.78 seconds.
+
+Updating SummaryDB for MIC: XAMS
+Script ran for 5.44 seconds.
+
+Updating SummaryDB for MIC: XPAR
+Script ran for 11.78 seconds.

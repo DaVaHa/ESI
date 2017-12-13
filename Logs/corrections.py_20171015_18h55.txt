@@ -1,0 +1,238 @@
+Adding corrections to: XBRU.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 136
+
+
+Rows before: 136
+
+Rows deleted: 0
+
+Rows after: 136
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XBRU.db ...
+
+Duplicates:
+[]
+
+Rows before: 38280
+
+
+Rows before: 38280
+
+Rows deleted: 0
+
+Rows after: 38280
+
+Done.
+
+Script ran for 3.32 seconds.
+Adding corrections to: XAMS.db
+
+This will add 0% corrections when SI < 0.5%
+
+('WORLDQUANT, LLC', 'POSTNL N.V.', 'NL0009739416', 0.47, '20171012', 'XAMS')
+('WORLDQUANT, LLC', 'POSTNL N.V.', 'NL0009739416', 0.0, '20171013', 'XAMS', 'HALF_PERCENT', '20171015_18h57')
+('WELLINGTON MANAGEMENT COMPANY LLP', 'TAKEAWAY.COM N.V.', 'NL0012015705', 0.23, '20171011', 'XAMS')
+('WELLINGTON MANAGEMENT COMPANY LLP', 'TAKEAWAY.COM N.V.', 'NL0012015705', 0.0, '20171012', 'XAMS', 'HALF_PERCENT', '20171015_18h57')
+
+Rows added: 2
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 705
+
+
+Rows before: 705
+
+Rows deleted: 0
+
+Rows after: 705
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+('WORLDQUANT, LLC', 'POSTNL N.V.', 'NL0009739416', 0.0, '20171013', 'XAMS', 'HALF_PERCENT', '20171015_18h57')
+('WELLINGTON MANAGEMENT COMPANY LLP', 'TAKEAWAY.COM N.V.', 'NL0012015705', 0.0, '20171012', 'XAMS', 'HALF_PERCENT', '20171015_18h57')
+
+Rows added: 2
+
+Done.
+
+Deduplicating SourceData from XAMS.db ...
+
+Duplicates:
+[]
+
+Rows before: 6874
+
+
+Rows before: 6874
+
+Rows deleted: 0
+
+Rows after: 6874
+
+Done.
+
+Script ran for 1.25 seconds.
+Adding corrections to: XPAR.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 1073
+
+
+Rows before: 1073
+
+Rows deleted: 0
+
+Rows after: 1073
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XPAR.db ...
+
+Duplicates:
+[]
+
+Rows before: 10608
+
+
+Rows before: 10608
+
+Rows deleted: 0
+
+Rows after: 10608
+
+Done.
+
+Script ran for 1.81 seconds.
+Adding corrections to: XLIS.db
+
+This will add 0% corrections when SI < 0.5%
+
+
+Rows added: 0
+
+Done.
+
+
+This will add 0% corrections in case of one year gap
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating Corrections from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 10
+
+
+Rows before: 10
+
+Rows deleted: 0
+
+Rows after: 10
+
+Done.
+
+
+This will add all the corrections to : SourceData
+
+
+Rows added: 0
+
+Done.
+
+Deduplicating SourceData from XLIS.db ...
+
+Duplicates:
+[]
+
+Rows before: 243
+
+
+Rows before: 243
+
+Rows deleted: 0
+
+Rows after: 243
+
+Done.
+
+Script ran for 0.02 seconds.

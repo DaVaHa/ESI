@@ -1,0 +1,19 @@
+Loading Excel file from FSMA website...
+
+Importing worksheets:
+
+=> Archives
+Rows added: 34077
+
+=> Former positions
+Rows added: 125
+
+=> Current positions
+Rows added: 21
+
+=> ALL
+Rows added: 34202
+
+Done.
+
+Script ran for 9.23 seconds.
