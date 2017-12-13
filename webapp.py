@@ -2,7 +2,7 @@
 This script creates the web app in Flask.
 '''
 
-from flask import Flask, render_template, request, url_for, redirect, flash
+from flask import Flask, render_template, request, url_for
 import sqlite3 as lite
 from functions import TimeStamp
 
