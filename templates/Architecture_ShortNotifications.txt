@@ -1,0 +1,50 @@
+-------------------------------------------------
+--  Web app Short Notifications: Architecture  --
+-------------------------------------------------
+
+TODO:
+-----
+=> Complete website and deploy it, will you?
+=> Bootstrapping!!
+=> Euronext script updaten ipv full download. + toevoegen aan bash-script
+=> Graph without Euronext price data
+=> Unit Test script: Latest_SI <= MAX_SI ; Latest notifications < 1y ago ; .. ?
+=> Add more sources (Poland, Germany, Helsinki?)
+=> Improve front end (check real estate websites) 
+=> json page with login ('jsonify')
+=> alert service (mail & SMS Twilio?) when total short interest breaks barriers
+=> predictions based on short interest?
+
+
+DATABASES:
+----------
+Per source:
+=> In case of file: save file.
+=> Raw source data in MIC.db
+=> MIC.db to combine all raw source data, and add rules (<0.5% & 1y gap), and deduplicate.
+=> Add all transformed data to AllNotifications.db
+
+AllNotifications.db:
+=> One long table with all transformed data, and one to catch checks (which should not be available)
+
+ShortInterest.db
+=> One table with historical data per share.
+
+
+TRANSFORMATIONS
+=> Notifications < 0.5%, next day on 0%.
+=> Notifications with 1 year gap, next day on 0%.
+=> Deduplicate: delete line of highest Short Interest
+=> Transform Holder & Issuer into nice names.
+
+
+
+TABLE DEFINITIONS
+----------------
+=> see database_creation.py
+
+
+
+
+
+

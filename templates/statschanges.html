@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+	<script>$(function(){
+		$("#stats").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		});
+	</script>
+
+	<!-- Text --> 
+	</br>
+	<h1 align='center' class='titlehead'> {{header}} </h1>
+	<p align='center'><u><a  href="{{url_for('Stats')}}">Back to overview</a></u></p>
+
+	<!-- Graphs --> 
+	<div style="text-align:center;">
+	{% for g in graphs %}
+	   <div class="block">	   
+	   <p> <u>{{g[0]}}</u>: {{sign}}{{g[1]}}% </p></div>
+	   <div class="showhide">
+	   </br>
+	   <img src="/static/graphs/{{g[2]}}" alt="{{g[0]}}" width="500">
+	   </div>
+  	   </br>
+	   
+	{% endfor %}
+	</div>
+
+
+{% endblock %}
