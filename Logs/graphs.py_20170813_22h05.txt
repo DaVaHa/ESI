@@ -1,4 +1,0 @@
-Creating Graphs for MIC: XPAR
-
-
-Script ran for 31.36 seconds.

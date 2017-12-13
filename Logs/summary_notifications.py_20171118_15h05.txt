@@ -1,3 +1,0 @@
-
-Updating Notifications in SummaryDB for MIC: XLIS
-Script ran for 0.25 seconds.

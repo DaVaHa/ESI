@@ -1,3 +1,0 @@
-
-Updating Issuers in SummaryDB for MIC: XLIS
-Script ran for 0.44 seconds.

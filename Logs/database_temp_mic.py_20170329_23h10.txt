@@ -1,8 +1,0 @@
-
-Done.
-
-Creating databases for MIC: XAMS
-Here.
-Error: table RawSourceData already exists
-There.
-Error: table SourceData already exists

@@ -1,9 +1,0 @@
-
-Updating Issuers in SummaryDB for MIC: XBRU
-Script ran for 3.69 seconds.
-
-Updating Issuers in SummaryDB for MIC: XAMS
-Script ran for 5.21 seconds.
-
-Updating Issuers in SummaryDB for MIC: XPAR
-Script ran for 13.68 seconds.

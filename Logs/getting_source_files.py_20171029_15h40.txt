@@ -1,6 +1,0 @@
-Exception: list index out of range
-Exception: list index out of range
-Exception: list index out of range
-Exception: list index out of range
-Exception: list index out of range
-Exception: list index out of range

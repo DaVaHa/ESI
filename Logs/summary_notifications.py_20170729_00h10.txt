@@ -1,3 +1,0 @@
-
-Updating Notifications in SummaryDB for MIC: XBRU
-Script ran for 0.58 seconds.

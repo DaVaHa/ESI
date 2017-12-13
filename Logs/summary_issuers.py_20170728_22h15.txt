@@ -1,3 +1,0 @@
-
-Updating SummaryDB for MIC: XBRU
-Script ran for 3.27 seconds.

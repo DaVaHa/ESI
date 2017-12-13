@@ -1,9 +1,0 @@
-Deduplicating SourceData from XAMS.db ...
-Rows before: 5426
-Something went wrong with deduplicating record:
-('Daniel', 'Daniel', 0.0, 'Daniel')
-ERROR: ("name 'record_is_not_a_double' is not defined",)
-Rows deleted: 0
-
-Done.
-

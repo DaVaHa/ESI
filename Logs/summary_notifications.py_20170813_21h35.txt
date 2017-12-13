@@ -1,3 +1,0 @@
-
-Updating Notifications in SummaryDB for MIC: XPAR
-Script ran for 0.58 seconds.

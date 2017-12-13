@@ -1,3 +1,0 @@
-
-Updating Issuers in SummaryDB for MIC: XPAR
-Script ran for 11.17 seconds.

@@ -1,3 +1,0 @@
-
-Updating Notifications in SummaryDB for MIC: XAMS
-Script ran for 0.32 seconds.

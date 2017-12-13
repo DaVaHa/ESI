@@ -1,3 +1,0 @@
-Extracting raw source data: XBRU
-Checking updates from 20161024 and adding to XBRU.db...
-

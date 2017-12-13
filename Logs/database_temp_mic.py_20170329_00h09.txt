@@ -1,3 +1,0 @@
-Creating databases for MIC: XBRU
-temp_XBRU.db
-XBRU.db

@@ -1,4 +1,0 @@
-Creating Graphs for MIC: XAMS
-
-
-Script ran for 18.81 seconds.

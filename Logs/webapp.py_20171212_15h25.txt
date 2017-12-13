@@ -1,3 +1,0 @@
-
-No argument given, please provide MIC for creating the bokeh graphs.
-

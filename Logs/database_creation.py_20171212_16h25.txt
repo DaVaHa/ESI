@@ -1,7 +1,0 @@
-Creating database: ContactDB
-Error: near "FROM": syntax error
-Creating database: ContactDB
-Contact.db
-
-Done.
-

@@ -1,8 +1,0 @@
-Rows added: 8805
-
-=> ALL
-Rows added: 8894
-
-Done.
-
-Script ran for 4.58 seconds.

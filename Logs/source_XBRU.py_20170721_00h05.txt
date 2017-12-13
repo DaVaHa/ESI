@@ -1,5 +1,0 @@
-Loading Excel file...
-
-Importing worksheets:
-
-=> Archives

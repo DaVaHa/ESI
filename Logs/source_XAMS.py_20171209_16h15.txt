@@ -1,8 +1,0 @@
-Loading Excel file from AFM website...
-
-Importing worksheets:
-
-=> Actueel
-Rows added: 854
-
-=> Historie
