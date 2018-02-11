@@ -175,6 +175,99 @@ def StatsCurrentHighest():
     return render_template('statscurrent.html', graphs=graphs, notifs_dict=notifs_dict)
 
 
+@app.route('/stats/current-highest/xams')
+def StatsCurrentHighestXAMS():
+    con = lite.connect('SummaryDB.db')
+    cur = con.cursor()
+    cur.execute('''SELECT PRETTY_NAME, LATEST_INTEREST, GRAPH_NAME, ISSUER
+                   FROM Issuers
+                   WHERE DELETED = 0 and MIC = 'XAMS'
+                   ORDER BY LATEST_INTEREST DESC
+                   LIMIT 10;''')
+    graphs = [(g[0],g[1],g[2],g[3]) for g in cur.fetchall()]  #incl issuer for notifications (see below)
+
+    notifs_dict = {}
+    for g in graphs:
+        cur.execute('''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE
+                        FROM Latest_Notifications WHERE ISSUER = "{}" ORDER BY POSITION_DATE DESC;'''.format(g[3]))
+        data = [(d[0],d[1],d[2],d[3],d[4]) for d in cur.fetchall()]
+        notifs_dict[g[3]] = data
+
+    cur.close()
+    con.close()
+    return render_template('statscurrent.html', graphs=graphs, notifs_dict=notifs_dict)
+
+
+@app.route('/stats/current-highest/xbru')
+def StatsCurrentHighestXBRU():
+    con = lite.connect('SummaryDB.db')
+    cur = con.cursor()
+    cur.execute('''SELECT PRETTY_NAME, LATEST_INTEREST, GRAPH_NAME, ISSUER
+                   FROM Issuers
+                   WHERE DELETED = 0 and MIC = 'XBRU'
+                   ORDER BY LATEST_INTEREST DESC
+                   LIMIT 5;''')
+    graphs = [(g[0],g[1],g[2],g[3]) for g in cur.fetchall()]  #incl issuer for notifications (see below)
+
+    notifs_dict = {}
+    for g in graphs:
+        cur.execute('''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE
+                        FROM Latest_Notifications WHERE ISSUER = "{}" ORDER BY POSITION_DATE DESC;'''.format(g[3]))
+        data = [(d[0],d[1],d[2],d[3],d[4]) for d in cur.fetchall()]
+        notifs_dict[g[3]] = data
+
+    cur.close()
+    con.close()
+    return render_template('statscurrent.html', graphs=graphs, notifs_dict=notifs_dict)
+
+
+@app.route('/stats/current-highest/xpar')
+def StatsCurrentHighestXPAR():
+    con = lite.connect('SummaryDB.db')
+    cur = con.cursor()
+    cur.execute('''SELECT PRETTY_NAME, LATEST_INTEREST, GRAPH_NAME, ISSUER
+                   FROM Issuers
+                   WHERE DELETED = 0 and MIC = 'XPAR'
+                   ORDER BY LATEST_INTEREST DESC
+                   LIMIT 10;''')
+    graphs = [(g[0],g[1],g[2],g[3]) for g in cur.fetchall()]  #incl issuer for notifications (see below)
+
+    notifs_dict = {}
+    for g in graphs:
+        cur.execute('''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE
+                        FROM Latest_Notifications WHERE ISSUER = "{}" ORDER BY POSITION_DATE DESC;'''.format(g[3]))
+        data = [(d[0],d[1],d[2],d[3],d[4]) for d in cur.fetchall()]
+        notifs_dict[g[3]] = data
+
+    cur.close()
+    con.close()
+    return render_template('statscurrent.html', graphs=graphs, notifs_dict=notifs_dict)
+
+
+@app.route('/stats/current-highest/xlis')
+def StatsCurrentHighestXLIS():
+    con = lite.connect('SummaryDB.db')
+    cur = con.cursor()
+    cur.execute('''SELECT PRETTY_NAME, LATEST_INTEREST, GRAPH_NAME, ISSUER
+                   FROM Issuers
+                   WHERE DELETED = 0 and MIC = 'XLIS'
+                   ORDER BY LATEST_INTEREST DESC
+                   LIMIT 10;''')
+    graphs = [(g[0],g[1],g[2],g[3]) for g in cur.fetchall()]  #incl issuer for notifications (see below)
+
+    notifs_dict = {}
+    for g in graphs:
+        cur.execute('''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE
+                        FROM Latest_Notifications WHERE ISSUER = "{}" ORDER BY POSITION_DATE DESC;'''.format(g[3]))
+        data = [(d[0],d[1],d[2],d[3],d[4]) for d in cur.fetchall()]
+        notifs_dict[g[3]] = data
+
+    cur.close()
+    con.close()
+    return render_template('statscurrent.html', graphs=graphs, notifs_dict=notifs_dict)
+
+
+
 @app.route('/stats/one-month-rising/')
 def StatsRisingOneMonth():
     con = lite.connect('SummaryDB.db')
