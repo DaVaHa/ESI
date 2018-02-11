@@ -206,7 +206,7 @@ def StatsCurrentHighestXBRU():
                    FROM Issuers
                    WHERE DELETED = 0 and MIC = 'XBRU'
                    ORDER BY LATEST_INTEREST DESC
-                   LIMIT 5;''')
+                   LIMIT 10;''')
     graphs = [(g[0],g[1],g[2],g[3]) for g in cur.fetchall()]  #incl issuer for notifications (see below)
 
     notifs_dict = {}
