@@ -67,14 +67,16 @@ def Notifications():
         
         query = '''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE, MIC
                    FROM SourceData
-                   WHERE ISSUER LIKE "%{0}%" OR HOLDER LIKE "%{0}%" OR ISIN LIKE "%{0}%"
+                   WHERE (ISSUER LIKE "%{0}%" OR HOLDER LIKE "%{0}%" OR ISIN LIKE "%{0}%") AND COMMENT not like "%_%"
                    ORDER BY POSITION_DATE DESC
                    LIMIT 50;'''.format(name.upper())
         query_data = QueryDB(query, mic_db)
     
     else:
         query = '''SELECT * FROM SourceData
-                   ORDER BY POSITION_DATE DESC LIMIT 100;'''
+                   WHERE COMMENT not like "%_%"
+                   ORDER BY POSITION_DATE DESC
+                   LIMIT 100;'''
         query_data = QueryDB(query, 'XBRU.db')
         mic = 'XBRU'
     
