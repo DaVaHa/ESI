@@ -9,7 +9,36 @@ import __main__
 import numpy as np
 import sys
 import re
+import sqlite3 as lite
 
+# query a database
+def QueryDB(query, db):
+
+    con = lite.connect(db)
+    cur = con.cursor()
+
+    cur.execute(query)
+    data = cur.fetchall()
+
+    cur.close()
+    con.close()
+
+    return data
+
+
+# inserting data into database
+def InsertDB(query, db):
+
+    con = lite.connect(db)
+    cur = con.cursor()
+
+    cur.execute(query)
+    con.commit()
+
+    cur.close()
+    con.close()
+
+    
 
 # function to create timestamp-string: default yyyymmdd
 def TimeStamp(fmt_str="%Y%m%d", precision=1, back_months=0, back_days=0):

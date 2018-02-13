@@ -4,6 +4,7 @@
 
 	<script>$(function(){
 		$("#notifications").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		$("#{{ selection }}").prop('selected', "selected");
 		});
 	</script>
 		
@@ -13,11 +14,11 @@
 	
 	<!-- Search Bar -->
 	<form action="{{url_for('Notifications')}}" method='POST' style='text-align:center'>
-	  <input type='text' id="myInput" name='name' placeholder='Search Notifications on Holder, Issuer, ISIN ...'>
+	  <input type='text' id="myInput" name='name' placeholder='Search Notifications on Holder, Issuer, ISIN ...'  onchange="this.form.submit()">
 	</br>
-	<select style="height:30px; width:210px" name='myMic' id='myMic'>
+	<select style="height:30px; width:210px" name='myMic' id='myMic' onchange="this.form.submit()">
 	    {% for m in mics %}
-              <option value="{{ m.name[0] }}">{{ m.name[1] }}</option>
+              <option id="{{ m.name[0] }}" value="{{ m.name[0] }}">{{ m.name[1] }}</option>
             {% endfor %}
 	</select>
 	</form>

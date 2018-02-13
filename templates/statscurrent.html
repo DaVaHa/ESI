@@ -4,6 +4,7 @@
 	
 	<script>$(function(){
 		$("#stats").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		$("#{{ selection }}").prop('selected', "selected");
 		});
 	</script>
 		
@@ -11,11 +12,18 @@
 	</br>
 	<h1 align='center' class='titlehead'> Current Highest Short Interest </h1>
 	<p align='center'><u><a  href="{{url_for('Stats')}}">Back to overview</a></u></p>
-	<p align='center'><a href="{{url_for('StatsCurrentHighestXAMS')}}">XAMS</a>  -  
-			  <a href="{{url_for('StatsCurrentHighestXBRU')}}">XBRU</a>  -  
-			  <a href="{{url_for('StatsCurrentHighestXLIS')}}">XLIS</a>  -  
-			  <a href="{{url_for('StatsCurrentHighestXPAR')}}">XPAR</a>  -  
-			  <a href="{{url_for('StatsCurrentHighest')}}">ALL</a></p>
+
+
+	<!-- By Market -->
+	<form method='POST' style='text-align:center' > Market:
+	<select style="height:30px; width:210px;" name='myMic' id='myMic' onchange="this.form.submit()">
+	    {% for m in mics %}
+              <option id="{{ m.name[0] }}" value="{{ m.name[0] }}">{{ m.name[1] }}</option>
+            {% endfor %}
+	</select>
+	</form>
+	</br>
+
 
 	<!-- List all issuers  -->
 	<div style="text-align:center;">
