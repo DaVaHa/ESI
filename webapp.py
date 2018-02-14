@@ -60,26 +60,25 @@ def Notifications():
     if request.method == 'POST':
         
         mic = request.form['myMic']
-        mic_db = "{}.db".format(mic)
-        
         string = request.form['name']
         name = ''.join([i for i in string if i.isalnum()])
         
         query = '''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE, MIC
-                   FROM SourceData
+                   FROM {1}
                    WHERE (ISSUER LIKE "%{0}%" OR HOLDER LIKE "%{0}%" OR ISIN LIKE "%{0}%") AND (COMMENT not like '%_%' or COMMENT is null)
                    ORDER BY POSITION_DATE DESC
-                   LIMIT 50;'''.format(name.upper())
-        query_data = QueryDB(query, mic_db)
+                   LIMIT 50;'''.format(name.upper(), mic)
+        query_data = QueryDB(query, 'SummaryDB.db')
     
     else:
-        query = '''SELECT * FROM SourceData
+        mic = 'XBRU'
+        query = '''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE, MIC
+                   FROM {0}
                    WHERE COMMENT not like '%_%' or COMMENT is null
                    ORDER BY POSITION_DATE DESC
-                   LIMIT 100;'''
-        query_data = QueryDB(query, 'XBRU.db')
-        mic = 'XBRU'
-    
+                   LIMIT 50;'''.format(mic)
+        query_data = QueryDB(query, 'SummaryDB.db')
+
     return render_template('notifications.html', data=query_data, mics=mics, selection=mic)
 
 
