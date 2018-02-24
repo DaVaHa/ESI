@@ -65,7 +65,7 @@ def Notifications():
         
         query = '''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE, MIC
                    FROM {1}
-                   WHERE (ISSUER LIKE "%{0}%" OR HOLDER LIKE "%{0}%" OR ISIN LIKE "%{0}%") AND (COMMENT not like '%_%' or COMMENT is null)
+                   WHERE (ISSUER LIKE "%{0}%" OR HOLDER LIKE "%{0}%" OR ISIN LIKE "%{0}%") AND (COMMENT not like '%_%' or COMMENT is null or COMMENT like '%_PDF')
                    ORDER BY POSITION_DATE DESC
                    LIMIT 50;'''.format(name.upper(), mic)
         query_data = QueryDB(query, 'SummaryDB.db')
