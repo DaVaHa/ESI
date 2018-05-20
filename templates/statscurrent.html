@@ -3,9 +3,8 @@
 {% block content %}
 	
 	<script>$(function(){
-		$("#stats").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
-		$("#{{ selection }}").prop('selected', "selected");
-		});
+		$("#stats").css({"font-weight": "bold"});
+            });
 	</script>
 		
 	<!-- Text --> 
@@ -28,29 +27,33 @@
 	<!-- List all issuers  -->
 	<div style="text-align:center;">
 	{% for g in graphs %}
-		<div class="block"><p><u> {{g[0]}}</u>: {{g[1]}} % </br></p></div>
+		<div class="block"><u> {{g[0]}}</u>: {{'%0.2f'| format(g[1]|float)}}% </br></div>
 		<div class="showhide">
 		</br>
 		<img src="/static/graphs/{{g[2]}}" alt="{{g[0]}}" width="500">
 	   	</br></br>
 
 		<!-- Table -->
-		<table id="myTable" >
-
-	 	<tr class="heading">
-		<th style="width:25%;">Holder</th>
-		<th style="width:15%;">Issuer</th>
-		<th style="width:10%;">ISIN</th>
-		<th style="width:8%;">Short Interest</th>
-		<th style="width:10%;">Position Date</th></tr>
+		<div class="table-responsive">
+ 		<table class="table table-condensed table-bordered table-hover">
+  		<thead class="thead-light">
+ 		    <tr>
+			<th>Asset Manager</th>
+			<th>Company</th>
+			<th>ISIN</th>
+			<th>Short Interest</th>
+			<th>Date</th>
+  		    </tr>
+		</thead>
 	  
 		<!-- Data on HTML --> 
+		<tbody>	
 		{% if notifs_dict[g[3]] != []  %}
 			{% for d in notifs_dict[g[3]] %}
 				<tr><td>{{d[0]}}</td>
 				<td>{{d[1]}}</td>
 				<td>{{d[2]}}</td>
-				<td>{{d[3]}}</td>
+				<td>{{'%0.2f'| format(d[3]|float)}}%</td>
 				<td>{{d[4]}}</td></tr>
 			{% endfor %}
  		{% else %}
@@ -60,9 +63,9 @@
 			<td> - </td>
 			<td> - </td></tr>
 		{% endif %}
-
+		</tbody>	
 		</table>
-		</div>
+		</div></div>
 		</br>	
 	{% endfor %}
 

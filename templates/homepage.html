@@ -3,7 +3,7 @@
 {% block content %}
 	
 	<script>$(function(){
-		$("#homepage").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		$("#homepage").css({"font-weight": "bold"});
 		});
 	</script>
 		
@@ -13,42 +13,46 @@
 
 	<!-- Search Bar -->
 	</br>
-	<form action="{{url_for('HomePage')}}" method='POST' style='text-align:center'>
-	<input type='text' id="myInputLarge" size='40' name='name' placeholder='Search for Issuer ...'  onchange="this.form.submit()">
+	<form action="{{url_for('HomePage')}}" method='POST'>
+	<input type='text' class="search-bar" name='name' placeholder='Search Companies...' onchange="this.form.submit()">
 	</form>	
-	
+	</br>
 		
 	<!-- List all issuers  -->
 
 	<!-- Graphs --> 
 	<div style="text-align:center;">
 	{% if graphs != [] %}
-		<p style="text-align:center; font-style:italic;"> (Click on results to see graph and active notifications.) </p>
+		<p style="text-align:center; font-style:italic;"> (Click on results to see graph and active notifications.) </p></br>
 		{% for g in graphs %}
-			<div class="block"><p><u> {{g[0]}}</u>: {{g[1]}} % </p></div>
+			<div class="block"><u> {{g[0]}}</u>: {{'%0.2f'| format(g[1]|float)}}% </div>
+			
 			<div class="showhide">
 			</br>
 	   		<img src="/static/graphs/{{g[2]}}" alt="{{g[0]}}" width="500">
 	   		</br></br>
 
 			<!-- Table -->
-			<table id="myTable" >
-
-	 		<tr class="heading">
-			<th style="width:25%;">Holder</th>
-			<th style="width:15%;">Issuer</th>
-			<th style="width:10%;">ISIN</th>
-			<th style="width:8%;">Short Interest</th>
-			<th style="width:10%;">Position Date</th>
-	  		</tr>
-	  
+			<div class="table-responsive">
+	 		<table class="table table-condensed table-bordered table-hover">
+	  		<thead class="thead-light">
+	 		    <tr>
+				<th>Asset Manager</th>
+				<th>Company</th>
+				<th>ISIN</th>
+				<th>Short Interest</th>
+				<th>Date</th>
+	  		    </tr>
+			</thead>
+	  		
 			<!-- Data on HTML --> 
+			<tbody>			
 			{% if notifs_dict[g[3]] != []  %}
 			   {% for d in notifs_dict[g[3]] %}
 				<tr><td>{{d[0]}}</td>
 				<td>{{d[1]}}</td>
 				<td>{{d[2]}}</td>
-				<td>{{d[3]}}</td>
+				<td>{{'%0.2f'| format(d[3]|float)}}%</td>
 				<td>{{d[4]}}</td></tr>
 			   {% endfor %}
  			{% else %}
@@ -58,17 +62,18 @@
 				<td> - </td>
 				<td> - </td></tr>
 			{% endif %}
-
+			</tbody>
 			</table>
+			</div>
 			</div>	</br>
 		{% endfor %}
 	{% else %}
 
-		<p style="text-align:center"> No issuers found. Try again!</p>
+		<p style="text-align:center">No issuers found. Try again!</p>
 		</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 	{% endif %}
-
-	</div></br></br></br></br>
+	</br></br></br>
+	</div>
 
 {% endblock %}
 

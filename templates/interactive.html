@@ -3,7 +3,7 @@
 	{% block content %}
 	
 	<script>$(function(){
-		$("#interactive").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
+		$("#companies").css({"font-weight": "bold"});
             });
 	</script>
 	
@@ -14,31 +14,33 @@
 
 	
 	<!-- Search Bar -->
-	<form action="{{url_for('Interactive')}}" method='POST' style='text-align:center'>
-	<input type='text' id="myInput" size='40' name='name' placeholder='Search for Issuer ...'  onchange="this.form.submit()">
+	</br>
+	<form action="{{url_for('Interactive')}}" method='POST'>
+	<input type='text' class="search-bar" name='name' placeholder='Search for Issuer ...'  onchange="this.form.submit()">
 	</form>	
 	
 		
 	<!-- List all issuers  -->
 
 	<!-- Graphs --> 
-	<div style="text-align:center;">
+	<div class="center">
 
 	{% if graphs != [] %}
 		{% for g in graphs %}
 			</br>
-			<div class="block"><p><u> {{g[0]}}</u>: {{g[1]}} %</p></div>
+			<div class="block"><u>{{g[0]}}</u>: {{'%0.2f'| format(g[1]|float)}}%</div>
 			</br>
 			<!-- Interactive graph -->
-			<p align="center">
+			<p>
 			<embed type="text/html" src="/static/bokeh/{{g[2]}}" width="825px" height="525px">
 			</p>
-			</div>
+			</div> 
 			</br>
 		{% endfor %}
 	{% else %}
-		<p style="text-align:center"><i> (Search for exact name. Returns only one result.)</i></p>
-		</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+		</br>
+		<p class="center"><i> (Search for exact name. Returns only one result.)</i></p>
+		</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 	{% endif %}
 
 	</div>

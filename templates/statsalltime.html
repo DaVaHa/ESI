@@ -3,8 +3,8 @@
 {% block content %}
 
 	<script>$(function(){
-		$("#stats").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
-		});
+		$("#stats").css({"font-weight": "bold"});
+            });
 	</script>
 
 	<!-- Text --> 
@@ -16,7 +16,7 @@
 	<div style="text-align:center;">
 	{% for g in graphs %}
 	   <div class="block">	   
-	   <p> <u>{{g[0]}}</u>: {{g[1]}} % </p></div>
+	   <u>{{g[0]}}</u>: {{'%0.2f'| format(g[1]|float)}}% </div>
 	   <div class="showhide">
 	   </br>
 	   <img src="/static/graphs/{{g[2]}}" alt="{{g[0]}}" width="500">

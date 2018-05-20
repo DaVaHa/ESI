@@ -28,7 +28,7 @@ def HomePage():
                     FROM Issuers
                     WHERE DELETED = 0
                     ORDER BY LATEST_INTEREST DESC
-                    LIMIT 3;"""
+                    LIMIT 5;"""
         
     # same for if & else
     query_data = QueryDB(query, 'SummaryDB.db')
@@ -71,7 +71,7 @@ def Notifications():
         query_data = QueryDB(query, 'SummaryDB.db')
     
     else:
-        mic = 'XBRU'
+        mic = 'XAMS'
         query = '''SELECT HOLDER, ISSUER, ISIN, INTEREST, POSITION_DATE, MIC
                    FROM {0}
                    WHERE COMMENT not like '%_%' or COMMENT is null
@@ -264,8 +264,14 @@ def Contact():
         return render_template('contact.html', message='')
     
 
+@app.route('/terms/')
+def Terms():
+    
+    return render_template('terms.html')
+
+
 ## test
 if __name__ == "__main__":
     app.debug = True
-    app.run(host = '127.0.0.1', port = 6969)
+    app.run(host = '127.0.0.1', port = 9999)
 

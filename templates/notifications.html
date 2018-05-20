@@ -3,48 +3,59 @@
 {% block content %}
 
 	<script>$(function(){
-		$("#notifications").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
 		$("#{{ selection }}").prop('selected', "selected");
-		});
+		$("#myMic").css("width", "200px");
+		$("#notifications").css({"font-weight": "bold"});
+            });
 	</script>
 		
-	<!-- -->
+
+	<!-- Text -->
 	</br>
 	<h1 align='center' class='titlehead'>Short Interest Notifications</h1>
-	
-	<!-- Search Bar -->
-	<form action="{{url_for('Notifications')}}" method='POST' style='text-align:center'>
-	  <input type='text' id="myInput" name='name' placeholder='Search Notifications on Holder, Issuer, ISIN ...'  onchange="this.form.submit()">
 	</br>
-	<select style="height:30px; width:210px" name='myMic' id='myMic' onchange="this.form.submit()">
+
+	<!-- Search Bar -->
+	<form action="{{url_for('Notifications')}}" method='POST'>
+	<input type='text' class="search-bar" name='name' placeholder='Search Notifications...'  onchange="this.form.submit()">   	
+	</br></br>
+	
+	<select class="dropdown-mics" name='myMic' id='myMic' onchange="this.form.submit()">
 	    {% for m in mics %}
               <option id="{{ m.name[0] }}" value="{{ m.name[0] }}">{{ m.name[1] }}</option>
             {% endfor %}
 	</select>
 	</form>
+
 	</br>
 
 	<!-- Table -->
-	<table id="myTable" >
-	  <tr class="heading">
-		<th style="width:400px;">Holder</th>
-		<th style="width:250px;">Issuer</th>
-		<th style="width:125px;">ISIN</th>
-		<th style="width:125px;">Short Interest</th>
-		<th style="width:125px;">Position Date</th>
-		<th style="width:100px;">MIC</th>
-	  </tr>
-	  
-	<!-- Data on HTML --> 
-	{% for d in data %}
+	<div class="table-responsive">
+	 <table class="table table-condensed table-bordered table-hover">
+	  <thead class="thead-light">
+	    <tr>
+		<th>Asset Manager</th>
+		<th>Company</th>
+		<th>ISIN</th>
+		<th>Short Interest</th>
+		<th>Date</th>
+		<th>MIC</th>
+	   </tr>
+	  </thead>
+	
+	  <tbody>
+	     <!-- Data on HTML --> 
+	        {% for d in data %}
 		<tr><td>{{d[0]}}</td>
 		<td>{{d[1]}}</td>
 		<td>{{d[2]}}</td>
-		<td>{{d[3]}}</td>
+		<td>{{'%0.2f'| format(d[3]|float)}}%</td>
 		<td>{{d[4]}}</td>
 		<td>{{d[5]}}</td></tr>
-	{% endfor %}
-	</table>
+	        {% endfor %}
+	  <tbody>
+	 </table>
+	</div>
 	
-	
+
 {% endblock %}

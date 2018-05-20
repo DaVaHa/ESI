@@ -2,10 +2,10 @@
 
 {% block content %}
 
-<script>$(function(){
-	$("#stats").css({"background-color": "#426779","color": "white","font-weight": "bold", "border-radius": "35px"});
-});
-</script>
+	<script>$(function(){
+		$("#stats").css({"font-weight": "bold"});
+            });
+	</script>
 
 	
 <!-- Text --> 
@@ -15,12 +15,12 @@
 </br>
 	
 <!-- Links --> 
-<div class="block" style="width:500px;"><p><u><a href="{{url_for('StatsCurrentHighest')}}">Current Highest Short Interest </a></u></p></div></br> 
-<div class="block" style="width:500px;"><p><u><a href="{{url_for('StatsAllTimeHighest')}}">All Time Highest Short Interest</a></u></p></div></br> 
-<div class="block" style="width:500px;"><p><u><a href="{{url_for('StatsRisingOneMonth')}}">Strongest Rising Short Interest (One Month)</a></u></p></div></br> 
-<div class="block" style="width:500px;"><p><u><a href="{{url_for('StatsRisingThreeMonths')}}">Strongest Rising Short Interest (Three Months)</a></u></p></div></br> 
-<div class="block" style="width:500px;"><p><u><a href="{{url_for('StatsDecliningOneMonth')}}">Strongest Declining Short Interest (One Month)</a></u></p></div></br> 
-<div class="block" style="width:500px;"><p><u><a href="{{url_for('StatsDecliningThreeMonths')}}">Strongest Declining Short Interest (Three Months)</a></u></p></div></br> 
+<div class="block statslink"><u><a href="{{url_for('StatsCurrentHighest')}}">Current Highest Short Interest </a></u></div></br> 
+<div class="block statslink"><u><a href="{{url_for('StatsAllTimeHighest')}}">All Time Highest Short Interest</a></u></div></br> 
+<div class="block statslink"><u><a href="{{url_for('StatsRisingOneMonth')}}">Strongest Rising Short Interest (One Month)</a></u></div></br> 
+<div class="block statslink"><u><a href="{{url_for('StatsRisingThreeMonths')}}">Strongest Rising Short Interest (Three Months)</a></u></div></br> 
+<div class="block statslink"><u><a href="{{url_for('StatsDecliningOneMonth')}}">Strongest Declining Short Interest (One Month)</a></u></div></br> 
+<div class="block statslink"><u><a href="{{url_for('StatsDecliningThreeMonths')}}">Strongest Declining Short Interest (Three Months)</a></u></div></br> 
 
 </br></br></br></br>
 
